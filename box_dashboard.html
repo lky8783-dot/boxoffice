@@ -123,6 +123,12 @@
   .mc-key-val  { font-size: 0.88rem; font-weight: 700; color: var(--accent); }
   .mc-key-lbl  { font-size: 0.58rem; color: var(--muted); }
 
+  /* 별점 */
+  .mc-rating { display: flex; align-items: center; gap: 3px; font-size: 0.62rem; }
+  .mc-rating .stars { color: #f0a500; letter-spacing: -1px; font-size: 0.7rem; }
+  .mc-rating .score { color: var(--sub); font-weight: 700; }
+  .mc-rating .lbl   { color: var(--muted); }
+
   /* ── 하단 메타: 개봉일 ── */
   .mc-meta { border-top: 1px solid var(--border); padding-top: 5px; }
   .mc-meta-row { font-size: 0.6rem; color: var(--muted); }
@@ -184,6 +190,12 @@
     transition: background .15s;
   }
   .modal-close:hover { background: #30363d; color: var(--text); }
+
+  /* 모달 별점 */
+  .modal-rating { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+  .modal-rating .stars { color: #f0a500; font-size: 1rem; letter-spacing: -1px; }
+  .modal-rating .score { font-size: 1.1rem; font-weight: 800; color: #f0c040; }
+  .modal-rating .lbl   { font-size: 0.68rem; color: var(--muted); }
 
   /* 모달 본문 */
   .modal-body { padding: 14px 16px 18px; display: flex; flex-direction: column; gap: 14px; }
@@ -303,6 +315,19 @@ function fmtBannerDate(s) {
   return `${s.slice(0,4)}년 ${parseInt(s.slice(4,6))}월 ${parseInt(s.slice(6,8))}일`;
 }
 
+function renderStars(score) {
+  const n = parseFloat(score);
+  if (!n) return '';
+  const s = n / 2; // 10점 → 5점 환산
+  let html = '';
+  for (let i = 1; i <= 5; i++) {
+    if (s >= i - 0.25)       html += '★';
+    else if (s >= i - 0.75)  html += '⭑'; // 반별
+    else                     html += '☆';
+  }
+  return html;
+}
+
 function changeBadge(inten, isNew) {
   if (isNew === 'NEW') return `<span class="mc-change new">NEW</span>`;
   const n = Number(inten);
@@ -346,6 +371,12 @@ function movieCardHTML(m, maxShare, idx) {
         <span class="mc-key-val">${fmtAudi(m.audiCnt)}</span>
         <span class="mc-key-lbl">오늘 관객</span>
       </div>
+      ${m.naver_rating ? `
+      <div class="mc-rating">
+        <span class="stars">${renderStars(m.naver_rating)}</span>
+        <span class="score">${m.naver_rating}</span>
+        <span class="lbl">/ 10</span>
+      </div>` : ''}
       <div class="mc-meta">
         <div class="mc-meta-row">개봉 <span class="val">${fmtDate(m.openDt)}</span></div>
       </div>
@@ -382,6 +413,21 @@ function openModal(idx) {
   (m.nations || []).forEach(n => badges.push(n));
   document.getElementById('modal-badges').innerHTML =
     badges.map(b => `<span class="modal-badge">${b}</span>`).join('');
+
+  // 별점
+  const ratingEl = document.createElement('div');
+  if (m.naver_rating) {
+    ratingEl.className = 'modal-rating';
+    ratingEl.innerHTML = `
+      <span class="stars">${renderStars(m.naver_rating)}</span>
+      <span class="score">${m.naver_rating}</span>
+      <span class="lbl">/ 10 &nbsp;실관람객 평점</span>`;
+    document.getElementById('modal-badges').after(ratingEl);
+  } else {
+    // 이전에 추가된 rating 제거
+    const prev = document.querySelector('.modal-rating');
+    if (prev) prev.remove();
+  }
 
   // 점유율 바
   document.getElementById('modal-bar').innerHTML = `

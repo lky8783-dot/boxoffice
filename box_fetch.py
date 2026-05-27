@@ -78,11 +78,12 @@ def fetch_naver_details(titles: list, cached: dict) -> dict:
     search.naver.com 지식패널에서 영화별 포스터 URL + 줄거리 수집.
     반환: { 영화명: {poster_url, synopsis} }
     """
-    # 포스터 OR 줄거리가 없으면 다시 수집
+    # 포스터 OR 줄거리 OR 평점 없으면 다시 수집
     missing = [t for t in titles
                if t not in cached
                or not cached[t].get('poster_url')
-               or not cached[t].get('synopsis')]
+               or not cached[t].get('synopsis')
+               or 'naver_rating' not in cached[t]]
     if not missing:
         print('[Naver] 모두 캐시됨')
         return cached
@@ -121,8 +122,10 @@ def fetch_naver_details(titles: list, cached: dict) -> dict:
             for title in missing:
                 cached_poster  = (cached.get(title) or {}).get('poster_url', '')
                 cached_syn     = (cached.get(title) or {}).get('synopsis', '')
-                poster  = running_map.get(title, cached_poster)
-                synopsis = cached_syn
+                cached_rating  = (cached.get(title) or {}).get('naver_rating', '')
+                poster       = running_map.get(title, cached_poster)
+                synopsis     = cached_syn
+                naver_rating = cached_rating
 
                 # ② 네이버 영화 검색 — alt 일치 확인 후 포스터 (오인식 방지)
                 if not poster:
@@ -152,7 +155,7 @@ def fetch_naver_details(titles: list, cached: dict) -> dict:
                     except Exception as e:
                         print(f'[Naver Movie] {title}: {e}')
 
-                # ③ 네이버 통합검색 — 줄거리만 수집 (포스터 fallback 제거)
+                # ③ 네이버 통합검색 — 줄거리 + 별점 수집
                 try:
                     q = urllib.parse.quote(title + ' 영화')
                     page.goto(f'https://search.naver.com/search.naver?where=nexearch&query={q}',
@@ -161,20 +164,35 @@ def fetch_naver_details(titles: list, cached: dict) -> dict:
 
                     data = page.evaluate('''() => {
                         const syn = document.querySelector(".desc");
+                        // 실관람객 평점 우선, 없으면 네티즌 평점
+                        // area_star_number 는 <span>8.11<span class="area_star_total_number">10</span></span> 구조
+                        const r1 = document.querySelector(".area_star_number");
+                        const r2 = document.querySelector(".this_text_bold");
+                        let rating = "";
+                        if (r1) {
+                            // 첫 번째 텍스트 노드만 (자식 span 제외)
+                            const tn = [...r1.childNodes].find(n => n.nodeType === 3);
+                            rating = tn ? tn.textContent.trim() : r1.textContent.replace(/10$/, "").trim();
+                        } else if (r2) {
+                            rating = r2.textContent.replace(/[^\\d.]/g, "").trim();
+                        }
                         return {
-                            synopsis: syn ? syn.textContent.trim().slice(0, 300) : ""
+                            synopsis: syn ? syn.textContent.trim().slice(0, 300) : "",
+                            naver_rating: rating
                         };
                     }''')
 
                     if data.get('synopsis'):
                         synopsis = data['synopsis']
+                    if data.get('naver_rating'):
+                        naver_rating = data['naver_rating']
 
                 except Exception as e:
                     print(f'[Naver] {title} 검색 오류: {e}')
 
-                result[title] = {'poster_url': poster, 'synopsis': synopsis}
+                result[title] = {'poster_url': poster, 'synopsis': synopsis, 'naver_rating': naver_rating}
                 status = '✓' if poster else '✗'
-                print(f'[Naver] {status} {title}  syn={len(synopsis)}자')
+                print(f'[Naver] {status} {title}  syn={len(synopsis)}자  rating={naver_rating}')
 
             browser.close()
 
@@ -190,8 +208,9 @@ def enrich_movies(movies: list, naver_map: dict, info_cache: dict) -> None:
     for m in movies:
         title   = m['movieNm']
         nav     = naver_map.get(title, {})
-        m['poster_url'] = nav.get('poster_url', '')
-        m['synopsis']   = nav.get('synopsis', '')
+        m['poster_url']   = nav.get('poster_url', '')
+        m['synopsis']     = nav.get('synopsis', '')
+        m['naver_rating'] = nav.get('naver_rating', '')
 
         movie_cd = m.get('movieCd', '')
         if movie_cd:
@@ -231,8 +250,9 @@ def main():
             t = m.get('movieNm', '')
             if t:
                 naver_cache[t] = {
-                    'poster_url': m.get('poster_url', ''),
-                    'synopsis':   m.get('synopsis',   ''),
+                    'poster_url':   m.get('poster_url', ''),
+                    'synopsis':     m.get('synopsis',   ''),
+                    'naver_rating': m.get('naver_rating', ''),
                 }
             cd = m.get('movieCd', '')
             if cd and m.get('directors') is not None:

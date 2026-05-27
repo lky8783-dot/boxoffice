@@ -43,7 +43,8 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "122",
-      "movieNmEn": "COLONY"
+      "movieNmEn": "COLONY",
+      "naver_rating": "8.11"
     },
     {
       "rnum": "2",
@@ -84,7 +85,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "127",
-      "movieNmEn": "Michael"
+      "movieNmEn": "Michael",
+      "naver_rating": "8.75"
     },
     {
       "rnum": "3",
@@ -124,7 +126,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "118",
-      "movieNmEn": "The Devil Wears Prada 2"
+      "movieNmEn": "The Devil Wears Prada 2",
+      "naver_rating": "8.97"
     },
     {
       "rnum": "4",
@@ -163,7 +166,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "100",
-      "movieNmEn": "Nirvanna the Band the Show the Movie"
+      "movieNmEn": "Nirvanna the Band the Show the Movie",
+      "naver_rating": ""
     },
     {
       "rnum": "5",
@@ -205,7 +209,8 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "95",
-      "movieNmEn": "Salmokji : Whispering Water"
+      "movieNmEn": "Salmokji : Whispering Water",
+      "naver_rating": "8.27"
     },
     {
       "rnum": "6",
@@ -243,7 +248,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "156",
-      "movieNmEn": "PROJECT HAIL MARY"
+      "movieNmEn": "PROJECT HAIL MARY",
+      "naver_rating": "9.20"
     },
     {
       "rnum": "7",
@@ -280,7 +286,8 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "124",
-      "movieNmEn": "Gintama: Yoshiwara in Flames"
+      "movieNmEn": "Gintama: Yoshiwara in Flames",
+      "naver_rating": "9.76"
     },
     {
       "rnum": "8",
@@ -322,7 +329,8 @@
       ],
       "rating": "전체관람가",
       "runtime": "98",
-      "movieNmEn": "THE SUPER MARIO GALAXY MOVIE"
+      "movieNmEn": "THE SUPER MARIO GALAXY MOVIE",
+      "naver_rating": "7.98"
     },
     {
       "rnum": "9",
@@ -364,7 +372,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "116",
-      "movieNmEn": "The King's Warden"
+      "movieNmEn": "The King's Warden",
+      "naver_rating": "8.87"
     },
     {
       "rnum": "10",
@@ -399,7 +408,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "113",
-      "movieNmEn": "The Longest Night: Namtaeryeong"
+      "movieNmEn": "The Longest Night: Namtaeryeong",
+      "naver_rating": "6.80"
     }
   ],
   "weekly": [
@@ -443,7 +453,8 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "122",
-      "movieNmEn": "COLONY"
+      "movieNmEn": "COLONY",
+      "naver_rating": "8.11"
     },
     {
       "rnum": "2",
@@ -484,7 +495,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "127",
-      "movieNmEn": "Michael"
+      "movieNmEn": "Michael",
+      "naver_rating": "8.75"
     },
     {
       "rnum": "3",
@@ -524,7 +536,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "118",
-      "movieNmEn": "The Devil Wears Prada 2"
+      "movieNmEn": "The Devil Wears Prada 2",
+      "naver_rating": "8.97"
     },
     {
       "rnum": "4",
@@ -566,7 +579,8 @@
       ],
       "rating": "전체관람가",
       "runtime": "98",
-      "movieNmEn": "THE SUPER MARIO GALAXY MOVIE"
+      "movieNmEn": "THE SUPER MARIO GALAXY MOVIE",
+      "naver_rating": "7.98"
     },
     {
       "rnum": "5",
@@ -608,7 +622,8 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "95",
-      "movieNmEn": "Salmokji : Whispering Water"
+      "movieNmEn": "Salmokji : Whispering Water",
+      "naver_rating": "8.27"
     },
     {
       "rnum": "6",
@@ -645,7 +660,8 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "124",
-      "movieNmEn": "Gintama: Yoshiwara in Flames"
+      "movieNmEn": "Gintama: Yoshiwara in Flames",
+      "naver_rating": "9.76"
     },
     {
       "rnum": "7",
@@ -683,7 +699,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "156",
-      "movieNmEn": "PROJECT HAIL MARY"
+      "movieNmEn": "PROJECT HAIL MARY",
+      "naver_rating": "9.20"
     },
     {
       "rnum": "8",
@@ -722,7 +739,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "100",
-      "movieNmEn": "Nirvanna the Band the Show the Movie"
+      "movieNmEn": "Nirvanna the Band the Show the Movie",
+      "naver_rating": ""
     },
     {
       "rnum": "9",
@@ -764,7 +782,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "116",
-      "movieNmEn": "The King's Warden"
+      "movieNmEn": "The King's Warden",
+      "naver_rating": "8.87"
     },
     {
       "rnum": "10",
@@ -802,7 +821,8 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "101",
-      "movieNmEn": "The Dangers in My Heart: The Movie"
+      "movieNmEn": "The Dangers in My Heart: The Movie",
+      "naver_rating": "9.00"
     }
   ]
 }
