@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1200px; height: 630px; overflow: hidden;
+    background: #0d1117;
+    font-family: -apple-system, 'Malgun Gothic', 'Noto Sans KR', sans-serif;
+    position: relative;
+  }
+
+  /* 배경 글로우 */
+  .glow-l {
+    position: absolute; width: 500px; height: 500px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(88,166,255,.18) 0%, transparent 70%);
+    top: -100px; left: -80px; pointer-events: none;
+  }
+  .glow-r {
+    position: absolute; width: 400px; height: 400px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(255,215,0,.10) 0%, transparent 70%);
+    bottom: -80px; right: 100px; pointer-events: none;
+  }
+
+  /* 그리드 라인 */
+  .grid-lines {
+    position: absolute; inset: 0; pointer-events: none;
+    background-image:
+      linear-gradient(rgba(88,166,255,.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(88,166,255,.04) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+
+  /* 레이아웃 */
+  .outer {
+    position: relative; z-index: 1;
+    width: 100%; height: 100%;
+    display: flex; align-items: center;
+    padding: 0 72px;
+    gap: 60px;
+  }
+
+  /* 왼쪽 텍스트 */
+  .left { flex: 1; min-width: 0; }
+
+  .badge-row { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
+  .badge-live {
+    display: flex; align-items: center; gap: 6px;
+    background: rgba(63,185,80,.15); border: 1px solid rgba(63,185,80,.35);
+    color: #3fb950; font-size: 13px; font-weight: 700;
+    padding: 5px 12px; border-radius: 20px; letter-spacing: .04em;
+  }
+  .badge-live .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: #3fb950;
+    box-shadow: 0 0 6px #3fb950;
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+  .badge-kobis {
+    font-size: 12px; color: #8b949e;
+    background: rgba(33,38,45,.8); border: 1px solid #21262d;
+    padding: 5px 10px; border-radius: 6px; font-weight: 600;
+  }
+
+  .main-title {
+    font-size: 68px; font-weight: 900; line-height: 1.1;
+    color: #e6edf3; margin-bottom: 6px; letter-spacing: -.02em;
+  }
+  .main-title .accent { color: #58a6ff; }
+  .main-title .top { color: #ffd700; }
+
+  .sub-title {
+    font-size: 22px; color: #8b949e; margin-bottom: 28px;
+    font-weight: 400; letter-spacing: .01em;
+  }
+  .sub-title strong { color: #c9d1d9; font-weight: 600; }
+
+  .feature-row { display: flex; gap: 10px; flex-wrap: wrap; }
+  .feat {
+    background: #161b22; border: 1px solid #21262d;
+    border-radius: 8px; padding: 8px 14px;
+    font-size: 13px; color: #8b949e; font-weight: 600;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .feat .ico { font-size: 15px; }
+
+  /* 오른쪽 랭킹 카드들 */
+  .right {
+    flex-shrink: 0; display: flex; flex-direction: column;
+    gap: 10px; width: 310px;
+  }
+
+  .rank-card {
+    background: #161b22; border: 1px solid #21262d;
+    border-radius: 12px; padding: 14px 16px;
+    display: flex; align-items: center; gap: 14px;
+    position: relative; overflow: hidden;
+  }
+  .rank-card.r1 { border-color: rgba(255,215,0,.35); background: linear-gradient(135deg, #1a1500 0%, #161b22 60%); }
+  .rank-card.r2 { border-color: rgba(192,192,192,.2); }
+  .rank-card.r3 { border-color: rgba(205,127,50,.2); }
+
+  .rank-num {
+    width: 34px; height: 34px; border-radius: 9px; flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 15px; font-weight: 900;
+  }
+  .rank-num.r1 { background: rgba(74,57,0,.9);  color: #ffd700; border: 1px solid rgba(90,74,16,.8); }
+  .rank-num.r2 { background: rgba(42,47,53,.9); color: #c0c0c0; border: 1px solid rgba(58,69,80,.8); }
+  .rank-num.r3 { background: rgba(58,32,16,.9); color: #cd7f32; border: 1px solid rgba(90,48,32,.8); }
+  .rank-num.rn { background: rgba(13,17,23,.9); color: #8b949e; border: 1px solid #21262d; }
+
+  .rank-info { flex: 1; min-width: 0; }
+  .rank-title {
+    font-size: 15px; font-weight: 700; color: #e6edf3;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    margin-bottom: 4px;
+  }
+  .rank-bar-bg { height: 3px; background: #21262d; border-radius: 2px; overflow: hidden; margin-bottom: 3px; }
+  .rank-bar-fill { height: 100%; border-radius: 2px; }
+  .rank-bar-fill.r1 { background: linear-gradient(90deg, #ffd700, #f0a500); }
+  .rank-bar-fill.r2 { background: linear-gradient(90deg, #58a6ff, #1f6feb); }
+  .rank-bar-fill.r3 { background: linear-gradient(90deg, #58a6ff, #1f6feb); }
+  .rank-bar-fill.rn { background: linear-gradient(90deg, #58a6ff, #1f6feb); }
+  .rank-meta { font-size: 11px; color: #484f58; display: flex; gap: 8px; }
+  .rank-meta .v { color: #8b949e; }
+
+  .rank-audi { flex-shrink: 0; text-align: right; }
+  .rank-audi-val { font-size: 14px; font-weight: 700; color: #58a6ff; }
+  .rank-audi-lbl { font-size: 10px; color: #484f58; }
+
+  /* 하단 바 */
+  .bottom-bar {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(90deg, #161b22 0%, #0d1117 100%);
+    border-top: 1px solid #21262d;
+    padding: 12px 72px;
+    display: flex; align-items: center; justify-content: space-between;
+    z-index: 2;
+  }
+  .bottom-bar .left-text { font-size: 13px; color: #8b949e; }
+  .bottom-bar .left-text strong { color: #58a6ff; }
+  .bottom-bar .url { font-size: 12px; color: #484f58; font-family: monospace; }
+</style>
+</head>
+<body>
+
+<div class="glow-l"></div>
+<div class="glow-r"></div>
+<div class="grid-lines"></div>
+
+<div class="outer">
+
+  <!-- 왼쪽 -->
+  <div class="left">
+    <div class="badge-row">
+      <div class="badge-live"><span class="dot"></span>LIVE</div>
+      <div class="badge-kobis">KOBIS 영화진흥위원회</div>
+    </div>
+
+    <div class="main-title">
+      <span class="accent">박스오피스</span><br>
+      순위 <span class="top">TOP10</span>
+    </div>
+    <div class="sub-title">
+      <strong>일별 · 주간</strong> 영화 관객수 실시간
+    </div>
+
+    <div class="feature-row">
+      <div class="feat"><span class="ico">🎬</span>포스터</div>
+      <div class="feat"><span class="ico">📖</span>줄거리</div>
+      <div class="feat"><span class="ico">🎬</span>감독·배우</div>
+      <div class="feat"><span class="ico">🔄</span>매일 자동 업데이트</div>
+    </div>
+  </div>
+
+  <!-- 오른쪽 랭킹 -->
+  <div class="right">
+    <div class="rank-card r1">
+      <div class="rank-num r1">1</div>
+      <div class="rank-info">
+        <div class="rank-title">군체</div>
+        <div class="rank-bar-bg"><div class="rank-bar-fill r1" style="width:77%"></div></div>
+        <div class="rank-meta">매출 점유율 <span class="v">76.7%</span></div>
+      </div>
+      <div class="rank-audi">
+        <div class="rank-audi-val">15.0만</div>
+        <div class="rank-audi-lbl">오늘 관객</div>
+      </div>
+    </div>
+
+    <div class="rank-card r2">
+      <div class="rank-num r2">2</div>
+      <div class="rank-info">
+        <div class="rank-title">마이클</div>
+        <div class="rank-bar-bg"><div class="rank-bar-fill r2" style="width:38%"></div></div>
+        <div class="rank-meta">매출 점유율 <span class="v">—</span></div>
+      </div>
+      <div class="rank-audi">
+        <div class="rank-audi-val">—</div>
+        <div class="rank-audi-lbl">오늘 관객</div>
+      </div>
+    </div>
+
+    <div class="rank-card r3">
+      <div class="rank-num r3">3</div>
+      <div class="rank-info">
+        <div class="rank-title">프로젝트 헤일메리</div>
+        <div class="rank-bar-bg"><div class="rank-bar-fill r3" style="width:22%"></div></div>
+        <div class="rank-meta">매출 점유율 <span class="v">—</span></div>
+      </div>
+      <div class="rank-audi">
+        <div class="rank-audi-val">—</div>
+        <div class="rank-audi-lbl">오늘 관객</div>
+      </div>
+    </div>
+
+    <div class="rank-card">
+      <div class="rank-num rn">4</div>
+      <div class="rank-info">
+        <div class="rank-title" style="color:#8b949e">+ 7편 더보기</div>
+        <div class="rank-bar-bg"><div class="rank-bar-fill rn" style="width:10%"></div></div>
+        <div class="rank-meta">클릭하면 <span class="v">상세 정보</span></div>
+      </div>
+      <div class="rank-audi">
+        <div class="rank-audi-val" style="color:#484f58">TOP10</div>
+        <div class="rank-audi-lbl">전체보기</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- 하단 바 -->
+<div class="bottom-bar">
+  <span class="left-text">영화 클릭 시 <strong>포스터 · 줄거리 · 감독 · 배우 · 누적관객 · 매출</strong> 상세 팝업</span>
+  <span class="url">lky8783-dot.github.io/boxoffice</span>
+</div>
+
+</body>
+</html>
