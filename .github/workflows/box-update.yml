@@ -19,6 +19,12 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: 의존성 설치
+        run: pip install playwright
+
+      - name: Playwright Chromium 설치
+        run: playwright install chromium --with-deps
+
       - name: 박스오피스 데이터 수집
         env:
           KOBIS_KEY: ${{ secrets.KOBIS_KEY }}
