@@ -1,0 +1,34 @@
+name: 박스오피스 데이터 업데이트
+
+on:
+  schedule:
+    # 매일 오전 9시 KST (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-boxoffice:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 박스오피스 데이터 수집
+        env:
+          KOBIS_KEY: ${{ secrets.KOBIS_KEY }}
+        run: python box_fetch.py
+
+      - name: 변경 시 커밋 & 푸시
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add box_data.json
+          git diff --staged --quiet && echo "변경 없음" && exit 0
+          git commit -m "chore: boxoffice data $(TZ=Asia/Seoul date +'%m/%d %H:%M KST')"
+          git push
