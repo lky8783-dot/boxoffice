@@ -124,32 +124,35 @@ def fetch_naver_details(titles: list, cached: dict) -> dict:
                 poster  = running_map.get(title, cached_poster)
                 synopsis = cached_syn
 
-                # ② 네이버 영화 검색 — 포스터가 없을 때 movie.naver.com에서 정확히 찾기
+                # ② 네이버 영화 검색 — alt 일치 확인 후 포스터 (오인식 방지)
                 if not poster:
                     try:
                         q_title = urllib.parse.quote(title)
                         page.goto(f'https://movie.naver.com/movie/search/result.naver?query={q_title}',
-                                  wait_until='domcontentloaded', timeout=15000)
-                        page.wait_for_timeout(700)
-                        mv_poster = page.evaluate('''() => {
-                            // 첫 번째 검색 결과 썸네일 우선
-                            const thumb = document.querySelector(".thumb img[src*=\'pstatic\']");
-                            if (thumb) return thumb.src;
-                            // size= 패턴으로 세로형
-                            const imgs = [...document.querySelectorAll("img[src*=\'pstatic\']")];
-                            const portrait = imgs.find(i => {
-                                const m = i.src.match(/size=(\\d+)x(\\d+)/);
-                                return m && parseInt(m[1]) < parseInt(m[2]);
-                            });
-                            return portrait ? portrait.src : "";
-                        }''')
+                                  wait_until='networkidle', timeout=20000)
+                        page.wait_for_timeout(800)
+                        mv_poster = page.evaluate('''(targetTitle) => {
+                            const imgs = [...document.querySelectorAll("img[src*=\'pstatic\']")].filter(i =>
+                                i.alt && i.alt.length > 1 &&
+                                !i.alt.includes("N페이") && !i.alt.includes("이벤트")
+                            );
+                            // alt 텍스트가 영화 제목과 일치해야만 사용 (추천/광고 포스터 방지)
+                            const matched = imgs.find(i =>
+                                targetTitle.startsWith(i.alt) ||
+                                i.alt === targetTitle ||
+                                (i.alt.length >= 3 && targetTitle.includes(i.alt))
+                            );
+                            return matched ? matched.src : "";
+                        }''', title)
                         if mv_poster:
                             poster = mv_poster
-                            print(f'[Naver Movie] ✓ {title}')
+                            print(f'[Naver Movie] matched: {title}')
+                        else:
+                            print(f'[Naver Movie] no match: {title}')
                     except Exception as e:
                         print(f'[Naver Movie] {title}: {e}')
 
-                # ③ 네이버 통합검색 — 줄거리 수집 (+ 포스터 최후 보정)
+                # ③ 네이버 통합검색 — 줄거리만 수집 (포스터 fallback 제거)
                 try:
                     q = urllib.parse.quote(title + ' 영화')
                     page.goto(f'https://search.naver.com/search.naver?where=nexearch&query={q}',
@@ -158,27 +161,13 @@ def fetch_naver_details(titles: list, cached: dict) -> dict:
 
                     data = page.evaluate('''() => {
                         const syn = document.querySelector(".desc");
-                        // 포스터 최후 수단: size= 세로형만 (광고·배너 제외)
-                        const imgs = [...document.querySelectorAll("img")].filter(i =>
-                            i.src.includes("pstatic") &&
-                            !i.src.includes("promo") && !i.src.includes("banner") &&
-                            !i.src.includes("static/common/gnb") &&
-                            i.alt !== "N페이"
-                        );
-                        const portrait = imgs.find(i => {
-                            const m = i.src.match(/size=(\\d+)x(\\d+)/);
-                            return m && parseInt(m[1]) < parseInt(m[2]);
-                        });
                         return {
-                            synopsis: syn ? syn.textContent.trim().slice(0, 300) : "",
-                            poster:   portrait ? portrait.src : ""
+                            synopsis: syn ? syn.textContent.trim().slice(0, 300) : ""
                         };
                     }''')
 
                     if data.get('synopsis'):
                         synopsis = data['synopsis']
-                    if not poster and data.get('poster'):
-                        poster = data['poster']
 
                 except Exception as e:
                     print(f'[Naver] {title} 검색 오류: {e}')
