@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ══ SEO 핵심 태그 ══ -->
+<title>오늘 박스오피스 순위 TOP10 — 일별·주간 영화 관객수 실시간 집계</title>
+<meta name="description"
+  content="오늘 박스오피스 1위부터 10위까지 일별·주간 관객수 순위를 실시간으로 확인하세요. KOBIS 공식 데이터 기반 매일 자동 업데이트. 포스터·줄거리·감독·배우 상세 정보 제공.">
+<meta name="keywords"
+  content="박스오피스, 박스오피스순위, 오늘박스오피스, 영화순위, 영화관객수, 주간박스오피스, 한국영화순위, 현재상영영화, 영화추천, 박스오피스TOP10">
+
+<!-- Open Graph (카카오·네이버 공유 미리보기) -->
+<meta property="og:type"        content="article">
+<meta property="og:title"       content="오늘 박스오피스 순위 TOP10 — 일별·주간 영화 관객수 실시간">
+<meta property="og:description" content="KOBIS 공식 데이터 기반, 매일 자동 업데이트되는 박스오피스 순위. 포스터·줄거리·감독 정보까지 한눈에.">
+<meta property="og:url"         content="https://lky8783-dot.github.io/boxoffice/box_dashboard.html">
+<meta property="og:image"       content="https://lky8783-dot.github.io/boxoffice/og_thumb.png">
+
+<!-- Twitter Card -->
+<meta name="twitter:card"        content="summary_large_image">
+<meta name="twitter:title"       content="오늘 박스오피스 순위 TOP10">
+<meta name="twitter:description" content="일별·주간 관객수 TOP10, 포스터·줄거리 포함 실시간 박스오피스">
+
+<style>
+  :root {
+    --bg: #f8f9fa; --text: #1a1a2e; --sub: #4a4a68;
+    --accent: #4361ee; --card: #ffffff; --border: #e0e0ee;
+    --tag-bg: #eef1ff; --tag-color: #4361ee;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: -apple-system, 'Malgun Gothic', 'Noto Sans KR', sans-serif;
+    line-height: 1.7; font-size: 16px;
+  }
+
+  .post-wrap { max-width: 720px; margin: 0 auto; padding: 36px 20px 60px; }
+
+  /* ── 제목 영역 ── */
+  .post-kicker {
+    font-size: 0.78rem; font-weight: 700; color: var(--accent);
+    letter-spacing: .08em; text-transform: uppercase; margin-bottom: 10px;
+  }
+  .post-title {
+    font-size: 1.75rem; font-weight: 800; line-height: 1.3;
+    color: var(--text); margin-bottom: 10px; word-break: keep-all;
+  }
+  .post-subtitle {
+    font-size: 1rem; color: var(--sub); margin-bottom: 16px; word-break: keep-all;
+  }
+  .post-meta {
+    display: flex; align-items: center; gap: 12px;
+    font-size: 0.78rem; color: #999; border-bottom: 2px solid var(--border);
+    padding-bottom: 16px; margin-bottom: 24px;
+  }
+  .post-meta-dot { color: var(--border); }
+
+  /* ── 태그 ── */
+  .tags { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 28px; }
+  .tag {
+    background: var(--tag-bg); color: var(--tag-color);
+    font-size: 0.75rem; font-weight: 600;
+    padding: 4px 10px; border-radius: 20px; border: 1px solid #ccd3ff;
+    text-decoration: none;
+  }
+
+  /* ── 본문 ── */
+  .post-body { color: var(--sub); font-size: 0.97rem; word-break: keep-all; margin-bottom: 28px; }
+  .post-body p { margin-bottom: 1em; }
+  .post-body strong { color: var(--text); }
+
+  /* ── 대시보드 iframe ── */
+  .dashboard-wrap {
+    border: 1px solid var(--border); border-radius: 14px;
+    overflow: hidden; margin: 28px 0;
+    box-shadow: 0 4px 24px rgba(67,97,238,.08);
+  }
+  .dashboard-wrap iframe {
+    width: 100%; height: 700px;
+    border: none; display: block;
+  }
+  .dashboard-caption {
+    background: var(--card); border-top: 1px solid var(--border);
+    padding: 10px 16px; font-size: 0.75rem; color: #999;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .dashboard-caption a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .dashboard-caption a:hover { text-decoration: underline; }
+
+  /* ── 사용법 박스 ── */
+  .how-box {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 10px; padding: 18px 20px; margin: 24px 0;
+  }
+  .how-box h3 { font-size: 0.95rem; font-weight: 700; margin-bottom: 10px; color: var(--text); }
+  .how-box ul { padding-left: 18px; font-size: 0.88rem; color: var(--sub); }
+  .how-box ul li { margin-bottom: 6px; }
+  .how-box ul li strong { color: var(--accent); }
+
+  /* ── 하단 SEO 설명 텍스트 ── */
+  .seo-wrap {
+    margin-top: 36px; padding-top: 24px;
+    border-top: 1px dashed var(--border);
+    font-size: 0.84rem; color: #aaa; line-height: 1.8;
+  }
+  .seo-wrap h4 { font-size: 0.82rem; color: #bbb; margin-bottom: 8px; }
+
+  @media (max-width: 600px) {
+    .post-title { font-size: 1.35rem; }
+    .dashboard-wrap iframe { height: 520px; }
+  }
+</style>
+</head>
+<body>
+<article class="post-wrap">
+
+  <!-- ── 제목 블록 ── -->
+  <p class="post-kicker">📊 박스오피스 실시간</p>
+  <h1 class="post-title">오늘 박스오피스 순위 TOP10<br>일별 · 주간 영화 관객수 한눈에</h1>
+  <p class="post-subtitle">KOBIS 공식 데이터 기반 매일 자동 업데이트 — 포스터 · 줄거리 · 감독 · 배우 정보 포함</p>
+  <div class="post-meta">
+    <span>매일 오전 9시 자동 갱신</span>
+    <span class="post-meta-dot">·</span>
+    <span>KOBIS 영화진흥위원회 공식 API</span>
+    <span class="post-meta-dot">·</span>
+    <span>TOP 10</span>
+  </div>
+
+  <!-- ── 태그 10개 ── -->
+  <div class="tags">
+    <span class="tag">#박스오피스</span>
+    <span class="tag">#박스오피스순위</span>
+    <span class="tag">#오늘박스오피스</span>
+    <span class="tag">#영화순위</span>
+    <span class="tag">#영화관객수</span>
+    <span class="tag">#주간박스오피스</span>
+    <span class="tag">#한국영화순위</span>
+    <span class="tag">#현재상영영화</span>
+    <span class="tag">#영화추천</span>
+    <span class="tag">#박스오피스TOP10</span>
+  </div>
+
+  <!-- ── 리드 텍스트 ── -->
+  <div class="post-body">
+    <p>
+      오늘 극장가는 어떤 영화가 이끌고 있을까요?
+      <strong>영화진흥위원회(KOBIS) 공식 박스오피스</strong> 데이터를 매일 오전 자동으로 가져와
+      일별 TOP10·주간 TOP10을 한 화면에서 확인할 수 있습니다.
+    </p>
+    <p>
+      순위 변동(▲▼), 오늘 관객 수, 매출 점유율 바를 카드 형태로 보여주고,
+      영화를 <strong>클릭하면 줄거리 · 감독 · 배우 · 장르 · 등급 · 러닝타임</strong>과
+      누적 관객·매출 상세 수치까지 한 번에 볼 수 있습니다.
+    </p>
+  </div>
+
+  <!-- ── 대시보드 iframe ── -->
+  <div class="dashboard-wrap">
+    <iframe
+      src="https://lky8783-dot.github.io/boxoffice/box_dashboard.html"
+      title="오늘 박스오피스 순위 TOP10 — 일별·주간 영화 관객수"
+      loading="lazy"
+      scrolling="yes"
+      allow=""></iframe>
+    <div class="dashboard-caption">
+      <span>📡 KOBIS 공식 데이터 · 매일 오전 9시 KST 자동 업데이트</span>
+      <a href="https://lky8783-dot.github.io/boxoffice/box_dashboard.html"
+         target="_blank" rel="noopener">새 창으로 보기 ↗</a>
+    </div>
+  </div>
+
+  <!-- ── 사용법 ── -->
+  <div class="how-box">
+    <h3>📌 사용 방법</h3>
+    <ul>
+      <li><strong>일별 / 주간</strong> 탭으로 전환해 기간별 순위를 비교하세요.</li>
+      <li>영화 카드를 <strong>클릭</strong>하면 포스터·줄거리·감독·배우 상세 정보가 팝업됩니다.</li>
+      <li>카드 상단 <strong>▲▼ 배지</strong>로 전일 대비 순위 변동을 확인할 수 있습니다.</li>
+      <li>데이터는 <strong>매일 오전 9시</strong> KST에 자동 갱신됩니다.</li>
+    </ul>
+  </div>
+
+  <!-- ── 하단 SEO 보조 텍스트 ── -->
+  <div class="seo-wrap">
+    <h4>관련 정보</h4>
+    오늘 박스오피스 1위 영화, 주간 박스오피스 TOP10, 현재 상영 중인 영화 관객수 순위, 한국 영화 흥행 순위,
+    일별 영화 관객 수 집계, 박스오피스 누적 관객수, 이번 주 영화 추천, 주말 박스오피스 순위,
+    영화 개봉일 및 스크린 수 정보 — 영화진흥위원회(KOBIS) 공식 오픈 API 기준으로 매일 자동 업데이트됩니다.
+  </div>
+
+</article>
+</body>
+</html>
