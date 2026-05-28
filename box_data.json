@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T06:08:31",
-  "daily_date": "20260526",
+  "updated": "2026-05-28T01:18:00",
+  "daily_date": "20260527",
   "weekly_date": "20260524",
   "daily": [
     {
@@ -11,19 +11,20 @@
       "movieCd": "20252402",
       "movieNm": "군체",
       "openDt": "2026-05-21",
-      "salesAmt": "1585142740",
-      "salesShare": "76.7",
-      "salesInten": "-4078614320",
-      "salesChange": "-72",
-      "salesAcc": "23897454750",
-      "audiCnt": "150489",
-      "audiInten": "-366513",
-      "audiChange": "-70.9",
-      "audiAcc": "2169097",
-      "scrnCnt": "1858",
-      "showCnt": "7855",
+      "salesAmt": "2017561160",
+      "salesShare": "58.1",
+      "salesInten": "432418420",
+      "salesChange": "27.3",
+      "salesAcc": "25914859910",
+      "audiCnt": "209427",
+      "audiInten": "58938",
+      "audiChange": "39.2",
+      "audiAcc": "2378512",
+      "scrnCnt": "1813",
+      "showCnt": "6971",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260521_199%2F1779327167613y2t7q_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다. 처음에는 짐승처...",
+      "naver_rating": "8.11",
       "directors": [
         "연상호"
       ],
@@ -43,30 +44,70 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "122",
-      "movieNmEn": "COLONY",
-      "naver_rating": "8.11"
+      "movieNmEn": "COLONY"
     },
     {
       "rnum": "2",
       "rank": "2",
       "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20263030",
+      "movieNm": "백룸",
+      "openDt": "2026-05-27",
+      "salesAmt": "527867890",
+      "salesShare": "15.2",
+      "salesInten": "527867890",
+      "salesChange": "100",
+      "salesAcc": "535637890",
+      "audiCnt": "54107",
+      "audiInten": "54107",
+      "audiChange": "100",
+      "audiAcc": "54635",
+      "scrnCnt": "688",
+      "showCnt": "1609",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260527_204%2F1779860201951BQVz3_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"시작은 호기심이었다\" 그곳은 대체 무엇인가? 낯설지만 익숙한 세계 출구도 입구도 찾을 수 없다. 당신도 입장하시겠습니까?",
+      "naver_rating": "8.61",
+      "directors": [
+        "케인 파슨스"
+      ],
+      "actors": [
+        "치웨텔 에지오포",
+        "레나테 레인스베"
+      ],
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "110",
+      "movieNmEn": "Backrooms"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "-1",
       "rankOldAndNew": "OLD",
       "movieCd": "20259626",
       "movieNm": "마이클",
       "openDt": "2026-05-13",
-      "salesAmt": "212211670",
-      "salesShare": "10.3",
-      "salesInten": "-975072610",
-      "salesChange": "-82.1",
-      "salesAcc": "13450735490",
-      "audiCnt": "20594",
-      "audiInten": "-88784",
-      "audiChange": "-81.2",
-      "audiAcc": "1205191",
-      "scrnCnt": "809",
-      "showCnt": "2436",
+      "salesAmt": "339242030",
+      "salesShare": "9.8",
+      "salesInten": "127030360",
+      "salesChange": "59.9",
+      "salesAcc": "13789956520",
+      "audiCnt": "34492",
+      "audiInten": "13898",
+      "audiChange": "67.5",
+      "audiAcc": "1239681",
+      "scrnCnt": "808",
+      "showCnt": "1879",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260409_124%2F17757186375802tk1E_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "그의 발끝에서 전설이 다시 시작된다! 어린 나이에 형제들과 ‘잭슨 파이브’ 그룹의 막내로 데뷔하자마자 음악적 천재성과 스타성으로 주목을 받은 ‘마이클 잭...",
+      "naver_rating": "8.75",
       "directors": [
         "안톤 후쿠아"
       ],
@@ -85,30 +126,70 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "127",
-      "movieNmEn": "Michael",
-      "naver_rating": "8.75"
+      "movieNmEn": "Michael"
     },
     {
-      "rnum": "3",
-      "rank": "3",
-      "rankInten": "1",
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20258236",
+      "movieNm": "만달로리안과 그로구",
+      "openDt": "2026-05-27",
+      "salesAmt": "290204530",
+      "salesShare": "8.4",
+      "salesInten": "290204530",
+      "salesChange": "100",
+      "salesAcc": "314300530",
+      "audiCnt": "26242",
+      "audiInten": "26242",
+      "audiChange": "100",
+      "audiAcc": "27634",
+      "scrnCnt": "809",
+      "showCnt": "2103",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260527_294%2F1779865622207VvXqb_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"우주 최강 듀오 '딘 자린'과 '그로구'가 선사하는 환상의 팀워크! 은하계의 운명을 건 거대한 임무가 시작된다!\" 최고의 전사이자 현상금 사냥꾼인 '딘 자린'(페드...",
+      "naver_rating": "9.57",
+      "directors": [
+        "존 파브로"
+      ],
+      "actors": [
+        "페드로 파스칼",
+        "시고니 위버"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "131",
+      "movieNmEn": "STAR WARS: THE MANDALORIAN AND GROGU"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "-2",
       "rankOldAndNew": "OLD",
       "movieCd": "20259791",
       "movieNm": "악마는 프라다를 입는다 2",
       "openDt": "2026-04-29",
-      "salesAmt": "62754630",
-      "salesShare": "3.0",
-      "salesInten": "-118452710",
-      "salesChange": "-65.4",
-      "salesAcc": "15841182190",
-      "audiCnt": "5821",
-      "audiInten": "-10497",
-      "audiChange": "-64.3",
-      "audiAcc": "1564400",
-      "scrnCnt": "487",
-      "showCnt": "992",
+      "salesAmt": "52991700",
+      "salesShare": "1.5",
+      "salesInten": "-9762930",
+      "salesChange": "-15.6",
+      "salesAcc": "15894173890",
+      "audiCnt": "5334",
+      "audiInten": "-487",
+      "audiChange": "-8.4",
+      "audiAcc": "1569734",
+      "scrnCnt": "304",
+      "showCnt": "452",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260429_127%2F1777443781320XFfHi_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "\"전 세계를 열광시킨 ‘런웨이’ 전설들의 귀환!\" 전 세계 트렌드를 주도해 온 전설적인 패션 매거진 ‘런웨이’가 급변하는 미디어 시장 속에서 예기치 못한 위기...",
+      "naver_rating": "8.97",
       "directors": [
         "데이빗 프랭클"
       ],
@@ -126,30 +207,30 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "118",
-      "movieNmEn": "The Devil Wears Prada 2",
-      "naver_rating": "8.97"
+      "movieNmEn": "The Devil Wears Prada 2"
     },
     {
-      "rnum": "4",
-      "rank": "4",
-      "rankInten": "5",
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "-2",
       "rankOldAndNew": "OLD",
       "movieCd": "20263344",
       "movieNm": "너바나 더 밴드 : 전설적 밴드 ‘너바나’와는 별 관련 없는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 공연을 위해 타임머신을 만드는 황당한 작전을 세우고 처음 만났던 17년 전으로 돌",
       "openDt": "2026-05-20",
-      "salesAmt": "37500550",
-      "salesShare": "1.8",
-      "salesInten": "-29513050",
-      "salesChange": "-44",
-      "salesAcc": "342953300",
-      "audiCnt": "3192",
-      "audiInten": "-2460",
-      "audiChange": "-43.5",
-      "audiAcc": "29396",
-      "scrnCnt": "142",
-      "showCnt": "211",
+      "salesAmt": "33738100",
+      "salesShare": "1.0",
+      "salesInten": "-3762450",
+      "salesChange": "-10",
+      "salesAcc": "376691400",
+      "audiCnt": "3533",
+      "audiInten": "341",
+      "audiChange": "10.7",
+      "audiAcc": "32929",
+      "scrnCnt": "149",
+      "showCnt": "178",
       "poster_url": "",
       "synopsis": "",
+      "naver_rating": "",
       "directors": [
         "맷 존슨"
       ],
@@ -166,73 +247,104 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "100",
-      "movieNmEn": "Nirvanna the Band the Show the Movie",
-      "naver_rating": ""
+      "movieNmEn": "Nirvanna the Band the Show the Movie"
     },
     {
-      "rnum": "5",
-      "rank": "5",
+      "rnum": "7",
+      "rank": "7",
       "rankInten": "0",
       "rankOldAndNew": "OLD",
-      "movieCd": "20254121",
-      "movieNm": "살목지",
-      "openDt": "2026-04-08",
-      "salesAmt": "24665900",
-      "salesShare": "1.2",
-      "salesInten": "-65410450",
-      "salesChange": "-72.6",
-      "salesAcc": "33239107900",
-      "audiCnt": "2196",
-      "audiInten": "-5951",
-      "audiChange": "-73",
-      "audiAcc": "3232843",
-      "scrnCnt": "331",
-      "showCnt": "464",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260316_23%2F1773650217125jNU4P_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "기이한 소문이 끊이지 않는 저수지 살목지의 로드뷰 화면에 촬영한 적 없는 정체불명의 형체가 포착된다. 오늘 안에 반드시 재촬영을 끝내야 하는 상황 속에 ...",
-      "directors": [
-        "이상민"
-      ],
+      "movieCd": "20262975",
+      "movieNm": "신극장판 은혼: 요시와라 대염상",
+      "openDt": "2026-05-20",
+      "salesAmt": "30452850",
+      "salesShare": "0.9",
+      "salesInten": "8660920",
+      "salesChange": "39.7",
+      "salesAcc": "621736210",
+      "audiCnt": "2935",
+      "audiInten": "929",
+      "audiChange": "46.3",
+      "audiAcc": "54998",
+      "scrnCnt": "166",
+      "showCnt": "195",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260520_135%2F1779257165278u8Is2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "해결사 사무소를 운영하는 ‘사카타 긴토키’. 어느 날, 그는 소매치기로 생계를 이어가던 고아 소년 ‘세이타’를 만나게 된다. ‘세이타’의 소원은 단 하나. 어릴 적 헤어진 어머니...",
+      "naver_rating": "9.76",
+      "directors": [],
       "actors": [
-        "김혜윤",
-        "이종원",
-        "김준한",
-        "김영성",
-        "오동민"
+        "스기타 토모카즈",
+        "사카구치 다이스케",
+        "쿠기미야 리에"
       ],
       "genres": [
-        "공포(호러)",
-        "스릴러"
+        "애니메이션"
       ],
       "nations": [
-        "한국"
+        "일본"
       ],
       "rating": "15세이상관람가",
-      "runtime": "95",
-      "movieNmEn": "Salmokji : Whispering Water",
-      "naver_rating": "8.27"
+      "runtime": "124",
+      "movieNmEn": "Gintama: Yoshiwara in Flames"
     },
     {
-      "rnum": "6",
-      "rank": "6",
-      "rankInten": "1",
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20258837",
+      "movieNm": "뒷자리에 태워줘",
+      "openDt": "2026-05-27",
+      "salesAmt": "19684900",
+      "salesShare": "0.6",
+      "salesInten": "19684900",
+      "salesChange": "100",
+      "salesAcc": "36459100",
+      "audiCnt": "2045",
+      "audiInten": "2045",
+      "audiChange": "100",
+      "audiAcc": "3674",
+      "scrnCnt": "155",
+      "showCnt": "201",
+      "poster_url": "",
+      "synopsis": "“정답 없는 사랑이라면, 우리는 우리 방식으로 하는 거야” 내성적이고 평범한 콜린은 누가 봐도 섹시한 외모의 레이와 우연히 마주친다. 그 남자의 직업도 배경도 모르지만, 단...",
+      "naver_rating": "7.43",
+      "directors": [],
+      "actors": [
+        "알렉산더 스카스가드"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "영국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "106",
+      "movieNmEn": "Pillion"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "-3",
       "rankOldAndNew": "OLD",
       "movieCd": "20261782",
       "movieNm": "프로젝트 헤일메리",
       "openDt": "2026-03-18",
-      "salesAmt": "23103620",
-      "salesShare": "1.1",
-      "salesInten": "-53114600",
-      "salesChange": "-69.7",
-      "salesAcc": "32732759990",
-      "audiCnt": "2107",
-      "audiInten": "-4773",
-      "audiChange": "-69.4",
-      "audiAcc": "2885615",
-      "scrnCnt": "198",
-      "showCnt": "268",
+      "salesAmt": "14555450",
+      "salesShare": "0.4",
+      "salesInten": "-8548170",
+      "salesChange": "-37",
+      "salesAcc": "32747315440",
+      "audiCnt": "1398",
+      "audiInten": "-709",
+      "audiChange": "-33.6",
+      "audiAcc": "2887013",
+      "scrnCnt": "106",
+      "showCnt": "126",
       "poster_url": "",
-      "synopsis": "\"죽어가는 태양, 종말 위기에 놓인 지구. 인류의 운명을 건 단 하나의 미션. 그의 마지막 임무가 시작된다!\" 눈을 떠보니 아득한 우주의 한가운데에서 깨어난 중학교 과학교...",
+      "synopsis": "\"죽어가는 태양, 종말 위기에 놓인 지구. 인류의 운명을 건 단 하나의 미션. 그의 마지막 임무가 시작된다!\" 눈을 떠보니 아득한 우주의 한가운데에서 깨어난 중학교 과학교사 ‘...",
+      "naver_rating": "9.20",
       "directors": [
         "필 로드"
       ],
@@ -248,168 +360,41 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "156",
-      "movieNmEn": "PROJECT HAIL MARY",
-      "naver_rating": "9.20"
-    },
-    {
-      "rnum": "7",
-      "rank": "7",
-      "rankInten": "-1",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20262975",
-      "movieNm": "신극장판 은혼: 요시와라 대염상",
-      "openDt": "2026-05-20",
-      "salesAmt": "21791930",
-      "salesShare": "1.1",
-      "salesInten": "-59975780",
-      "salesChange": "-73.3",
-      "salesAcc": "591283360",
-      "audiCnt": "2006",
-      "audiInten": "-5302",
-      "audiChange": "-72.6",
-      "audiAcc": "52063",
-      "scrnCnt": "335",
-      "showCnt": "471",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260520_135%2F1779257165278u8Is2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "해결사 사무소를 운영하는 ‘사카타 긴토키’. 어느 날, 그는 소매치기로 생계를 이어가던 고아 소년 ‘세이타’를 만나게 된다. ‘세이타’의 소원은 단 하나. 어릴 적 헤어진 어머니...",
-      "directors": [],
-      "actors": [
-        "스기타 토모카즈",
-        "사카구치 다이스케",
-        "쿠기미야 리에"
-      ],
-      "genres": [
-        "애니메이션"
-      ],
-      "nations": [
-        "일본"
-      ],
-      "rating": "15세이상관람가",
-      "runtime": "124",
-      "movieNmEn": "Gintama: Yoshiwara in Flames",
-      "naver_rating": "9.76"
-    },
-    {
-      "rnum": "8",
-      "rank": "8",
-      "rankInten": "-5",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20259773",
-      "movieNm": "슈퍼 마리오 갤럭시",
-      "openDt": "2026-04-29",
-      "salesAmt": "11154100",
-      "salesShare": "0.5",
-      "salesInten": "-375532440",
-      "salesChange": "-97.1",
-      "salesAcc": "15322885160",
-      "audiCnt": "1198",
-      "audiInten": "-36897",
-      "audiChange": "-96.9",
-      "audiAcc": "1578107",
-      "scrnCnt": "176",
-      "showCnt": "204",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260327_12%2F1774602497112Le5DL_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "브루클린의 배관공에서 세계를 구한 히어로로 레벨업한 형제 ‘마리오’와 ‘루이지’는 모래 왕국에서 임무를 수행하던 중, 길을 잃은 ‘요시’를 구출하며 특별한 ...",
-      "directors": [
-        "아론 호바스",
-        "마이클 젤레닉"
-      ],
-      "actors": [
-        "크리스 프랫",
-        "안야 테일러 조이",
-        "잭 블랙",
-        "찰리 데이",
-        "브리 라슨"
-      ],
-      "genres": [
-        "애니메이션"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "전체관람가",
-      "runtime": "98",
-      "movieNmEn": "THE SUPER MARIO GALAXY MOVIE",
-      "naver_rating": "7.98"
-    },
-    {
-      "rnum": "9",
-      "rank": "9",
-      "rankInten": "1",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20242837",
-      "movieNm": "왕과 사는 남자",
-      "openDt": "2026-02-04",
-      "salesAmt": "10683250",
-      "salesShare": "0.5",
-      "salesInten": "-17266610",
-      "salesChange": "-61.8",
-      "salesAcc": "162982643110",
-      "audiCnt": "1182",
-      "audiInten": "-1620",
-      "audiChange": "-57.8",
-      "audiAcc": "16884983",
-      "scrnCnt": "134",
-      "showCnt": "152",
-      "poster_url": "",
-      "synopsis": "“나는 이제 어디로 갑니까…” 계유정난이 조선을 뒤흔들고 어린 왕 이홍위는 왕위에서 쫓겨나 유배길에 오른다. “무슨 수를 쓰더라도 그 대감을 우리 광천골로 오게 해야지” ...",
-      "directors": [
-        "장항준"
-      ],
-      "actors": [
-        "유해진",
-        "박지훈",
-        "유지태",
-        "전미도",
-        "김민"
-      ],
-      "genres": [
-        "사극",
-        "드라마"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "12세이상관람가",
-      "runtime": "116",
-      "movieNmEn": "The King's Warden",
-      "naver_rating": "8.87"
+      "movieNmEn": "PROJECT HAIL MARY"
     },
     {
       "rnum": "10",
       "rank": "10",
-      "rankInten": "10",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20262972",
-      "movieNm": "남태령",
-      "openDt": "2026-05-20",
-      "salesAmt": "5858650",
-      "salesShare": "0.3",
-      "salesInten": "2560250",
-      "salesChange": "77.6",
-      "salesAcc": "41725250",
-      "audiCnt": "706",
-      "audiInten": "361",
-      "audiChange": "104.6",
-      "audiAcc": "4761",
-      "scrnCnt": "54",
-      "showCnt": "64",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20263644",
+      "movieNm": "미세스 그린 애플 매지컬 10주년 기념 라이브 ~피오르드~ 온 스크린",
+      "openDt": "2026-05-27",
+      "salesAmt": "31975000",
+      "salesShare": "0.9",
+      "salesInten": "31975000",
+      "salesChange": "100",
+      "salesAcc": "31975000",
+      "audiCnt": "1279",
+      "audiInten": "1279",
+      "audiChange": "100",
+      "audiAcc": "1279",
+      "scrnCnt": "21",
+      "showCnt": "21",
       "poster_url": "",
-      "synopsis": "좋아요, 리트윗, 북마크로 열린 우연한 광장에서, 가로막히고 얼어붙은 고갯길에서, 동짓밤을 함께 하며 우리는 서로의 동지가 되었다. 체감온도 영하 20도의 ...",
-      "directors": [
-        "김현지"
-      ],
+      "synopsis": "스크린으로 내한 결정! 10주년의 환희를 극장에서 만나다! 미세스 그린 애플의 데뷔 10주년을 기념해 펼쳐진 마법 같은 공연 ‘피오르드’. 오감을 자극하는 화려...",
+      "naver_rating": "0.00",
+      "directors": [],
       "actors": [],
       "genres": [
-        "다큐멘터리"
+        "공연"
       ],
       "nations": [
-        "한국"
+        "일본"
       ],
-      "rating": "12세이상관람가",
-      "runtime": "113",
-      "movieNmEn": "The Longest Night: Namtaeryeong",
-      "naver_rating": "6.80"
+      "rating": "전체관람가",
+      "runtime": "158",
+      "movieNmEn": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ~FJORD~"
     }
   ],
   "weekly": [
@@ -421,19 +406,20 @@
       "movieCd": "20252402",
       "movieNm": "군체",
       "openDt": "2026-05-21",
-      "salesAmt": "16644744950",
+      "salesAmt": "16644716950",
       "salesShare": "63.8",
-      "salesInten": "16640934950",
-      "salesChange": "436769.9",
-      "salesAcc": "16648554950",
-      "audiCnt": "1501200",
-      "audiInten": "1500794",
-      "audiChange": "369653.7",
-      "audiAcc": "1501606",
+      "salesInten": "16640906950",
+      "salesChange": "436769.2",
+      "salesAcc": "16648526950",
+      "audiCnt": "1501198",
+      "audiInten": "1500792",
+      "audiChange": "369653.2",
+      "audiAcc": "1501604",
       "scrnCnt": "2110",
       "showCnt": "35843",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260521_199%2F1779327167613y2t7q_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다. 처음에는 짐승처...",
+      "naver_rating": "8.11",
       "directors": [
         "연상호"
       ],
@@ -453,8 +439,7 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "122",
-      "movieNmEn": "COLONY",
-      "naver_rating": "8.11"
+      "movieNmEn": "COLONY"
     },
     {
       "rnum": "2",
@@ -477,6 +462,7 @@
       "showCnt": "26731",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260409_124%2F17757186375802tk1E_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "그의 발끝에서 전설이 다시 시작된다! 어린 나이에 형제들과 ‘잭슨 파이브’ 그룹의 막내로 데뷔하자마자 음악적 천재성과 스타성으로 주목을 받은 ‘마이클 잭...",
+      "naver_rating": "8.75",
       "directors": [
         "안톤 후쿠아"
       ],
@@ -495,8 +481,7 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "127",
-      "movieNmEn": "Michael",
-      "naver_rating": "8.75"
+      "movieNmEn": "Michael"
     },
     {
       "rnum": "3",
@@ -519,6 +504,7 @@
       "showCnt": "10628",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260429_127%2F1777443781320XFfHi_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "\"전 세계를 열광시킨 ‘런웨이’ 전설들의 귀환!\" 전 세계 트렌드를 주도해 온 전설적인 패션 매거진 ‘런웨이’가 급변하는 미디어 시장 속에서 예기치 못한 위기...",
+      "naver_rating": "8.97",
       "directors": [
         "데이빗 프랭클"
       ],
@@ -536,8 +522,7 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "118",
-      "movieNmEn": "The Devil Wears Prada 2",
-      "naver_rating": "8.97"
+      "movieNmEn": "The Devil Wears Prada 2"
     },
     {
       "rnum": "4",
@@ -560,6 +545,7 @@
       "showCnt": "4502",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260327_12%2F1774602497112Le5DL_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "브루클린의 배관공에서 세계를 구한 히어로로 레벨업한 형제 ‘마리오’와 ‘루이지’는 모래 왕국에서 임무를 수행하던 중, 길을 잃은 ‘요시’를 구출하며 특별한 ...",
+      "naver_rating": "7.98",
       "directors": [
         "아론 호바스",
         "마이클 젤레닉"
@@ -579,8 +565,7 @@
       ],
       "rating": "전체관람가",
       "runtime": "98",
-      "movieNmEn": "THE SUPER MARIO GALAXY MOVIE",
-      "naver_rating": "7.98"
+      "movieNmEn": "THE SUPER MARIO GALAXY MOVIE"
     },
     {
       "rnum": "5",
@@ -603,6 +588,7 @@
       "showCnt": "7021",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260316_23%2F1773650217125jNU4P_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "기이한 소문이 끊이지 않는 저수지 살목지의 로드뷰 화면에 촬영한 적 없는 정체불명의 형체가 포착된다. 오늘 안에 반드시 재촬영을 끝내야 하는 상황 속에 ...",
+      "naver_rating": "8.27",
       "directors": [
         "이상민"
       ],
@@ -622,8 +608,7 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "95",
-      "movieNmEn": "Salmokji : Whispering Water",
-      "naver_rating": "8.27"
+      "movieNmEn": "Salmokji : Whispering Water"
     },
     {
       "rnum": "6",
@@ -646,6 +631,7 @@
       "showCnt": "3189",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260520_135%2F1779257165278u8Is2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "해결사 사무소를 운영하는 ‘사카타 긴토키’. 어느 날, 그는 소매치기로 생계를 이어가던 고아 소년 ‘세이타’를 만나게 된다. ‘세이타’의 소원은 단 하나. 어릴 적 헤어진 어머니...",
+      "naver_rating": "9.76",
       "directors": [],
       "actors": [
         "스기타 토모카즈",
@@ -660,8 +646,7 @@
       ],
       "rating": "15세이상관람가",
       "runtime": "124",
-      "movieNmEn": "Gintama: Yoshiwara in Flames",
-      "naver_rating": "9.76"
+      "movieNmEn": "Gintama: Yoshiwara in Flames"
     },
     {
       "rnum": "7",
@@ -683,7 +668,8 @@
       "scrnCnt": "401",
       "showCnt": "2526",
       "poster_url": "",
-      "synopsis": "\"죽어가는 태양, 종말 위기에 놓인 지구. 인류의 운명을 건 단 하나의 미션. 그의 마지막 임무가 시작된다!\" 눈을 떠보니 아득한 우주의 한가운데에서 깨어난 중학교 과학교...",
+      "synopsis": "\"죽어가는 태양, 종말 위기에 놓인 지구. 인류의 운명을 건 단 하나의 미션. 그의 마지막 임무가 시작된다!\" 눈을 떠보니 아득한 우주의 한가운데에서 깨어난 중학교 과학교사 ‘...",
+      "naver_rating": "9.20",
       "directors": [
         "필 로드"
       ],
@@ -699,8 +685,7 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "156",
-      "movieNmEn": "PROJECT HAIL MARY",
-      "naver_rating": "9.20"
+      "movieNmEn": "PROJECT HAIL MARY"
     },
     {
       "rnum": "8",
@@ -723,6 +708,7 @@
       "showCnt": "1105",
       "poster_url": "",
       "synopsis": "",
+      "naver_rating": "",
       "directors": [
         "맷 존슨"
       ],
@@ -739,8 +725,7 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "100",
-      "movieNmEn": "Nirvanna the Band the Show the Movie",
-      "naver_rating": ""
+      "movieNmEn": "Nirvanna the Band the Show the Movie"
     },
     {
       "rnum": "9",
@@ -762,7 +747,8 @@
       "scrnCnt": "261",
       "showCnt": "1650",
       "poster_url": "",
-      "synopsis": "“나는 이제 어디로 갑니까…” 계유정난이 조선을 뒤흔들고 어린 왕 이홍위는 왕위에서 쫓겨나 유배길에 오른다. “무슨 수를 쓰더라도 그 대감을 우리 광천골로 오게 해야지” ...",
+      "synopsis": "“나는 이제 어디로 갑니까…” 계유정난이 조선을 뒤흔들고 어린 왕 이홍위는 왕위에서 쫓겨나 유배길에 오른다. “무슨 수를 쓰더라도 그 대감을 우리 광천골로 오게 해야지” 한...",
+      "naver_rating": "8.87",
       "directors": [
         "장항준"
       ],
@@ -782,8 +768,7 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "116",
-      "movieNmEn": "The King's Warden",
-      "naver_rating": "8.87"
+      "movieNmEn": "The King's Warden"
     },
     {
       "rnum": "10",
@@ -805,7 +790,8 @@
       "scrnCnt": "124",
       "showCnt": "749",
       "poster_url": "",
-      "synopsis": "이치카와 쿄타로는 『살인 대백과』나 『인체 해부도』를 읽는 걸 즐기는 중증의 중2병 남자 아이. 그런 이치카와의 조용한 세계에, 반의 인기인?야마다 안나가 ...",
+      "synopsis": "이치카와 쿄타로는 『살인 대백과』나 『인체 해부도』를 읽는 걸 즐기는 중증의 중2병 남자 아이. 그런 이치카와의 조용한 세계에, 반의 인기인?야마다 안나...",
+      "naver_rating": "9.00",
       "directors": [
         "아카기 히로아키"
       ],
@@ -821,8 +807,7 @@
       ],
       "rating": "12세이상관람가",
       "runtime": "101",
-      "movieNmEn": "The Dangers in My Heart: The Movie",
-      "naver_rating": "9.00"
+      "movieNmEn": "The Dangers in My Heart: The Movie"
     }
   ]
 }
