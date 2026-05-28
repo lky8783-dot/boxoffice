@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T01:18:00",
+  "updated": "2026-05-28T01:59:34",
   "daily_date": "20260527",
   "weekly_date": "20260524",
   "daily": [
@@ -739,11 +739,11 @@
       "salesShare": "0.6",
       "salesInten": "-126320450",
       "salesChange": "-44.4",
-      "salesAcc": "162944010000",
+      "salesAcc": "162943999000",
       "audiCnt": "17118",
       "audiInten": "-13239",
       "audiChange": "-43.6",
-      "audiAcc": "16880999",
+      "audiAcc": "16880998",
       "scrnCnt": "261",
       "showCnt": "1650",
       "poster_url": "",
