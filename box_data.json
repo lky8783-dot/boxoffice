@@ -1,7 +1,835 @@
 {
-  "updated": "2026-06-21T23:01:06",
-  "daily_date": "20260620",
+  "updated": "2026-06-22T23:01:06",
+  "daily_date": "20260621",
   "weekly_date": "20260621",
-  "daily": [],
-  "weekly": []
+  "daily": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259781",
+      "movieNm": "토이 스토리 5",
+      "openDt": "2026-06-17",
+      "salesAmt": "2945952060",
+      "salesShare": "61.6",
+      "salesInten": "-529043360",
+      "salesChange": "-15.2",
+      "salesAcc": "9079799640",
+      "audiCnt": "287038",
+      "audiInten": "-48695",
+      "audiChange": "-14.5",
+      "audiAcc": "872552",
+      "scrnCnt": "1837",
+      "showCnt": "8198",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260617_109%2F1781663561154vA0bW_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“시대는 변해도, 친구들은 영원하다\" 스마트 태블릿 ’릴리패드'의 등장으로 온라인 세계에 모여들게 된 아이들. 친구들과 어울리기 위해 ‘보니’에게도 ‘릴리패드’...",
+      "naver_rating": "9.66",
+      "directors": [
+        "앤드류 스탠튼"
+      ],
+      "actors": [
+        "톰 행크스",
+        "팀 알렌",
+        "조앤 쿠삭",
+        "그레타 리"
+      ],
+      "genres": [
+        "애니메이션",
+        "어드벤처",
+        "코미디"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "101",
+      "movieNmEn": "Toy Story 5"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20252402",
+      "movieNm": "군체",
+      "openDt": "2026-05-21",
+      "salesAmt": "652418230",
+      "salesShare": "13.6",
+      "salesInten": "-267047590",
+      "salesChange": "-29",
+      "salesAcc": "58286534880",
+      "audiCnt": "63119",
+      "audiInten": "-24470",
+      "audiChange": "-27.9",
+      "audiAcc": "5527521",
+      "scrnCnt": "952",
+      "showCnt": "2837",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260521_199%2F1779327167613y2t7q_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다. 처음에는 짐승처럼 기...",
+      "naver_rating": "7.90",
+      "directors": [
+        "연상호"
+      ],
+      "actors": [
+        "전지현",
+        "구교환",
+        "지창욱",
+        "신현빈",
+        "김신록"
+      ],
+      "genres": [
+        "액션",
+        "스릴러"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "122",
+      "movieNmEn": "COLONY"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20248252",
+      "movieNm": "와일드 씽",
+      "openDt": "2026-06-03",
+      "salesAmt": "453639610",
+      "salesShare": "9.5",
+      "salesInten": "-169405990",
+      "salesChange": "-27.2",
+      "salesAcc": "10668260540",
+      "audiCnt": "45799",
+      "audiInten": "-16750",
+      "audiChange": "-26.8",
+      "audiAcc": "1100567",
+      "scrnCnt": "800",
+      "showCnt": "2360",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260612_104%2F1781234312440vFV51_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "‘댄스머신’ 황현우 △ ‘절대매력’ 변도미 △ ‘폭풍래퍼’ 구상구! “우리는 트라이앵글입니다!” 한때 가요계를 휩쓸었지만 예기치 못한 사건에 휘말려 하루아침에 해...",
+      "naver_rating": "8.48",
+      "directors": [
+        "손재곤"
+      ],
+      "actors": [
+        "강동원",
+        "엄태구",
+        "박지현",
+        "오정세"
+      ],
+      "genres": [
+        "코미디"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "107",
+      "movieNmEn": "Wild Sing"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20263030",
+      "movieNm": "백룸",
+      "openDt": "2026-05-27",
+      "salesAmt": "247351280",
+      "salesShare": "5.2",
+      "salesInten": "-63790520",
+      "salesChange": "-20.5",
+      "salesAcc": "11583906460",
+      "audiCnt": "22445",
+      "audiInten": "-5969",
+      "audiChange": "-21",
+      "audiAcc": "1086767",
+      "scrnCnt": "554",
+      "showCnt": "988",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260527_204%2F1779860201951BQVz3_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"시작은 호기심이었다\" 그곳은 대체 무엇인가? 낯설지만 익숙한 세계 출구도 입구도 찾을 수 없다. 당신도 입장하시겠습니까?",
+      "naver_rating": "8.00",
+      "directors": [
+        "케인 파슨스"
+      ],
+      "actors": [
+        "치웨텔 에지오포",
+        "레나테 레인스베"
+      ],
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "110",
+      "movieNmEn": "Backrooms"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20248484",
+      "movieNm": "신사: 악귀의 속삭임",
+      "openDt": "2026-06-17",
+      "salesAmt": "77449100",
+      "salesShare": "1.6",
+      "salesInten": "-28854850",
+      "salesChange": "-27.1",
+      "salesAcc": "345931400",
+      "audiCnt": "6973",
+      "audiInten": "-2631",
+      "audiChange": "-27.4",
+      "audiAcc": "33421",
+      "scrnCnt": "217",
+      "showCnt": "347",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260528_105%2F1779944632998SX5cJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "고베의 산속에 자리한 폐신사에서, 한일 문화교류 프로젝트에 참가했던 대학생들이 실종되고 매니저 ‘유미’(공성하)는 기이한 공포에 휘말리게 된다. 한국에서 ...",
+      "naver_rating": "7.47",
+      "directors": [
+        "구마키리 가즈요시"
+      ],
+      "actors": [
+        "김재중",
+        "공성하"
+      ],
+      "genres": [
+        "공포(호러)",
+        "미스터리"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "96",
+      "movieNmEn": "The Shrine"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250655",
+      "movieNm": "디스클로저 데이",
+      "openDt": "2026-06-10",
+      "salesAmt": "60393110",
+      "salesShare": "1.3",
+      "salesInten": "-18159020",
+      "salesChange": "-23.1",
+      "salesAcc": "2621914100",
+      "audiCnt": "5946",
+      "audiInten": "-1723",
+      "audiChange": "-22.5",
+      "audiAcc": "243252",
+      "scrnCnt": "436",
+      "showCnt": "577",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260513_271%2F1778656622752iuixY_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "우리가 혼자가 아니라는 사실을 알게 된다면, 누군가가 그것을 증명한다면, 그게 당신을 두렵게 하나요? 진실은 80억 인류 모두의 것입니다.",
+      "naver_rating": "5.63",
+      "directors": [
+        "스티븐 스필버그"
+      ],
+      "actors": [
+        "에밀리 블런트",
+        "조쉬 오코너",
+        "콜린 퍼스",
+        "이브 휴슨",
+        "콜먼 도밍고"
+      ],
+      "genres": [
+        "SF",
+        "미스터리"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "145",
+      "movieNmEn": "Disclosure Day"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259626",
+      "movieNm": "마이클",
+      "openDt": "2026-05-13",
+      "salesAmt": "45799990",
+      "salesShare": "1.0",
+      "salesInten": "-9016820",
+      "salesChange": "-16.4",
+      "salesAcc": "17724273140",
+      "audiCnt": "4335",
+      "audiInten": "-695",
+      "audiChange": "-13.8",
+      "audiAcc": "1611885",
+      "scrnCnt": "195",
+      "showCnt": "232",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260409_124%2F17757186375802tk1E_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "그의 발끝에서 전설이 다시 시작된다! 어린 나이에 형제들과 ‘잭슨 파이브’ 그룹의 막내로 데뷔하자마자 음악적 천재성과 스타성으로 주목을 받은 ‘마이클 잭슨’....",
+      "naver_rating": "8.68",
+      "directors": [
+        "안톤 후쿠아"
+      ],
+      "actors": [
+        "자파 잭슨",
+        "니아 롱",
+        "로라 해리어",
+        "줄리아노 크루 발디",
+        "마일즈 텔러"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "127",
+      "movieNmEn": "Michael"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20149629",
+      "movieNm": "비긴 어게인",
+      "openDt": "2014-08-13",
+      "salesAmt": "37627100",
+      "salesShare": "0.8",
+      "salesInten": "-21526400",
+      "salesChange": "-36.4",
+      "salesAcc": "29770421821",
+      "audiCnt": "3242",
+      "audiInten": "-1524",
+      "audiChange": "-32",
+      "audiAcc": "3729396",
+      "scrnCnt": "117",
+      "showCnt": "174",
+      "poster_url": "",
+      "synopsis": "“다시 시작해, 너를 빛나게 할 노래를!” 싱어송라이터인 ‘그레타’(키이라 나이틀리)는 남자친구 ‘데이브’(애덤 리바인)가 메이저 음반회사와 계약을 하게 되면서 뉴욕으로 오게 ...",
+      "naver_rating": "9.10",
+      "directors": [
+        "존 카니"
+      ],
+      "actors": [
+        "키이라 나이틀리",
+        "마크 러팔로",
+        "애덤 리바인",
+        "헤일리 스테인펠드",
+        "제임스 코든"
+      ],
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "103",
+      "movieNmEn": "Begin Again"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20261766",
+      "movieNm": "상자 속의 양",
+      "openDt": "2026-06-10",
+      "salesAmt": "24728500",
+      "salesShare": "0.5",
+      "salesInten": "-6705990",
+      "salesChange": "-21.3",
+      "salesAcc": "579844100",
+      "audiCnt": "2580",
+      "audiInten": "-721",
+      "audiChange": "-21.8",
+      "audiAcc": "63712",
+      "scrnCnt": "198",
+      "showCnt": "223",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260519_172%2F1779158659412QDLqq_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "나 7세. 휴머노이드 로봇. 어느 날, 엄마 아빠가 생겼다. 7세 설정으로 태어난 나는 나와 똑같이 생긴 아이를 사고로 잃은 집에 입양되어 행복한 나날을 보내는 중...",
+      "naver_rating": "9.49",
+      "directors": [
+        "고레에다 히로카즈"
+      ],
+      "actors": [
+        "아야세 하루카",
+        "다이고"
+      ],
+      "genres": [
+        "드라마",
+        "SF"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "126",
+      "movieNmEn": "Sheep in The Box"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "3",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264331",
+      "movieNm": "디어 마이 히어로",
+      "openDt": " ",
+      "salesAmt": "12375000",
+      "salesShare": "0.3",
+      "salesInten": "4860000",
+      "salesChange": "64.7",
+      "salesAcc": "78610000",
+      "audiCnt": "2475",
+      "audiInten": "972",
+      "audiChange": "64.7",
+      "audiAcc": "15722",
+      "scrnCnt": "153",
+      "showCnt": "185",
+      "poster_url": "",
+      "synopsis": "시그너스 기사단에 갓 입대한 신병 아이단은 연합의 영웅 대적자를 처음 본 순간부터 단 하나의 꿈을 품어왔다. 혼자서 전장을 바꿔버리는 그 사람처럼, 언젠가 자신도 이 세...",
+      "naver_rating": "6.60",
+      "directors": [],
+      "actors": [],
+      "genres": [
+        "액션",
+        "판타지"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "32",
+      "movieNmEn": "Dear My Hero"
+    }
+  ],
+  "weekly": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "35",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259781",
+      "movieNm": "토이 스토리 5",
+      "openDt": "2026-06-17",
+      "salesAmt": "9055982640",
+      "salesShare": "49.0",
+      "salesInten": "9032165640",
+      "salesChange": "37923.2",
+      "salesAcc": "9079799640",
+      "audiCnt": "871015",
+      "audiInten": "869478",
+      "audiChange": "56569.8",
+      "audiAcc": "872552",
+      "scrnCnt": "1847",
+      "showCnt": "34825",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260617_109%2F1781663561154vA0bW_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“시대는 변해도, 친구들은 영원하다\" 스마트 태블릿 ’릴리패드'의 등장으로 온라인 세계에 모여들게 된 아이들. 친구들과 어울리기 위해 ‘보니’에게도 ‘릴리패드’...",
+      "naver_rating": "9.66",
+      "directors": [
+        "앤드류 스탠튼"
+      ],
+      "actors": [
+        "톰 행크스",
+        "팀 알렌",
+        "조앤 쿠삭",
+        "그레타 리"
+      ],
+      "genres": [
+        "애니메이션",
+        "어드벤처",
+        "코미디"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "101",
+      "movieNmEn": "Toy Story 5"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20252402",
+      "movieNm": "군체",
+      "openDt": "2026-05-21",
+      "salesAmt": "3246646020",
+      "salesShare": "17.6",
+      "salesInten": "-1686654170",
+      "salesChange": "-34.2",
+      "salesAcc": "58286534880",
+      "audiCnt": "314659",
+      "audiInten": "-170655",
+      "audiChange": "-35.2",
+      "audiAcc": "5527521",
+      "scrnCnt": "1146",
+      "showCnt": "22321",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260521_199%2F1779327167613y2t7q_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다. 처음에는 짐승처럼 기...",
+      "naver_rating": "7.90",
+      "directors": [
+        "연상호"
+      ],
+      "actors": [
+        "전지현",
+        "구교환",
+        "지창욱",
+        "신현빈",
+        "김신록"
+      ],
+      "genres": [
+        "액션",
+        "스릴러"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "122",
+      "movieNmEn": "COLONY"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20248252",
+      "movieNm": "와일드 씽",
+      "openDt": "2026-06-03",
+      "salesAmt": "2247109390",
+      "salesShare": "12.2",
+      "salesInten": "-901252470",
+      "salesChange": "-28.6",
+      "salesAcc": "10668260540",
+      "audiCnt": "230836",
+      "audiInten": "-95177",
+      "audiChange": "-29.2",
+      "audiAcc": "1100567",
+      "scrnCnt": "935",
+      "showCnt": "17838",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260612_104%2F1781234312440vFV51_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "‘댄스머신’ 황현우 △ ‘절대매력’ 변도미 △ ‘폭풍래퍼’ 구상구! “우리는 트라이앵글입니다!” 한때 가요계를 휩쓸었지만 예기치 못한 사건에 휘말려 하루아침에 해...",
+      "naver_rating": "8.48",
+      "directors": [
+        "손재곤"
+      ],
+      "actors": [
+        "강동원",
+        "엄태구",
+        "박지현",
+        "오정세"
+      ],
+      "genres": [
+        "코미디"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "107",
+      "movieNmEn": "Wild Sing"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20263030",
+      "movieNm": "백룸",
+      "openDt": "2026-05-27",
+      "salesAmt": "1210872160",
+      "salesShare": "6.5",
+      "salesInten": "-663403550",
+      "salesChange": "-35.4",
+      "salesAcc": "11583906460",
+      "audiCnt": "110690",
+      "audiInten": "-65752",
+      "audiChange": "-37.3",
+      "audiAcc": "1086767",
+      "scrnCnt": "649",
+      "showCnt": "7857",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260527_204%2F1779860201951BQVz3_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"시작은 호기심이었다\" 그곳은 대체 무엇인가? 낯설지만 익숙한 세계 출구도 입구도 찾을 수 없다. 당신도 입장하시겠습니까?",
+      "naver_rating": "8.00",
+      "directors": [
+        "케인 파슨스"
+      ],
+      "actors": [
+        "치웨텔 에지오포",
+        "레나테 레인스베"
+      ],
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "110",
+      "movieNmEn": "Backrooms"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250655",
+      "movieNm": "디스클로저 데이",
+      "openDt": "2026-06-10",
+      "salesAmt": "503934980",
+      "salesShare": "2.7",
+      "salesInten": "-1614044140",
+      "salesChange": "-76.2",
+      "salesAcc": "2621914100",
+      "audiCnt": "48584",
+      "audiInten": "-146084",
+      "audiChange": "-75.0",
+      "audiAcc": "243252",
+      "scrnCnt": "783",
+      "showCnt": "7503",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260513_271%2F1778656622752iuixY_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "우리가 혼자가 아니라는 사실을 알게 된다면, 누군가가 그것을 증명한다면, 그게 당신을 두렵게 하나요? 진실은 80억 인류 모두의 것입니다.",
+      "naver_rating": "5.63",
+      "directors": [
+        "스티븐 스필버그"
+      ],
+      "actors": [
+        "에밀리 블런트",
+        "조쉬 오코너",
+        "콜린 퍼스",
+        "이브 휴슨",
+        "콜먼 도밍고"
+      ],
+      "genres": [
+        "SF",
+        "미스터리"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "145",
+      "movieNmEn": "Disclosure Day"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "33",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20248484",
+      "movieNm": "신사: 악귀의 속삭임",
+      "openDt": "2026-06-17",
+      "salesAmt": "335255400",
+      "salesShare": "1.8",
+      "salesInten": "324579400",
+      "salesChange": "3040.3",
+      "salesAcc": "345931400",
+      "audiCnt": "32307",
+      "audiInten": "31193",
+      "audiChange": "2800.1",
+      "audiAcc": "33421",
+      "scrnCnt": "224",
+      "showCnt": "1858",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260528_105%2F1779944632998SX5cJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "고베의 산속에 자리한 폐신사에서, 한일 문화교류 프로젝트에 참가했던 대학생들이 실종되고 매니저 ‘유미’(공성하)는 기이한 공포에 휘말리게 된다. 한국에서 ...",
+      "naver_rating": "7.47",
+      "directors": [
+        "구마키리 가즈요시"
+      ],
+      "actors": [
+        "김재중",
+        "공성하"
+      ],
+      "genres": [
+        "공포(호러)",
+        "미스터리"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "96",
+      "movieNmEn": "The Shrine"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259626",
+      "movieNm": "마이클",
+      "openDt": "2026-05-13",
+      "salesAmt": "242784780",
+      "salesShare": "1.3",
+      "salesInten": "-267796890",
+      "salesChange": "-52.4",
+      "salesAcc": "17724273140",
+      "audiCnt": "22844",
+      "audiInten": "-26046",
+      "audiChange": "-53.3",
+      "audiAcc": "1611885",
+      "scrnCnt": "358",
+      "showCnt": "2228",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260409_124%2F17757186375802tk1E_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "그의 발끝에서 전설이 다시 시작된다! 어린 나이에 형제들과 ‘잭슨 파이브’ 그룹의 막내로 데뷔하자마자 음악적 천재성과 스타성으로 주목을 받은 ‘마이클 잭슨’....",
+      "naver_rating": "8.68",
+      "directors": [
+        "안톤 후쿠아"
+      ],
+      "actors": [
+        "자파 잭슨",
+        "니아 롱",
+        "로라 해리어",
+        "줄리아노 크루 발디",
+        "마일즈 텔러"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "127",
+      "movieNmEn": "Michael"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20261766",
+      "movieNm": "상자 속의 양",
+      "openDt": "2026-06-10",
+      "salesAmt": "197870520",
+      "salesShare": "1.1",
+      "salesInten": "-76422260",
+      "salesChange": "-27.9",
+      "salesAcc": "579844100",
+      "audiCnt": "21959",
+      "audiInten": "-8316",
+      "audiChange": "-27.5",
+      "audiAcc": "63712",
+      "scrnCnt": "389",
+      "showCnt": "2347",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260519_172%2F1779158659412QDLqq_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "나 7세. 휴머노이드 로봇. 어느 날, 엄마 아빠가 생겼다. 7세 설정으로 태어난 나는 나와 똑같이 생긴 아이를 사고로 잃은 집에 입양되어 행복한 나날을 보내는 중...",
+      "naver_rating": "9.49",
+      "directors": [
+        "고레에다 히로카즈"
+      ],
+      "actors": [
+        "아야세 하루카",
+        "다이고"
+      ],
+      "genres": [
+        "드라마",
+        "SF"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "126",
+      "movieNmEn": "Sheep in The Box"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20149629",
+      "movieNm": "비긴 어게인",
+      "openDt": "2014-08-13",
+      "salesAmt": "185989250",
+      "salesShare": "1.0",
+      "salesInten": "185989250",
+      "salesChange": "100.0",
+      "salesAcc": "29770421821",
+      "audiCnt": "15958",
+      "audiInten": "15958",
+      "audiChange": "100.0",
+      "audiAcc": "3729396",
+      "scrnCnt": "123",
+      "showCnt": "937",
+      "poster_url": "",
+      "synopsis": "“다시 시작해, 너를 빛나게 할 노래를!” 싱어송라이터인 ‘그레타’(키이라 나이틀리)는 남자친구 ‘데이브’(애덤 리바인)가 메이저 음반회사와 계약을 하게 되면서 뉴욕으로 오게 ...",
+      "naver_rating": "9.10",
+      "directors": [
+        "존 카니"
+      ],
+      "actors": [
+        "키이라 나이틀리",
+        "마크 러팔로",
+        "애덤 리바인",
+        "헤일리 스테인펠드",
+        "제임스 코든"
+      ],
+      "genres": [
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "103",
+      "movieNmEn": "Begin Again"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20163018",
+      "movieNm": "싱 스트리트",
+      "openDt": "2016-05-19",
+      "salesAmt": "116344400",
+      "salesShare": "0.6",
+      "salesInten": "-15707800",
+      "salesChange": "-11.9",
+      "salesAcc": "4823490872",
+      "audiCnt": "10875",
+      "audiInten": "-2967",
+      "audiChange": "-21.4",
+      "audiAcc": "600315",
+      "scrnCnt": "111",
+      "showCnt": "732",
+      "poster_url": "",
+      "synopsis": "#첫 사랑 ‘Up’. 새로운 학교로 전학을 온 ‘코너’는 매력적인 소녀 ‘라피나’에게 한눈에 반한다. #첫 음악 ‘Drive It Like You Stole It’. ‘코너’는 그의 마음을 얻기 위해 친구들과 오합...",
+      "naver_rating": "9.00",
+      "directors": [
+        "존 카니"
+      ],
+      "actors": [
+        "퍼디아 월시-필로",
+        "루시 보인턴",
+        "잭 레이너"
+      ],
+      "genres": [
+        "드라마",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "아일랜드",
+        "영국",
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "105",
+      "movieNmEn": "Sing Street"
+    }
+  ]
 }
