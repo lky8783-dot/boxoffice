@@ -1,7 +1,839 @@
 {
-  "updated": "2026-07-09T23:01:34",
-  "daily_date": "20260708",
+  "updated": "2026-07-10T23:01:16",
+  "daily_date": "20260709",
   "weekly_date": "20260705",
-  "daily": [],
-  "weekly": []
+  "daily": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259946",
+      "movieNm": "모아나",
+      "openDt": "2026-07-08",
+      "salesAmt": "438813800",
+      "salesShare": "30.0",
+      "salesInten": "-227758650",
+      "salesChange": "-34.2",
+      "salesAcc": "1115994250",
+      "audiCnt": "39829",
+      "audiInten": "-26974",
+      "audiChange": "-40.4",
+      "audiAcc": "107256",
+      "scrnCnt": "1349",
+      "showCnt": "4933",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260709_287%2F1783562694126cqy6R_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "끝없는 바다 너머 새로운 세상을 꿈꾸던 모투누이 섬의 소녀 모아나. 어느 날 모투누이에 깊은 어둠이 드리우자, 모아나는 저주에 빠진 섬을 구하기 위해 전설의 ...",
+      "naver_rating": "9.67",
+      "directors": [
+        "토마스 케일"
+      ],
+      "actors": [
+        "드웨인 존슨",
+        "캐서린 라가이아"
+      ],
+      "genres": [
+        "어드벤처",
+        "액션"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "115",
+      "movieNmEn": "Moana"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20242402",
+      "movieNm": "눈동자",
+      "openDt": "2026-06-24",
+      "salesAmt": "397856450",
+      "salesShare": "27.2",
+      "salesInten": "-76150390",
+      "salesChange": "-16.1",
+      "salesAcc": "10298274810",
+      "audiCnt": "38125",
+      "audiInten": "-12393",
+      "audiChange": "-24.5",
+      "audiAcc": "1019447",
+      "scrnCnt": "960",
+      "showCnt": "3499",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260626_123%2F1782458347543sx2kJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "유전병으로 점차 시력을 잃어가는 사진작가 ‘서진’(신민아). 어느 날, 자신보다 먼저 시력을 잃었지만 도예가로 성공한 쌍둥이 동생 ‘서인’(신민아)이 죽어있는 ...",
+      "naver_rating": "8.02",
+      "directors": [
+        "염지호"
+      ],
+      "actors": [
+        "신민아",
+        "김남희",
+        "이승룡",
+        "김영아",
+        "박경진"
+      ],
+      "genres": [
+        "스릴러"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "105",
+      "movieNmEn": "THE  EYES"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259781",
+      "movieNm": "토이 스토리 5",
+      "openDt": "2026-06-17",
+      "salesAmt": "254310790",
+      "salesShare": "17.4",
+      "salesInten": "-63272760",
+      "salesChange": "-19.9",
+      "salesAcc": "23976415960",
+      "audiCnt": "24629",
+      "audiInten": "-9720",
+      "audiChange": "-28.3",
+      "audiAcc": "2341803",
+      "scrnCnt": "756",
+      "showCnt": "2288",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260617_109%2F1781663561154vA0bW_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“시대는 변해도, 친구들은 영원하다\" 스마트 태블릿 ’릴리패드'의 등장으로 온라인 세계에 모여들게 된 아이들. 친구들과 어울리기 위해 ‘보니’에게도 ‘릴리패드’...",
+      "naver_rating": "9.37",
+      "directors": [
+        "앤드류 스탠튼"
+      ],
+      "actors": [
+        "톰 행크스",
+        "팀 알렌",
+        "조앤 쿠삭",
+        "그레타 리"
+      ],
+      "genres": [
+        "애니메이션",
+        "어드벤처",
+        "코미디"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "101",
+      "movieNmEn": "Toy Story 5"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20252402",
+      "movieNm": "군체",
+      "openDt": "2026-05-21",
+      "salesAmt": "77814590",
+      "salesShare": "5.3",
+      "salesInten": "-6009910",
+      "salesChange": "-7.2",
+      "salesAcc": "61854338130",
+      "audiCnt": "7381",
+      "audiInten": "-1241",
+      "audiChange": "-14.4",
+      "audiAcc": "5877314",
+      "scrnCnt": "530",
+      "showCnt": "895",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260521_199%2F1779327167613y2t7q_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다. 처음에는 짐승처럼 기...",
+      "naver_rating": "7.88",
+      "directors": [
+        "연상호"
+      ],
+      "actors": [
+        "전지현",
+        "구교환",
+        "지창욱",
+        "신현빈",
+        "김신록"
+      ],
+      "genres": [
+        "액션",
+        "스릴러"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "122",
+      "movieNmEn": "COLONY"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20248252",
+      "movieNm": "와일드 씽",
+      "openDt": "2026-06-03",
+      "salesAmt": "30309300",
+      "salesShare": "2.1",
+      "salesInten": "-5636550",
+      "salesChange": "-15.7",
+      "salesAcc": "12765516390",
+      "audiCnt": "3642",
+      "audiInten": "-576",
+      "audiChange": "-13.7",
+      "audiAcc": "1320912",
+      "scrnCnt": "346",
+      "showCnt": "496",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260612_104%2F1781234312440vFV51_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "손재곤"
+      ],
+      "actors": [
+        "강동원",
+        "엄태구",
+        "박지현",
+        "오정세",
+        "안현호"
+      ],
+      "genres": [
+        "코미디"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "107",
+      "movieNmEn": "Wild Sing"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "6",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264056",
+      "movieNm": "그린랜드 2: 마이그레이션",
+      "openDt": "2026-07-01",
+      "salesAmt": "26526200",
+      "salesShare": "1.8",
+      "salesInten": "12003800",
+      "salesChange": "82.7",
+      "salesAcc": "433810750",
+      "audiCnt": "3012",
+      "audiInten": "1509",
+      "audiChange": "100.4",
+      "audiAcc": "45715",
+      "scrnCnt": "154",
+      "showCnt": "200",
+      "poster_url": "",
+      "synopsis": "혜성 충돌로 문명이 붕괴된 지 5년 후, 방사능 폭풍을 피해 지하 벙커에서 살아남은 인류는 끝이 보이지 않는 지하 생활을 이어가고 있다. 점점 심해지는 지진과...",
+      "naver_rating": "8.60",
+      "directors": [
+        "릭 로먼 워"
+      ],
+      "actors": [
+        "제라드 버틀러",
+        "모레나 바카린",
+        "로만 그리핀 데이비스"
+      ],
+      "genres": [
+        "액션",
+        "SF"
+      ],
+      "nations": [
+        "영국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "97",
+      "movieNmEn": "Greenland: Migration"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20263530",
+      "movieNm": "마티 슈프림",
+      "openDt": "2026-07-01",
+      "salesAmt": "30434700",
+      "salesShare": "2.1",
+      "salesInten": "-6302150",
+      "salesChange": "-17.2",
+      "salesAcc": "920866410",
+      "audiCnt": "2737",
+      "audiInten": "-1020",
+      "audiChange": "-27.1",
+      "audiAcc": "87805",
+      "scrnCnt": "204",
+      "showCnt": "235",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260610_239%2F1781068492766CU2dN_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"어떤 대가를 치르더라도 반드시 가장 높은 곳으로!\" 탁구로 인생 역전을 꿈꾸는 마티 마우저는 굴욕적인 패배 후 누구도 무시할 수 없는 성공을 손에 넣기로 결심한다. 최고가 ...",
+      "naver_rating": "8.16",
+      "directors": [
+        "조쉬 사프디"
+      ],
+      "actors": [
+        "티모시 샬라메",
+        "기네스 팰트로우",
+        "오데사 아지온",
+        "타일러 더 크리에이터",
+        "아벨 페라라"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "149",
+      "movieNmEn": "Marty Supreme"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262651",
+      "movieNm": "하나 코리아",
+      "openDt": "2026-07-08",
+      "salesAmt": "17812050",
+      "salesShare": "1.2",
+      "salesInten": "-3319800",
+      "salesChange": "-15.7",
+      "salesAcc": "57703800",
+      "audiCnt": "2136",
+      "audiInten": "-364",
+      "audiChange": "-14.6",
+      "audiAcc": "6265",
+      "scrnCnt": "146",
+      "showCnt": "204",
+      "poster_url": "",
+      "synopsis": "“힘든 건 상관없습니다. 해내면 됩니다” 낯선 공항에 처음 발을 디딘 날, 모든 것이 새로 시작되었습니다. 국정원의 심문을 거쳐 하나원에 도착했습니다. 나의 미래를 생각해 보...",
+      "naver_rating": "9.14",
+      "directors": [
+        "프레드릭 쇨베르"
+      ],
+      "actors": [
+        "김민하",
+        "김주령",
+        "안서현",
+        "조승연",
+        "김금순"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "105",
+      "movieNmEn": "Hana Korea"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20261410",
+      "movieNm": "키퍼",
+      "openDt": "2026-07-08",
+      "salesAmt": "10121950",
+      "salesShare": "0.7",
+      "salesInten": "-3306950",
+      "salesChange": "-24.6",
+      "salesAcc": "23550850",
+      "audiCnt": "1491",
+      "audiInten": "-457",
+      "audiChange": "-23.5",
+      "audiAcc": "3439",
+      "scrnCnt": "99",
+      "showCnt": "175",
+      "poster_url": "",
+      "synopsis": "연인을 따라 교외의 외딴 오두막으로 여행을 간 ‘리즈’, 하지만 곧 음산한 기척과 기이한 환영에 시달리기 시작한다. 현실과 악몽의 경계가 무너져 내리는 가운데,...",
+      "naver_rating": "4.33",
+      "directors": [
+        "오즈 퍼킨스"
+      ],
+      "actors": [
+        "타티아나 마스래니",
+        "로지프 서덜랜드"
+      ],
+      "genres": [
+        "공포(호러)"
+      ],
+      "nations": [
+        "캐나다"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "98",
+      "movieNmEn": "Keeper"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20263030",
+      "movieNm": "백룸",
+      "openDt": "2026-05-27",
+      "salesAmt": "15213850",
+      "salesShare": "1.0",
+      "salesInten": "-4359650",
+      "salesChange": "-22.3",
+      "salesAcc": "12813352960",
+      "audiCnt": "1319",
+      "audiInten": "-644",
+      "audiChange": "-32.8",
+      "audiAcc": "1200882",
+      "scrnCnt": "107",
+      "showCnt": "142",
+      "poster_url": "",
+      "synopsis": "\"시작은 호기심이었다\" 그곳은 대체 무엇인가? 낯설지만 익숙한 세계 출구도 입구도 찾을 수 없다. 당신도 입장하시겠습니까?",
+      "naver_rating": "7.96",
+      "directors": [
+        "케인 파슨스"
+      ],
+      "actors": [
+        "치웨텔 에지오포",
+        "레나테 레인스베"
+      ],
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "110",
+      "movieNmEn": "Backrooms"
+    }
+  ],
+  "weekly": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259781",
+      "movieNm": "토이 스토리 5",
+      "openDt": "2026-06-17",
+      "salesAmt": "6073868870",
+      "salesShare": "35.0",
+      "salesInten": "-1534074360",
+      "salesChange": "-20.2",
+      "salesAcc": "22760480740",
+      "audiCnt": "601165",
+      "audiInten": "-143777",
+      "audiChange": "-19.3",
+      "audiAcc": "2218488",
+      "scrnCnt": "1496",
+      "showCnt": "31231",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260617_109%2F1781663561154vA0bW_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“시대는 변해도, 친구들은 영원하다\" 스마트 태블릿 ’릴리패드'의 등장으로 온라인 세계에 모여들게 된 아이들. 친구들과 어울리기 위해 ‘보니’에게도 ‘릴리패드’...",
+      "naver_rating": "9.37",
+      "directors": [
+        "앤드류 스탠튼"
+      ],
+      "actors": [
+        "톰 행크스",
+        "팀 알렌",
+        "조앤 쿠삭",
+        "그레타 리"
+      ],
+      "genres": [
+        "애니메이션",
+        "어드벤처",
+        "코미디"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "101",
+      "movieNmEn": "Toy Story 5"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20242402",
+      "movieNm": "눈동자",
+      "openDt": "2026-06-24",
+      "salesAmt": "5465329730",
+      "salesShare": "31.5",
+      "salesInten": "2416829230",
+      "salesChange": "79.3",
+      "salesAcc": "8544016230",
+      "audiCnt": "537468",
+      "audiInten": "235348",
+      "audiChange": "77.9",
+      "audiAcc": "842690",
+      "scrnCnt": "1177",
+      "showCnt": "23002",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260626_123%2F1782458347543sx2kJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "유전병으로 점차 시력을 잃어가는 사진작가 ‘서진’(신민아). 어느 날, 자신보다 먼저 시력을 잃었지만 도예가로 성공한 쌍둥이 동생 ‘서인’(신민아)이 죽어있는 ...",
+      "naver_rating": "8.02",
+      "directors": [
+        "염지호"
+      ],
+      "actors": [
+        "신민아",
+        "김남희",
+        "이승룡",
+        "김영아",
+        "박경진"
+      ],
+      "genres": [
+        "스릴러"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "105",
+      "movieNmEn": "THE  EYES"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20252402",
+      "movieNm": "군체",
+      "openDt": "2026-05-21",
+      "salesAmt": "1303469770",
+      "salesShare": "7.5",
+      "salesInten": "-602415470",
+      "salesChange": "-31.6",
+      "salesAcc": "61495718540",
+      "audiCnt": "128289",
+      "audiInten": "-58220",
+      "audiChange": "-31.2",
+      "audiAcc": "5842299",
+      "scrnCnt": "711",
+      "showCnt": "10489",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260521_199%2F1779327167613y2t7q_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다. 처음에는 짐승처럼 기...",
+      "naver_rating": "7.88",
+      "directors": [
+        "연상호"
+      ],
+      "actors": [
+        "전지현",
+        "구교환",
+        "지창욱",
+        "신현빈",
+        "김신록"
+      ],
+      "genres": [
+        "액션",
+        "스릴러"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "122",
+      "movieNmEn": "COLONY"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20248252",
+      "movieNm": "와일드 씽",
+      "openDt": "2026-06-03",
+      "salesAmt": "665231190",
+      "salesShare": "3.8",
+      "salesInten": "-612468470",
+      "salesChange": "-47.9",
+      "salesAcc": "12610967390",
+      "audiCnt": "69575",
+      "audiInten": "-63921",
+      "audiChange": "-47.9",
+      "audiAcc": "1303615",
+      "scrnCnt": "641",
+      "showCnt": "7632",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260612_104%2F1781234312440vFV51_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "손재곤"
+      ],
+      "actors": [
+        "강동원",
+        "엄태구",
+        "박지현",
+        "오정세",
+        "안현호"
+      ],
+      "genres": [
+        "코미디"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "107",
+      "movieNmEn": "Wild Sing"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "28",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20263530",
+      "movieNm": "마티 슈프림",
+      "openDt": "2026-07-01",
+      "salesAmt": "720123350",
+      "salesShare": "4.2",
+      "salesInten": "699866350",
+      "salesChange": "3454.9",
+      "salesAcc": "740380350",
+      "audiCnt": "69066",
+      "audiInten": "67869",
+      "audiChange": "5669.9",
+      "audiAcc": "70263",
+      "scrnCnt": "738",
+      "showCnt": "6689",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260610_239%2F1781068492766CU2dN_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"어떤 대가를 치르더라도 반드시 가장 높은 곳으로!\" 탁구로 인생 역전을 꿈꾸는 마티 마우저는 굴욕적인 패배 후 누구도 무시할 수 없는 성공을 손에 넣기로 결심한다. 최고가 ...",
+      "naver_rating": "8.16",
+      "directors": [
+        "조쉬 사프디"
+      ],
+      "actors": [
+        "티모시 샬라메",
+        "기네스 팰트로우",
+        "오데사 아지온",
+        "타일러 더 크리에이터",
+        "아벨 페라라"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "149",
+      "movieNmEn": "Marty Supreme"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "31",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264027",
+      "movieNm": "극장판 도라에몽: 신 진구의 해저비밀성",
+      "openDt": "2026-07-01",
+      "salesAmt": "352957300",
+      "salesShare": "2.0",
+      "salesInten": "342138300",
+      "salesChange": "3162.4",
+      "salesAcc": "363776300",
+      "audiCnt": "39155",
+      "audiInten": "38253",
+      "audiChange": "4240.9",
+      "audiAcc": "40057",
+      "scrnCnt": "194",
+      "showCnt": "2784",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260701_60%2F1782880689685LGkLk_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "이번 여름방학은 바닷속 캠핑이다! 숨이 멎을 듯한 놀라움이 가득한 두근두근 해저 대모험! 여름방학 캠핑 장소를 두고 의견이 갈린 진구와 친구들은 도라에몽의 제안으로 바...",
+      "naver_rating": "8.79",
+      "directors": [
+        "야지마 테츠오"
+      ],
+      "actors": [
+        "윤아영",
+        "김정아",
+        "조현정",
+        "이현주",
+        "최낙윤"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "101",
+      "movieNmEn": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20263030",
+      "movieNm": "백룸",
+      "openDt": "2026-05-27",
+      "salesAmt": "407169890",
+      "salesShare": "2.3",
+      "salesInten": "-321867770",
+      "salesChange": "-44.1",
+      "salesAcc": "12719918510",
+      "audiCnt": "38130",
+      "audiInten": "-29079",
+      "audiChange": "-43.3",
+      "audiAcc": "1192089",
+      "scrnCnt": "343",
+      "showCnt": "2788",
+      "poster_url": "",
+      "synopsis": "\"시작은 호기심이었다\" 그곳은 대체 무엇인가? 낯설지만 익숙한 세계 출구도 입구도 찾을 수 없다. 당신도 입장하시겠습니까?",
+      "naver_rating": "7.96",
+      "directors": [
+        "케인 파슨스"
+      ],
+      "actors": [
+        "치웨텔 에지오포",
+        "레나테 레인스베"
+      ],
+      "genres": [
+        "공포(호러)",
+        "스릴러"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "110",
+      "movieNmEn": "Backrooms"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "77",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264056",
+      "movieNm": "그린랜드 2: 마이그레이션",
+      "openDt": "2026-07-01",
+      "salesAmt": "335114930",
+      "salesShare": "1.9",
+      "salesInten": "332252580",
+      "salesChange": "11607.7",
+      "salesAcc": "339813280",
+      "audiCnt": "35155",
+      "audiInten": "34941",
+      "audiChange": "16327.6",
+      "audiAcc": "35573",
+      "scrnCnt": "378",
+      "showCnt": "3214",
+      "poster_url": "",
+      "synopsis": "혜성 충돌로 문명이 붕괴된 지 5년 후, 방사능 폭풍을 피해 지하 벙커에서 살아남은 인류는 끝이 보이지 않는 지하 생활을 이어가고 있다. 점점 심해지는 지진과...",
+      "naver_rating": "8.60",
+      "directors": [
+        "릭 로먼 워"
+      ],
+      "actors": [
+        "제라드 버틀러",
+        "모레나 바카린",
+        "로만 그리핀 데이비스"
+      ],
+      "genres": [
+        "액션",
+        "SF"
+      ],
+      "nations": [
+        "영국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "97",
+      "movieNmEn": "Greenland: Migration"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "-4",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250489",
+      "movieNm": "슈퍼걸",
+      "openDt": "2026-06-24",
+      "salesAmt": "256112060",
+      "salesShare": "1.5",
+      "salesInten": "-906918810",
+      "salesChange": "-78.0",
+      "salesAcc": "1419142930",
+      "audiCnt": "26699",
+      "audiInten": "-85149",
+      "audiChange": "-76.1",
+      "audiAcc": "138547",
+      "scrnCnt": "678",
+      "showCnt": "5950",
+      "poster_url": "",
+      "synopsis": "“지구는 너나 지키시고요. 난 내 세상을 지킬게” 과거의 트라우마로 매일 같이 술과 음악에 빠져 사는 ‘카라 조엘’. 인생의 목표도, 목적도 없는 그의 일생을 뒤바꿀...",
+      "naver_rating": "7.00",
+      "directors": [
+        "크레이그 질레스피"
+      ],
+      "actors": [
+        "밀리 알콕",
+        "마티아스 쇼에나에츠",
+        "제이슨 모모아"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "107",
+      "movieNmEn": "Supergirl"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20264427",
+      "movieNm": "극장판 암살교실 모두의 시간",
+      "openDt": "2026-07-01",
+      "salesAmt": "182995600",
+      "salesShare": "1.1",
+      "salesInten": "182995600",
+      "salesChange": "100.0",
+      "salesAcc": "182995600",
+      "audiCnt": "17220",
+      "audiInten": "17220",
+      "audiChange": "100.0",
+      "audiAcc": "17220",
+      "scrnCnt": "145",
+      "showCnt": "990",
+      "poster_url": "",
+      "synopsis": "달을 파괴하고 지구마저 파괴하겠다고 예고한 초생물 · 살생님. 살생님의 암살을 맡게 된 것은 쿠누기가오카 중학교의 열등생 3학년 E반, 일명 'END의 E반'. 그...",
+      "naver_rating": "8.29",
+      "directors": [
+        "키타무라 마사키"
+      ],
+      "actors": [
+        "후쿠야마 준",
+        "후치가미 마이",
+        "오카모토 노부히코"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "86",
+      "movieNmEn": "Assassination Classroom the Movie: Our Time"
+    }
+  ]
 }
