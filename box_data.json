@@ -1,417 +1,8 @@
 {
-  "updated": "2026-07-29T23:00:52",
-  "daily_date": "20260728",
+  "updated": "2026-07-30T23:00:50",
+  "daily_date": "20260729",
   "weekly_date": "20260726",
-  "daily": [
-    {
-      "rnum": "1",
-      "rank": "1",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20233219",
-      "movieNm": "호프",
-      "openDt": "2026-07-15",
-      "salesAmt": "1023939630",
-      "salesShare": "58.5",
-      "salesInten": "-33626850",
-      "salesChange": "-3.2",
-      "salesAcc": "39342457210",
-      "audiCnt": "100148",
-      "audiInten": "-3256",
-      "audiChange": "-3.1",
-      "audiAcc": "3619226",
-      "scrnCnt": "2108",
-      "showCnt": "7258",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260724_31%2F1784863939187eD3q0_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "지원해 줄 인력들은 산불을 끄러 갔고, 이젠 통신도 두절됐다. 호포 출장소의 ‘범석’과 ‘성애’는 노인들뿐인 마을을 지키기 위해 사투를 벌이고, 놈을 쫓아 산으로 향했던 청년들...",
-      "naver_rating": "7.37",
-      "directors": [
-        "나홍진"
-      ],
-      "actors": [
-        "황정민",
-        "조인성",
-        "정호연",
-        "테일러 러셀",
-        "카메론 브리튼"
-      ],
-      "genres": [
-        "SF",
-        "스릴러",
-        "액션"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "15세이상관람가",
-      "runtime": "156",
-      "movieNmEn": "HOPE"
-    },
-    {
-      "rnum": "2",
-      "rank": "2",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20261784",
-      "movieNm": "미니언즈 & 몬스터즈",
-      "openDt": "2026-07-15",
-      "salesAmt": "204457520",
-      "salesShare": "11.7",
-      "salesInten": "1676620",
-      "salesChange": "0.8",
-      "salesAcc": "6153528100",
-      "audiCnt": "22067",
-      "audiInten": "666",
-      "audiChange": "3.1",
-      "audiAcc": "606430",
-      "scrnCnt": "806",
-      "showCnt": "1886",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260615_205%2F1781490840312IYlhh_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "데뷔작으로 천만 관객 거장 감독이 되고 싶은 미니언즈 ‘제임스’, ‘헨리’, ‘에드’의 몬스터를 찾아 떠나는 어드벤처!",
-      "naver_rating": "7.26",
-      "directors": [
-        "피에르 꼬팽"
-      ],
-      "actors": [],
-      "genres": [
-        "애니메이션"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "전체관람가",
-      "runtime": "89",
-      "movieNmEn": "MINIONS & MONSTERS"
-    },
-    {
-      "rnum": "3",
-      "rank": "3",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20259946",
-      "movieNm": "모아나",
-      "openDt": "2026-07-08",
-      "salesAmt": "148370140",
-      "salesShare": "8.5",
-      "salesInten": "2520850",
-      "salesChange": "1.7",
-      "salesAcc": "10054325810",
-      "audiCnt": "15557",
-      "audiInten": "508",
-      "audiChange": "3.4",
-      "audiAcc": "939876",
-      "scrnCnt": "724",
-      "showCnt": "1441",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260709_287%2F1783562694126cqy6R_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "끝없는 바다 너머 새로운 세상을 꿈꾸던 모투누이 섬의 소녀 모아나. 어느 날 모투누이에 깊은 어둠이 드리우자, 모아나는 저주에 빠진 섬을 구하기 위해 전설의 ...",
-      "naver_rating": "9.38",
-      "directors": [
-        "토마스 케일"
-      ],
-      "actors": [
-        "드웨인 존슨",
-        "캐서린 라가이아"
-      ],
-      "genres": [
-        "어드벤처",
-        "액션"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "전체관람가",
-      "runtime": "115",
-      "movieNmEn": "Moana"
-    },
-    {
-      "rnum": "4",
-      "rank": "4",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20259781",
-      "movieNm": "토이 스토리 5",
-      "openDt": "2026-06-17",
-      "salesAmt": "119485840",
-      "salesShare": "6.8",
-      "salesInten": "7230740",
-      "salesChange": "6.4",
-      "salesAcc": "29455117700",
-      "audiCnt": "12498",
-      "audiInten": "977",
-      "audiChange": "8.5",
-      "audiAcc": "2861140",
-      "scrnCnt": "536",
-      "showCnt": "884",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260617_109%2F1781663561154vA0bW_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "“시대는 변해도, 친구들은 영원하다\" 스마트 태블릿 ’릴리패드'의 등장으로 온라인 세계에 모여들게 된 아이들. 친구들과 어울리기 위해 ‘보니’에게도 ‘릴리패드’...",
-      "naver_rating": "9.30",
-      "directors": [
-        "앤드류 스탠튼"
-      ],
-      "actors": [
-        "톰 행크스",
-        "팀 알렌",
-        "조앤 쿠삭",
-        "그레타 리"
-      ],
-      "genres": [
-        "애니메이션",
-        "어드벤처",
-        "코미디"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "전체관람가",
-      "runtime": "101",
-      "movieNmEn": "Toy Story 5"
-    },
-    {
-      "rnum": "5",
-      "rank": "5",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20242402",
-      "movieNm": "눈동자",
-      "openDt": "2026-06-24",
-      "salesAmt": "67535250",
-      "salesShare": "3.9",
-      "salesInten": "-1162750",
-      "salesChange": "-1.7",
-      "salesAcc": "15731733790",
-      "audiCnt": "6533",
-      "audiInten": "-165",
-      "audiChange": "-2.5",
-      "audiAcc": "1524848",
-      "scrnCnt": "525",
-      "showCnt": "881",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260626_123%2F1782458347543sx2kJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "유전병으로 점차 시력을 잃어가는 사진작가 ‘서진’(신민아). 어느 날, 자신보다 먼저 시력을 잃었지만 도예가로 성공한 쌍둥이 동생 ‘서인’(신민아)이 죽어있는 ...",
-      "naver_rating": "7.87",
-      "directors": [
-        "염지호"
-      ],
-      "actors": [
-        "신민아",
-        "김남희",
-        "이승룡",
-        "김영아",
-        "박경진"
-      ],
-      "genres": [
-        "스릴러"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "15세이상관람가",
-      "runtime": "105",
-      "movieNmEn": "THE  EYES"
-    },
-    {
-      "rnum": "6",
-      "rank": "6",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20262902",
-      "movieNm": "다윗",
-      "openDt": "2026-07-10",
-      "salesAmt": "49701550",
-      "salesShare": "2.8",
-      "salesInten": "2560700",
-      "salesChange": "5.4",
-      "salesAcc": "2254555580",
-      "audiCnt": "5472",
-      "audiInten": "435",
-      "audiChange": "8.6",
-      "audiAcc": "230860",
-      "scrnCnt": "315",
-      "showCnt": "388",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_234%2F1783665438821VAl3y_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "평범한 목동 다윗, 두려움을 넘어 역사가 되다! 소년 다윗은 어느 날 선지자 사무엘로부터 왕이 될 운명을 듣게 되지만, 그것이 무엇을 의미하는지 알기도 전에 ...",
-      "naver_rating": "9.66",
-      "directors": [
-        "필 커닝햄",
-        "브렌트 도스"
-      ],
-      "actors": [
-        "브랜든 엥그먼",
-        "필 위크함",
-        "브라이언 스티베일",
-        "아담 골드",
-        "미리 메시카"
-      ],
-      "genres": [
-        "애니메이션"
-      ],
-      "nations": [
-        "남아프리카공화국",
-        "미국"
-      ],
-      "rating": "전체관람가",
-      "runtime": "109",
-      "movieNmEn": "David"
-    },
-    {
-      "rnum": "7",
-      "rank": "7",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20264665",
-      "movieNm": "드림 애니멀즈: 더무비",
-      "openDt": "2026-07-24",
-      "salesAmt": "28063810",
-      "salesShare": "1.6",
-      "salesInten": "-5460320",
-      "salesChange": "-16.3",
-      "salesAcc": "280384250",
-      "audiCnt": "3166",
-      "audiInten": "-575",
-      "audiChange": "-15.4",
-      "audiAcc": "31311",
-      "scrnCnt": "323",
-      "showCnt": "414",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260629_219%2F1782702550486T1gTd_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "과자세계가 없어진다고?! 귀여움으로 무장한 녀석들의 대책 없는 모험이 시작된다! 과자와 인간이 사이좋게 지내는 ‘스위츠랜드’의 슈퍼스타 ‘드림 애니멀즈’. ...",
-      "naver_rating": "9.42",
-      "directors": [
-        "타케키요 히토시"
-      ],
-      "actors": [],
-      "genres": [
-        "애니메이션"
-      ],
-      "nations": [
-        "일본"
-      ],
-      "rating": "전체관람가",
-      "runtime": "90",
-      "movieNmEn": "Dream Animals The Movie"
-    },
-    {
-      "rnum": "8",
-      "rank": "8",
-      "rankInten": "0",
-      "rankOldAndNew": "NEW",
-      "movieCd": "20262770",
-      "movieNm": "스파이더맨: 브랜드 뉴 데이",
-      "openDt": "2026-07-29",
-      "salesAmt": "17586000",
-      "salesShare": "1.0",
-      "salesInten": "17586000",
-      "salesChange": "100",
-      "salesAcc": "17586000",
-      "audiCnt": "1254",
-      "audiInten": "1254",
-      "audiChange": "100",
-      "audiAcc": "1254",
-      "scrnCnt": "3",
-      "showCnt": "5",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260716_51%2F1784184393949xOJUJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "\"세상 모두에게 잊힌 피터 파커. 그의 정체를 기억하는 역대급 빌런의 등장! 가장 통제할 수 없는 대결이 시작된다!\" 4년 전 소중한 사람들을 지키기 위해 모두...",
-      "naver_rating": "9.09",
-      "directors": [
-        "데스틴 다니엘 크리튼"
-      ],
-      "actors": [
-        "톰 홀랜드",
-        "젠데이아 콜먼",
-        "세이디 싱크",
-        "제이콥 배덜런",
-        "존 번탈"
-      ],
-      "genres": [
-        "액션",
-        "어드벤처",
-        "판타지"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "12세이상관람가",
-      "runtime": "144",
-      "movieNmEn": "Spider-Man: Brand New Day"
-    },
-    {
-      "rnum": "9",
-      "rank": "9",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20252402",
-      "movieNm": "군체",
-      "openDt": "2026-05-21",
-      "salesAmt": "9713100",
-      "salesShare": "0.6",
-      "salesInten": "1401000",
-      "salesChange": "16.9",
-      "salesAcc": "62709506340",
-      "audiCnt": "967",
-      "audiInten": "154",
-      "audiChange": "18.9",
-      "audiAcc": "5951746",
-      "scrnCnt": "128",
-      "showCnt": "149",
-      "poster_url": "",
-      "synopsis": "서울 도심의 초고층 빌딩에서 정체불명의 집단 감염사태가 발생한다. 건물은 순식간에 봉쇄되고, 그 안에 있던 사람들은 그대로 고립된다. 처음에는 짐승처럼 기어다니던 감염...",
-      "naver_rating": "7.86",
-      "directors": [
-        "연상호"
-      ],
-      "actors": [
-        "전지현",
-        "신건우",
-        "구교환",
-        "지창욱",
-        "신현빈"
-      ],
-      "genres": [
-        "액션",
-        "스릴러"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "15세이상관람가",
-      "runtime": "122",
-      "movieNmEn": "COLONY"
-    },
-    {
-      "rnum": "10",
-      "rank": "10",
-      "rankInten": "2",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20262381",
-      "movieNm": "사랑의 하츄핑: 고래보석의 전설",
-      "openDt": "2026-08-05",
-      "salesAmt": "8649000",
-      "salesShare": "0.5",
-      "salesInten": "4149000",
-      "salesChange": "92.2",
-      "salesAcc": "48689000",
-      "audiCnt": "961",
-      "audiInten": "461",
-      "audiChange": "92.2",
-      "audiAcc": "4951",
-      "scrnCnt": "5",
-      "showCnt": "5",
-      "poster_url": "",
-      "synopsis": "바다 너머, 가장 큰 사랑이 기다린다! 이번엔, 반드시 구할거야! 하츄핑과 단짝이 된 로미는 행복한 나날을 보내고 있지만 하고 싶은 일과 해야만 하는 일 사이...",
-      "naver_rating": "",
-      "directors": [
-        "김수훈"
-      ],
-      "actors": [],
-      "genres": [
-        "애니메이션"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "전체관람가",
-      "runtime": "105",
-      "movieNmEn": ""
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "rnum": "1",
@@ -421,15 +12,15 @@
       "movieCd": "20233219",
       "movieNm": "호프",
       "openDt": "2026-07-15",
-      "salesAmt": "13526093400",
+      "salesAmt": "13526086400",
       "salesShare": "67.1",
-      "salesInten": "-10048588300",
+      "salesInten": "-10048581300",
       "salesChange": "-42.6",
-      "salesAcc": "37260951100",
-      "audiCnt": "1286044",
+      "salesAcc": "37260930100",
+      "audiCnt": "1286043",
       "audiInten": "-832906",
       "audiChange": "-39.3",
-      "audiAcc": "3415674",
+      "audiAcc": "3415672",
       "scrnCnt": "2258",
       "showCnt": "55145",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260724_31%2F1784863939187eD3q0_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -501,15 +92,15 @@
       "movieCd": "20259946",
       "movieNm": "모아나",
       "openDt": "2026-07-08",
-      "salesAmt": "1375847410",
+      "salesAmt": "1375577410",
       "salesShare": "6.8",
-      "salesInten": "-1369111780",
+      "salesInten": "-1369381780",
       "salesChange": "-49.9",
-      "salesAcc": "9760106380",
-      "audiCnt": "137181",
-      "audiInten": "-123450",
+      "salesAcc": "9759836380",
+      "audiCnt": "137148",
+      "audiInten": "-123483",
       "audiChange": "-47.4",
-      "audiAcc": "909270",
+      "audiAcc": "909237",
       "scrnCnt": "860",
       "showCnt": "9899",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260709_287%2F1783562694126cqy6R_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -588,11 +179,11 @@
       "salesShare": "4.2",
       "salesInten": "-803863490",
       "salesChange": "-48.9",
-      "salesAcc": "15595500540",
+      "salesAcc": "15595486540",
       "audiCnt": "80406",
       "audiInten": "-73565",
       "audiChange": "-47.8",
-      "audiAcc": "1511617",
+      "audiAcc": "1511616",
       "scrnCnt": "621",
       "showCnt": "6964",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260626_123%2F1782458347543sx2kJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -762,7 +353,7 @@
       "showCnt": "481",
       "poster_url": "",
       "synopsis": "\"어떤 대가를 치르더라도 반드시 가장 높은 곳으로!\" 탁구로 인생 역전을 꿈꾸는 마티 마우저는 굴욕적인 패배 후 누구도 무시할 수 없는 성공을 손에 넣기로 결심한다. 최고가 ...",
-      "naver_rating": "8.09",
+      "naver_rating": "8.04",
       "directors": [
         "조쉬 사프디"
       ],
