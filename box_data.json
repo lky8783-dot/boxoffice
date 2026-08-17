@@ -1,7 +1,816 @@
 {
-  "updated": "2026-08-16T23:00:49",
-  "daily_date": "20260815",
+  "updated": "2026-08-17T23:01:00",
+  "daily_date": "20260816",
   "weekly_date": "20260816",
-  "daily": [],
-  "weekly": []
+  "daily": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250654",
+      "movieNm": "오디세이",
+      "openDt": "2026-08-05",
+      "salesAmt": "7880010810",
+      "salesShare": "60.2",
+      "salesInten": "817914650",
+      "salesChange": "11.6",
+      "salesAcc": "49912252520",
+      "audiCnt": "720610",
+      "audiInten": "78526",
+      "audiChange": "12.2",
+      "audiAcc": "4542477",
+      "scrnCnt": "2114",
+      "showCnt": "6633",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'(맷 데이먼)는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페...",
+      "naver_rating": "9.14",
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "actors": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "172",
+      "movieNmEn": "The Odyssey"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262770",
+      "movieNm": "스파이더맨: 브랜드 뉴 데이",
+      "openDt": "2026-07-29",
+      "salesAmt": "3278736930",
+      "salesShare": "25.0",
+      "salesInten": "137725290",
+      "salesChange": "4.4",
+      "salesAcc": "75877520330",
+      "audiCnt": "314148",
+      "audiInten": "15402",
+      "audiChange": "5.2",
+      "audiAcc": "7279373",
+      "scrnCnt": "1311",
+      "showCnt": "4060",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260716_51%2F1784184393949xOJUJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"세상 모두에게 잊힌 피터 파커. 그의 정체를 기억하는 역대급 빌런의 등장! 가장 통제할 수 없는 대결이 시작된다!\" 4년 전 소중한 사람들을 지키기 위해 모두...",
+      "naver_rating": "9.01",
+      "directors": [
+        "데스틴 다니엘 크리튼"
+      ],
+      "actors": [
+        "톰 홀랜드",
+        "젠데이아 콜먼",
+        "세이디 싱크",
+        "제이콥 배덜런",
+        "존 번탈"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "144",
+      "movieNmEn": "Spider-Man: Brand New Day"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262381",
+      "movieNm": "사랑의 하츄핑: 고래보석의 전설",
+      "openDt": "2026-08-05",
+      "salesAmt": "562201390",
+      "salesShare": "4.3",
+      "salesInten": "-24690230",
+      "salesChange": "-4.2",
+      "salesAcc": "5968533770",
+      "audiCnt": "58345",
+      "audiInten": "-2811",
+      "audiChange": "-4.6",
+      "audiAcc": "633527",
+      "scrnCnt": "744",
+      "showCnt": "1262",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260805_49%2F1785916856070mvlgV_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "바다 너머, 가장 큰 사랑이 기다린다! 이번엔, 반드시 구할거야! 하츄핑과 단짝이 된 로미는 행복한 나날을 보내고 있지만 하고 싶은 일과 해야만 하는 일 사이...",
+      "naver_rating": "9.09",
+      "directors": [
+        "김수훈"
+      ],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "105",
+      "movieNmEn": ""
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20255484",
+      "movieNm": "오케이 마담2",
+      "openDt": "2026-08-12",
+      "salesAmt": "460479670",
+      "salesShare": "3.5",
+      "salesInten": "-4310930",
+      "salesChange": "-0.9",
+      "salesAcc": "1898804930",
+      "audiCnt": "46765",
+      "audiInten": "-1210",
+      "audiChange": "-2.5",
+      "audiAcc": "203968",
+      "scrnCnt": "741",
+      "showCnt": "1556",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260813_216%2F1786582899220I3x91_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "사춘기 딸과의 전쟁, 허세 충만 백수 남편, 꽈배기집 폐업 위기까지. 지긋지긋한 현생을 견뎌오던 미영에게 초호화 크루즈 결혼식 초대장이 도착한다. “우리, 진...",
+      "naver_rating": "6.56",
+      "directors": [
+        "이철하"
+      ],
+      "actors": [
+        "엄정화",
+        "박성웅",
+        "이상윤",
+        "배정남",
+        "박진주"
+      ],
+      "genres": [
+        "액션",
+        "코미디"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "108",
+      "movieNmEn": "OK! MADAM: BON VOYAGE"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264635",
+      "movieNm": "명탐정 코난: 하이웨이의 타천사",
+      "openDt": "2026-08-12",
+      "salesAmt": "424630460",
+      "salesShare": "3.2",
+      "salesInten": "-32070550",
+      "salesChange": "-7",
+      "salesAcc": "2242797180",
+      "audiCnt": "42020",
+      "audiInten": "-3677",
+      "audiChange": "-8",
+      "audiAcc": "226028",
+      "scrnCnt": "714",
+      "showCnt": "1288",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_201%2F1786522147901g3HaS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "‘모터 사이클 페스티벌’이 열리는 요코하마로 향하던 코난 일행은 폭주하는 검은 오토바이 사건에 휘말리고 범인을 쫓던 ‘바람의 여신’ 가나가와현경 교통기동대 하기와라 치...",
+      "naver_rating": "7.63",
+      "directors": [],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "109",
+      "movieNmEn": "Detective Conan the Movie: Fallen Angel of the Highway"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262945",
+      "movieNm": "퍼피 구조대: 더 다이노 무비",
+      "openDt": "2026-08-13",
+      "salesAmt": "177006890",
+      "salesShare": "1.4",
+      "salesInten": "1394940",
+      "salesChange": "0.8",
+      "salesAcc": "467888690",
+      "audiCnt": "18180",
+      "audiInten": "228",
+      "audiChange": "1.3",
+      "audiAcc": "47625",
+      "scrnCnt": "340",
+      "showCnt": "386",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260814_116%2F1786672076111EBQjO_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "화산 폭발 일보 직전! 카운트다운은 시작되었다! 신비한 폭풍에 휩쓸려 공룡들이 살아 숨쉬는 미지의 섬에 불시착한 퍼피 구조대와 포기를 모르는 용감한 소방...",
+      "naver_rating": "10.00",
+      "directors": [
+        "캘런 브런커"
+      ],
+      "actors": [
+        "은영선",
+        "문남숙",
+        "정선혜",
+        "박지윤",
+        "신용우"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "88",
+      "movieNmEn": "PAW Patrol: The Dino Movie"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20233219",
+      "movieNm": "호프",
+      "openDt": "2026-07-15",
+      "salesAmt": "156722240",
+      "salesShare": "1.2",
+      "salesInten": "12094510",
+      "salesChange": "8.4",
+      "salesAcc": "47921711710",
+      "audiCnt": "15400",
+      "audiInten": "1263",
+      "audiChange": "8.9",
+      "audiAcc": "4475560",
+      "scrnCnt": "289",
+      "showCnt": "434",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260724_31%2F1784863939187eD3q0_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "지원해 줄 인력들은 산불을 끄러 갔고, 이젠 통신도 두절됐다. 호포 출장소의 ‘범석’과 ‘성애’는 노인들뿐인 마을을 지키기 위해 사투를 벌이고, 놈을 쫓아 산으로 향했던 청년들...",
+      "naver_rating": "7.35",
+      "directors": [
+        "나홍진"
+      ],
+      "actors": [
+        "황정민",
+        "조인성",
+        "정호연",
+        "테일러 러셀",
+        "카메론 브리튼"
+      ],
+      "genres": [
+        "SF",
+        "스릴러",
+        "액션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "156",
+      "movieNmEn": "HOPE"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264148",
+      "movieNm": "어떻게 해야 했을까?",
+      "openDt": "2026-07-29",
+      "salesAmt": "35910300",
+      "salesShare": "0.3",
+      "salesInten": "-1053750",
+      "salesChange": "-2.9",
+      "salesAcc": "694387600",
+      "audiCnt": "3502",
+      "audiInten": "-30",
+      "audiChange": "-0.8",
+      "audiAcc": "69312",
+      "scrnCnt": "55",
+      "showCnt": "90",
+      "poster_url": "",
+      "synopsis": "“20년간 기록된, 사적인 가족의 초상” 스물넷, 다정하고 촉망받던 누나에게 조현병 증상이 나타난다. 부모님은 병원 대신 현관문에 자물쇠를 채우는 것을 택한다....",
+      "naver_rating": "9.25",
+      "directors": [],
+      "actors": [],
+      "genres": [
+        "다큐멘터리"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "101",
+      "movieNmEn": "What Should We Have Done"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262902",
+      "movieNm": "다윗",
+      "openDt": "2026-07-10",
+      "salesAmt": "31370400",
+      "salesShare": "0.2",
+      "salesInten": "1871450",
+      "salesChange": "6.3",
+      "salesAcc": "2895213930",
+      "audiCnt": "3321",
+      "audiInten": "272",
+      "audiChange": "8.9",
+      "audiAcc": "298694",
+      "scrnCnt": "44",
+      "showCnt": "51",
+      "poster_url": "",
+      "synopsis": "평범한 목동 다윗, 두려움을 넘어 역사가 되다! 소년 다윗은 어느 날 선지자 사무엘로부터 왕이 될 운명을 듣게 되지만, 그것이 무엇을 의미하는지 알기도 전에 ...",
+      "naver_rating": "9.64",
+      "directors": [
+        "필 커닝햄",
+        "브렌트 도스"
+      ],
+      "actors": [
+        "브랜든 엥그먼",
+        "필 위크함",
+        "브라이언 스티베일",
+        "아담 골드",
+        "미리 메시카"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "남아프리카공화국",
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "109",
+      "movieNmEn": "David"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20185485",
+      "movieNm": "보헤미안 랩소디",
+      "openDt": "2018-10-31",
+      "salesAmt": "10925450",
+      "salesShare": "0.1",
+      "salesInten": "-1315400",
+      "salesChange": "-10.7",
+      "salesAcc": "86349018935",
+      "audiCnt": "996",
+      "audiInten": "-131",
+      "audiChange": "-11.6",
+      "audiAcc": "9954758",
+      "scrnCnt": "65",
+      "showCnt": "88",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260813_49%2F1786589215543KY0D5_PNG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "공항에서 수하물 노동자로 일하며 음악의 꿈을 키우던 이민자 출신의 아웃사이더 ‘파록버사라’ 보컬을 구하던 로컬 밴드에 들어가게 되면서 ‘프레디 머큐리’라는 이름으로 밴드...",
+      "naver_rating": "9.45",
+      "directors": [
+        "브라이언 싱어"
+      ],
+      "actors": [
+        "라미 말렉",
+        "조셉 마젤로",
+        "마이크 마이어스",
+        "루시 보인턴"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "134",
+      "movieNmEn": "Bohemian Rhapsody"
+    }
+  ],
+  "weekly": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250654",
+      "movieNm": "오디세이",
+      "openDt": "2026-08-05",
+      "salesAmt": "29414021540",
+      "salesShare": "57.2",
+      "salesInten": "8926398560",
+      "salesChange": "43.6",
+      "salesAcc": "49912252520",
+      "audiCnt": "2667717",
+      "audiInten": "793581",
+      "audiChange": "42.3",
+      "audiAcc": "4542477",
+      "scrnCnt": "2114",
+      "showCnt": "38247",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'(맷 데이먼)는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페...",
+      "naver_rating": "9.14",
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "actors": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "172",
+      "movieNmEn": "The Odyssey"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262770",
+      "movieNm": "스파이더맨: 브랜드 뉴 데이",
+      "openDt": "2026-07-29",
+      "salesAmt": "13996400790",
+      "salesShare": "27.2",
+      "salesInten": "-12021849700",
+      "salesChange": "-46.2",
+      "salesAcc": "75877520330",
+      "audiCnt": "1363015",
+      "audiInten": "-1165023",
+      "audiChange": "-46.1",
+      "audiAcc": "7279373",
+      "scrnCnt": "1618",
+      "showCnt": "31783",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260716_51%2F1784184393949xOJUJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"세상 모두에게 잊힌 피터 파커. 그의 정체를 기억하는 역대급 빌런의 등장! 가장 통제할 수 없는 대결이 시작된다!\" 4년 전 소중한 사람들을 지키기 위해 모두...",
+      "naver_rating": "9.01",
+      "directors": [
+        "데스틴 다니엘 크리튼"
+      ],
+      "actors": [
+        "톰 홀랜드",
+        "젠데이아 콜먼",
+        "세이디 싱크",
+        "제이콥 배덜런",
+        "존 번탈"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "144",
+      "movieNmEn": "Spider-Man: Brand New Day"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "7",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264635",
+      "movieNm": "명탐정 코난: 하이웨이의 타천사",
+      "openDt": "2026-08-12",
+      "salesAmt": "2129814460",
+      "salesShare": "4.1",
+      "salesInten": "2016831740",
+      "salesChange": "1785.1",
+      "salesAcc": "2242797180",
+      "audiCnt": "217200",
+      "audiInten": "208372",
+      "audiChange": "2360.4",
+      "audiAcc": "226028",
+      "scrnCnt": "809",
+      "showCnt": "7438",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_201%2F1786522147901g3HaS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "‘모터 사이클 페스티벌’이 열리는 요코하마로 향하던 코난 일행은 폭주하는 검은 오토바이 사건에 휘말리고 범인을 쫓던 ‘바람의 여신’ 가나가와현경 교통기동대 하기와라 치...",
+      "naver_rating": "7.63",
+      "directors": [],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "109",
+      "movieNmEn": "Detective Conan the Movie: Fallen Angel of the Highway"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262381",
+      "movieNm": "사랑의 하츄핑: 고래보석의 전설",
+      "openDt": "2026-08-05",
+      "salesAmt": "1866066710",
+      "salesShare": "3.6",
+      "salesInten": "-1929361030",
+      "salesChange": "-50.8",
+      "salesAcc": "5968533770",
+      "audiCnt": "199725",
+      "audiInten": "-207583",
+      "audiChange": "-51.0",
+      "audiAcc": "633527",
+      "scrnCnt": "755",
+      "showCnt": "7849",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260805_49%2F1785916856070mvlgV_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "바다 너머, 가장 큰 사랑이 기다린다! 이번엔, 반드시 구할거야! 하츄핑과 단짝이 된 로미는 행복한 나날을 보내고 있지만 하고 싶은 일과 해야만 하는 일 사이...",
+      "naver_rating": "9.09",
+      "directors": [
+        "김수훈"
+      ],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "105",
+      "movieNmEn": ""
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "6",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20255484",
+      "movieNm": "오케이 마담2",
+      "openDt": "2026-08-12",
+      "salesAmt": "1782861330",
+      "salesShare": "3.5",
+      "salesInten": "1698130730",
+      "salesChange": "2004.2",
+      "salesAcc": "1898804930",
+      "audiCnt": "192185",
+      "audiInten": "183809",
+      "audiChange": "2194.5",
+      "audiAcc": "203968",
+      "scrnCnt": "925",
+      "showCnt": "10285",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260813_216%2F1786582899220I3x91_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "사춘기 딸과의 전쟁, 허세 충만 백수 남편, 꽈배기집 폐업 위기까지. 지긋지긋한 현생을 견뎌오던 미영에게 초호화 크루즈 결혼식 초대장이 도착한다. “우리, 진...",
+      "naver_rating": "6.56",
+      "directors": [
+        "이철하"
+      ],
+      "actors": [
+        "엄정화",
+        "박성웅",
+        "이상윤",
+        "배정남",
+        "박진주"
+      ],
+      "genres": [
+        "액션",
+        "코미디"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "108",
+      "movieNmEn": "OK! MADAM: BON VOYAGE"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20233219",
+      "movieNm": "호프",
+      "openDt": "2026-07-15",
+      "salesAmt": "830739020",
+      "salesShare": "1.6",
+      "salesInten": "-1981978420",
+      "salesChange": "-70.5",
+      "salesAcc": "47921711710",
+      "audiCnt": "81690",
+      "audiInten": "-201636",
+      "audiChange": "-71.2",
+      "audiAcc": "4475560",
+      "scrnCnt": "580",
+      "showCnt": "4095",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260724_31%2F1784863939187eD3q0_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "지원해 줄 인력들은 산불을 끄러 갔고, 이젠 통신도 두절됐다. 호포 출장소의 ‘범석’과 ‘성애’는 노인들뿐인 마을을 지키기 위해 사투를 벌이고, 놈을 쫓아 산으로 향했던 청년들...",
+      "naver_rating": "7.35",
+      "directors": [
+        "나홍진"
+      ],
+      "actors": [
+        "황정민",
+        "조인성",
+        "정호연",
+        "테일러 러셀",
+        "카메론 브리튼"
+      ],
+      "genres": [
+        "SF",
+        "스릴러",
+        "액션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "156",
+      "movieNmEn": "HOPE"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "6",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262945",
+      "movieNm": "퍼피 구조대: 더 다이노 무비",
+      "openDt": "2026-08-13",
+      "salesAmt": "424735690",
+      "salesShare": "0.8",
+      "salesInten": "381582690",
+      "salesChange": "884.3",
+      "salesAcc": "467888690",
+      "audiCnt": "43879",
+      "audiInten": "40133",
+      "audiChange": "1071.4",
+      "audiAcc": "47625",
+      "scrnCnt": "343",
+      "showCnt": "1381",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260814_116%2F1786672076111EBQjO_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "화산 폭발 일보 직전! 카운트다운은 시작되었다! 신비한 폭풍에 휩쓸려 공룡들이 살아 숨쉬는 미지의 섬에 불시착한 퍼피 구조대와 포기를 모르는 용감한 소방...",
+      "naver_rating": "10.00",
+      "directors": [
+        "캘런 브런커"
+      ],
+      "actors": [
+        "은영선",
+        "문남숙",
+        "정선혜",
+        "박지윤",
+        "신용우"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "88",
+      "movieNmEn": "PAW Patrol: The Dino Movie"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264148",
+      "movieNm": "어떻게 해야 했을까?",
+      "openDt": "2026-07-29",
+      "salesAmt": "194214100",
+      "salesShare": "0.4",
+      "salesInten": "-62513580",
+      "salesChange": "-24.4",
+      "salesAcc": "694387600",
+      "audiCnt": "19584",
+      "audiInten": "-6136",
+      "audiChange": "-23.9",
+      "audiAcc": "69312",
+      "scrnCnt": "70",
+      "showCnt": "729",
+      "poster_url": "",
+      "synopsis": "“20년간 기록된, 사적인 가족의 초상” 스물넷, 다정하고 촉망받던 누나에게 조현병 증상이 나타난다. 부모님은 병원 대신 현관문에 자물쇠를 채우는 것을 택한다....",
+      "naver_rating": "9.25",
+      "directors": [],
+      "actors": [],
+      "genres": [
+        "다큐멘터리"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "101",
+      "movieNmEn": "What Should We Have Done"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "-4",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20261784",
+      "movieNm": "미니언즈 & 몬스터즈",
+      "openDt": "2026-07-15",
+      "salesAmt": "80171600",
+      "salesShare": "0.2",
+      "salesInten": "-358925430",
+      "salesChange": "-81.7",
+      "salesAcc": "7673001920",
+      "audiCnt": "9460",
+      "audiInten": "-39890",
+      "audiChange": "-80.8",
+      "audiAcc": "772750",
+      "scrnCnt": "222",
+      "showCnt": "599",
+      "poster_url": "",
+      "synopsis": "데뷔작으로 천만 관객 거장 감독이 되고 싶은 미니언즈 ‘제임스’, ‘헨리’, ‘에드’의 몬스터를 찾아 떠나는 어드벤처!",
+      "naver_rating": "7.27",
+      "directors": [
+        "피에르 꼬팽"
+      ],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "89",
+      "movieNmEn": "MINIONS & MONSTERS"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "-3",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262902",
+      "movieNm": "다윗",
+      "openDt": "2026-07-10",
+      "salesAmt": "87914750",
+      "salesShare": "0.2",
+      "salesInten": "-155614670",
+      "salesChange": "-63.9",
+      "salesAcc": "2895213930",
+      "audiCnt": "9344",
+      "audiInten": "-16657",
+      "audiChange": "-64.1",
+      "audiAcc": "298694",
+      "scrnCnt": "65",
+      "showCnt": "288",
+      "poster_url": "",
+      "synopsis": "평범한 목동 다윗, 두려움을 넘어 역사가 되다! 소년 다윗은 어느 날 선지자 사무엘로부터 왕이 될 운명을 듣게 되지만, 그것이 무엇을 의미하는지 알기도 전에 ...",
+      "naver_rating": "9.64",
+      "directors": [
+        "필 커닝햄",
+        "브렌트 도스"
+      ],
+      "actors": [
+        "브랜든 엥그먼",
+        "필 위크함",
+        "브라이언 스티베일",
+        "아담 골드",
+        "미리 메시카"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "남아프리카공화국",
+        "미국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "109",
+      "movieNmEn": "David"
+    }
+  ]
 }
