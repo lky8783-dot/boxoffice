@@ -1,7 +1,844 @@
 {
-  "updated": "2026-09-10T23:01:01",
-  "daily_date": "20260909",
+  "updated": "2026-09-11T23:01:00",
+  "daily_date": "20260910",
   "weekly_date": "20260906",
-  "daily": [],
-  "weekly": []
+  "daily": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250654",
+      "movieNm": "오디세이",
+      "openDt": "2026-08-05",
+      "salesAmt": "788900180",
+      "salesShare": "47.5",
+      "salesInten": "-88203600",
+      "salesChange": "-10.1",
+      "salesAcc": "115352402660",
+      "audiCnt": "64835",
+      "audiInten": "-11559",
+      "audiChange": "-15.1",
+      "audiAcc": "10333241",
+      "scrnCnt": "1465",
+      "showCnt": "4188",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'(맷 데이먼)는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페...",
+      "naver_rating": "9.06",
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "actors": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "172",
+      "movieNmEn": "The Odyssey"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265146",
+      "movieNm": "옵세션",
+      "openDt": "2026-09-02",
+      "salesAmt": "290239500",
+      "salesShare": "17.5",
+      "salesInten": "-12016750",
+      "salesChange": "-4",
+      "salesAcc": "3168865670",
+      "audiCnt": "27617",
+      "audiInten": "-3580",
+      "audiChange": "-11.5",
+      "audiAcc": "298339",
+      "scrnCnt": "719",
+      "showCnt": "1623",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_196%2F1786497126921CQVW2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“너무 너무 너무 너무 사랑해 사랑해 사랑해 사랑해” ‘니키’를 짝사랑하던 ‘베어’는 골동품 상점에서 구입한 ‘원 위시 윌로우’에 ‘니키’가 자신을 가장 사랑하게 해달라고 소원을 ...",
+      "naver_rating": "8.64",
+      "directors": [
+        "커리 바커"
+      ],
+      "actors": [
+        "마이클 존스턴",
+        "인디 네버레티",
+        "쿠퍼 톰린슨",
+        "메간 롤리스"
+      ],
+      "genres": [
+        "공포(호러)"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "108",
+      "movieNmEn": "Obsession"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262770",
+      "movieNm": "스파이더맨: 브랜드 뉴 데이",
+      "openDt": "2026-07-29",
+      "salesAmt": "108275360",
+      "salesShare": "6.5",
+      "salesInten": "-5202000",
+      "salesChange": "-4.6",
+      "salesAcc": "91742859270",
+      "audiCnt": "12880",
+      "audiInten": "-767",
+      "audiChange": "-5.6",
+      "audiAcc": "8845693",
+      "scrnCnt": "614",
+      "showCnt": "1228",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260716_51%2F1784184393949xOJUJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"세상 모두에게 잊힌 피터 파커. 그의 정체를 기억하는 역대급 빌런의 등장! 가장 통제할 수 없는 대결이 시작된다!\" 4년 전 소중한 사람들을 지키기 위해 모두...",
+      "naver_rating": "8.98",
+      "directors": [
+        "데스틴 다니엘 크리튼"
+      ],
+      "actors": [
+        "톰 홀랜드",
+        "젠데이아 콜먼",
+        "세이디 싱크",
+        "제이콥 배덜런",
+        "존 번탈"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "144",
+      "movieNmEn": "Spider-Man: Brand New Day"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265423",
+      "movieNm": "더 드라마",
+      "openDt": "2026-09-09",
+      "salesAmt": "71407750",
+      "salesShare": "4.3",
+      "salesInten": "-40343400",
+      "salesChange": "-36.1",
+      "salesAcc": "243941100",
+      "audiCnt": "7242",
+      "audiInten": "-4849",
+      "audiChange": "-40.1",
+      "audiAcc": "24119",
+      "scrnCnt": "596",
+      "showCnt": "1266",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260827_17%2F1787821697596RfBV0_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“왜 나쁜 짓 한 번 안 한 사람처럼 그래?” 결혼식을 일주일 앞둔 행복한 커플 엠마(젠데이아)와 찰리(로버트 패틴슨). 우연히 알게 된 상대방의 비밀로 인해 단단...",
+      "naver_rating": "8.19",
+      "directors": [
+        "크리스토퍼 보글리"
+      ],
+      "actors": [
+        "젠데이아 콜먼",
+        "로버트 패틴슨"
+      ],
+      "genres": [
+        "드라마",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "106",
+      "movieNmEn": "The Drama"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20233219",
+      "movieNm": "호프",
+      "openDt": "2026-07-15",
+      "salesAmt": "52564860",
+      "salesShare": "3.2",
+      "salesInten": "-9859840",
+      "salesChange": "-15.8",
+      "salesAcc": "48690009850",
+      "audiCnt": "4468",
+      "audiInten": "-850",
+      "audiChange": "-16",
+      "audiAcc": "4551486",
+      "scrnCnt": "89",
+      "showCnt": "220",
+      "poster_url": "",
+      "synopsis": "지원해 줄 인력들은 산불을 끄러 갔고, 이젠 통신도 두절됐다. 호포 출장소의 ‘범석’과 ‘성애’는 노인들뿐인 마을을 지키기 위해 사투를 벌이고, 놈을 쫓아 산으로 향했던 청년들...",
+      "naver_rating": "7.35",
+      "directors": [
+        "나홍진"
+      ],
+      "actors": [
+        "황정민",
+        "조인성",
+        "정호연",
+        "마이클 패스벤더",
+        "알리시아 비칸데르"
+      ],
+      "genres": [
+        "SF",
+        "스릴러",
+        "액션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "156",
+      "movieNmEn": "HOPE"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20018158",
+      "movieNm": "이누야샤 극장판: 시대를 초월한 마음",
+      "openDt": "2026-09-09",
+      "salesAmt": "48167800",
+      "salesShare": "2.9",
+      "salesInten": "5590850",
+      "salesChange": "13.1",
+      "salesAcc": "94051750",
+      "audiCnt": "4083",
+      "audiInten": "-494",
+      "audiChange": "-10.8",
+      "audiAcc": "8894",
+      "scrnCnt": "135",
+      "showCnt": "199",
+      "poster_url": "",
+      "synopsis": "먼 옛날, 대륙에서 원(元)의 대군이 일본으로 쳐들어왔을 때 함께 일본으로 건너온 대륙 요괴 군단의 수령·메노마루. 그는 어째서인지 ‘사혼의 구슬’이 아니라, ‘이누야샤’가 지닌 ...",
+      "naver_rating": "9.60",
+      "directors": [
+        "시노하라 토시야"
+      ],
+      "actors": [
+        "야마구치 캇페이",
+        "유키노 사츠키"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "100",
+      "movieNmEn": "INUYASHA THE MOVIE: AFFECTIONS TOUCHING ACROSS TIME"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20247458",
+      "movieNm": "경주기행",
+      "openDt": "2026-08-26",
+      "salesAmt": "37277000",
+      "salesShare": "2.2",
+      "salesInten": "6807100",
+      "salesChange": "22.3",
+      "salesAcc": "3029938130",
+      "audiCnt": "3954",
+      "audiInten": "478",
+      "audiChange": "13.8",
+      "audiAcc": "315754",
+      "scrnCnt": "416",
+      "showCnt": "595",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260827_199%2F1787797929546WI13o_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "엄마 ‘옥실’(이정은)과 세 딸 ‘장주’(공효진), ‘영주’(박소담), ‘동주’(이연)는 8년 전 수학여행을 떠난 이후 다시는 돌아오지 못한 막내 ‘경주’의 생일을 맞아 단체 티셔츠까지 맞춰 ...",
+      "naver_rating": "8.91",
+      "directors": [
+        "김미조"
+      ],
+      "actors": [
+        "이정은",
+        "공효진",
+        "박소담",
+        "이연",
+        "변요한"
+      ],
+      "genres": [
+        "범죄"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "110",
+      "movieNmEn": "The Journey to Gyeongju"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264918",
+      "movieNm": "싱 어게인",
+      "openDt": "2026-09-02",
+      "salesAmt": "29742210",
+      "salesShare": "1.8",
+      "salesInten": "-2167990",
+      "salesChange": "-6.8",
+      "salesAcc": "704228360",
+      "audiCnt": "3235",
+      "audiInten": "-371",
+      "audiChange": "-10.3",
+      "audiAcc": "74122",
+      "scrnCnt": "297",
+      "showCnt": "352",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260904_125%2F178848644759672H8a_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“지금 당장, 노래 하나 써 봅시다” 팝스타의 꿈은 접었지만 음악만은 놓지 못한 무명 축가 가수, 릭. 한땐 잘나갔지만 지금은 나락 직전인 팝스타, 대니. 우연히 ...",
+      "naver_rating": "8.64",
+      "directors": [
+        "존 카니"
+      ],
+      "actors": [
+        "폴 러드",
+        "닉 조나스"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "아일랜드",
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "98",
+      "movieNmEn": "Power Ballad"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "4",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20204641",
+      "movieNm": "비광",
+      "openDt": "2026-09-02",
+      "salesAmt": "21019150",
+      "salesShare": "1.3",
+      "salesInten": "-167500",
+      "salesChange": "-0.8",
+      "salesAcc": "789084240",
+      "audiCnt": "2473",
+      "audiInten": "-19",
+      "audiChange": "-0.8",
+      "audiAcc": "87393",
+      "scrnCnt": "325",
+      "showCnt": "426",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260902_228%2F1788327834067CHChL_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "한국 야구의 간판스타 중구와 올 타임 레전드 배우 남미. 스포트라이트를 받으며 화려한 톱스타 부부의 삶을 살던 두 사람은 갑자기 나타난 중구의 딸 동주로 ...",
+      "naver_rating": "9.38",
+      "directors": [
+        "이지원"
+      ],
+      "actors": [
+        "류승룡",
+        "하지원",
+        "김시아",
+        "김해숙",
+        "김선영"
+      ],
+      "genres": [
+        "드라마",
+        "가족"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "109",
+      "movieNmEn": "PORTRAIT OF A FAMILY"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "-3",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265344",
+      "movieNm": "오아시스: 돈 룩 백 인 앵거",
+      "openDt": "2026-09-09",
+      "salesAmt": "25609450",
+      "salesShare": "1.5",
+      "salesInten": "-18906350",
+      "salesChange": "-42.5",
+      "salesAcc": "71469250",
+      "audiCnt": "2297",
+      "audiInten": "-2056",
+      "audiChange": "-47.2",
+      "audiAcc": "6842",
+      "scrnCnt": "134",
+      "showCnt": "193",
+      "poster_url": "",
+      "synopsis": "\"Don’t Look Back in Anger 전 세계가 다시 오아시스를 외치기 시작했다!\" 2009년 해체 이후 각자의 길을 걸어온 노엘과 리암 갤러거는 전 세계가 기다려온 ‘...",
+      "naver_rating": "9.94",
+      "directors": [
+        "딜리안 서던",
+        "윌 로벨라스"
+      ],
+      "actors": [
+        "노엘 갤러거",
+        "리암 갤러거"
+      ],
+      "genres": [
+        "다큐멘터리"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "122",
+      "movieNmEn": "OASIS: DON’T LOOK BACK IN ANGER"
+    }
+  ],
+  "weekly": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250654",
+      "movieNm": "오디세이",
+      "openDt": "2026-08-05",
+      "salesAmt": "13426717020",
+      "salesShare": "61.5",
+      "salesInten": "-6439437790",
+      "salesChange": "-32.4",
+      "salesAcc": "111728779990",
+      "audiCnt": "1163089",
+      "audiInten": "-592478",
+      "audiChange": "-33.7",
+      "audiAcc": "10027954",
+      "scrnCnt": "1858",
+      "showCnt": "37612",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'(맷 데이먼)는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페...",
+      "naver_rating": "9.06",
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "actors": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "172",
+      "movieNmEn": "The Odyssey"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262770",
+      "movieNm": "스파이더맨: 브랜드 뉴 데이",
+      "openDt": "2026-07-29",
+      "salesAmt": "2165991330",
+      "salesShare": "9.9",
+      "salesInten": "-2220636370",
+      "salesChange": "-50.6",
+      "salesAcc": "91278831840",
+      "audiCnt": "243633",
+      "audiInten": "-177167",
+      "audiChange": "-42.1",
+      "audiAcc": "8792014",
+      "scrnCnt": "827",
+      "showCnt": "13134",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260716_51%2F1784184393949xOJUJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "\"세상 모두에게 잊힌 피터 파커. 그의 정체를 기억하는 역대급 빌런의 등장! 가장 통제할 수 없는 대결이 시작된다!\" 4년 전 소중한 사람들을 지키기 위해 모두...",
+      "naver_rating": "8.98",
+      "directors": [
+        "데스틴 다니엘 크리튼"
+      ],
+      "actors": [
+        "톰 홀랜드",
+        "젠데이아 콜먼",
+        "세이디 싱크",
+        "제이콥 배덜런",
+        "존 번탈"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "144",
+      "movieNmEn": "Spider-Man: Brand New Day"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20265146",
+      "movieNm": "옵세션",
+      "openDt": "2026-09-02",
+      "salesAmt": "1998205950",
+      "salesShare": "9.2",
+      "salesInten": "1998205950",
+      "salesChange": "100.0",
+      "salesAcc": "2005736950",
+      "audiCnt": "184316",
+      "audiInten": "184316",
+      "audiChange": "100.0",
+      "audiAcc": "185098",
+      "scrnCnt": "717",
+      "showCnt": "7145",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_196%2F1786497126921CQVW2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“너무 너무 너무 너무 사랑해 사랑해 사랑해 사랑해” ‘니키’를 짝사랑하던 ‘베어’는 골동품 상점에서 구입한 ‘원 위시 윌로우’에 ‘니키’가 자신을 가장 사랑하게 해달라고 소원을 ...",
+      "naver_rating": "8.64",
+      "directors": [
+        "커리 바커"
+      ],
+      "actors": [
+        "마이클 존스턴",
+        "인디 네버레티",
+        "쿠퍼 톰린슨",
+        "메간 롤리스"
+      ],
+      "genres": [
+        "공포(호러)"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "108",
+      "movieNmEn": "Obsession"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20247458",
+      "movieNm": "경주기행",
+      "openDt": "2026-08-26",
+      "salesAmt": "998319430",
+      "salesShare": "4.6",
+      "salesInten": "-826257200",
+      "salesChange": "-45.3",
+      "salesAcc": "2864798060",
+      "audiCnt": "105213",
+      "audiInten": "-82688",
+      "audiChange": "-44.0",
+      "audiAcc": "297593",
+      "scrnCnt": "655",
+      "showCnt": "8827",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260827_199%2F1787797929546WI13o_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "엄마 ‘옥실’(이정은)과 세 딸 ‘장주’(공효진), ‘영주’(박소담), ‘동주’(이연)는 8년 전 수학여행을 떠난 이후 다시는 돌아오지 못한 막내 ‘경주’의 생일을 맞아 단체 티셔츠까지 맞춰 ...",
+      "naver_rating": "8.91",
+      "directors": [
+        "김미조"
+      ],
+      "actors": [
+        "이정은",
+        "공효진",
+        "박소담",
+        "이연",
+        "변요한"
+      ],
+      "genres": [
+        "범죄"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "110",
+      "movieNmEn": "The Journey to Gyeongju"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "22",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20204641",
+      "movieNm": "비광",
+      "openDt": "2026-09-02",
+      "salesAmt": "634583420",
+      "salesShare": "2.9",
+      "salesInten": "618428420",
+      "salesChange": "3828.1",
+      "salesAcc": "650738420",
+      "audiCnt": "69597",
+      "audiInten": "67802",
+      "audiChange": "3777.3",
+      "audiAcc": "71392",
+      "scrnCnt": "667",
+      "showCnt": "6568",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260902_228%2F1788327834067CHChL_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "한국 야구의 간판스타 중구와 올 타임 레전드 배우 남미. 스포트라이트를 받으며 화려한 톱스타 부부의 삶을 살던 두 사람은 갑자기 나타난 중구의 딸 동주로 ...",
+      "naver_rating": "9.38",
+      "directors": [
+        "이지원"
+      ],
+      "actors": [
+        "류승룡",
+        "하지원",
+        "김시아",
+        "김해숙",
+        "김선영"
+      ],
+      "genres": [
+        "드라마",
+        "가족"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "109",
+      "movieNmEn": "PORTRAIT OF A FAMILY"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "41",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264918",
+      "movieNm": "싱 어게인",
+      "openDt": "2026-09-02",
+      "salesAmt": "523676780",
+      "salesShare": "2.4",
+      "salesInten": "517564780",
+      "salesChange": "8468.0",
+      "salesAcc": "536689780",
+      "audiCnt": "54542",
+      "audiInten": "53904",
+      "audiChange": "8448.9",
+      "audiAcc": "55931",
+      "scrnCnt": "612",
+      "showCnt": "4553",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260904_125%2F178848644759672H8a_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "“지금 당장, 노래 하나 써 봅시다” 팝스타의 꿈은 접었지만 음악만은 놓지 못한 무명 축가 가수, 릭. 한땐 잘나갔지만 지금은 나락 직전인 팝스타, 대니. 우연히 ...",
+      "naver_rating": "8.64",
+      "directors": [
+        "존 카니"
+      ],
+      "actors": [
+        "폴 러드",
+        "닉 조나스"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "아일랜드",
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "98",
+      "movieNmEn": "Power Ballad"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "-3",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264557",
+      "movieNm": "오크 스트리트의 마지막 날",
+      "openDt": "2026-08-26",
+      "salesAmt": "225204550",
+      "salesShare": "1.0",
+      "salesInten": "-843190800",
+      "salesChange": "-78.9",
+      "salesAcc": "1298927900",
+      "audiCnt": "23065",
+      "audiInten": "-83827",
+      "audiChange": "-78.4",
+      "audiAcc": "130501",
+      "scrnCnt": "628",
+      "showCnt": "3535",
+      "poster_url": "",
+      "synopsis": "\"우리 동네가 공룡들의 사냥터가 되었다! 목표는 단 하나, 무조건 살아남아라!\" 1982년, 평화롭던 ‘오크 스트리트’ 마을이 하루아침에 통째로 선사시대로 옮겨졌다. 익숙했던 집...",
+      "naver_rating": "7.30",
+      "directors": [
+        "데이빗 로버트 밋첼"
+      ],
+      "actors": [
+        "앤 해서웨이",
+        "이완 맥그리거"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "미스터리",
+        "SF",
+        "스릴러"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "99",
+      "movieNmEn": "THE END OF OAK STREET"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262381",
+      "movieNm": "사랑의 하츄핑: 고래보석의 전설",
+      "openDt": "2026-08-05",
+      "salesAmt": "190032030",
+      "salesShare": "0.9",
+      "salesInten": "-288806020",
+      "salesChange": "-60.3",
+      "salesAcc": "8096677240",
+      "audiCnt": "20004",
+      "audiInten": "-30470",
+      "audiChange": "-60.4",
+      "audiAcc": "858705",
+      "scrnCnt": "346",
+      "showCnt": "1225",
+      "poster_url": "",
+      "synopsis": "바다 너머, 가장 큰 사랑이 기다린다! 이번엔, 반드시 구할거야! 하츄핑과 단짝이 된 로미는 행복한 나날을 보내고 있지만 하고 싶은 일과 해야만 하는 일 사이...",
+      "naver_rating": "9.03",
+      "directors": [
+        "김수훈"
+      ],
+      "actors": [
+        "이지현",
+        "조경이",
+        "여민정",
+        "심규혁",
+        "유혜지"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "105",
+      "movieNmEn": "Heartsping: Legend of the Whale Heartstone"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264635",
+      "movieNm": "명탐정 코난: 하이웨이의 타천사",
+      "openDt": "2026-08-12",
+      "salesAmt": "176733950",
+      "salesShare": "0.8",
+      "salesInten": "-292057930",
+      "salesChange": "-62.3",
+      "salesAcc": "4210991480",
+      "audiCnt": "17540",
+      "audiInten": "-29278",
+      "audiChange": "-62.5",
+      "audiAcc": "420629",
+      "scrnCnt": "328",
+      "showCnt": "1820",
+      "poster_url": "",
+      "synopsis": "‘모터 사이클 페스티벌’이 열리는 요코하마로 향하던 코난 일행은 폭주하는 검은 오토바이 사건에 휘말리고 범인을 쫓던 ‘바람의 여신’ 가나가와현경 교통기동대 하기와라 치...",
+      "naver_rating": "7.44",
+      "directors": [],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "109",
+      "movieNmEn": "Detective Conan the Movie: Fallen Angel of the Highway"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20256308",
+      "movieNm": "인턴",
+      "openDt": "2026-09-16",
+      "salesAmt": "122463000",
+      "salesShare": "0.6",
+      "salesInten": "122463000",
+      "salesChange": "100.0",
+      "salesAcc": "122463000",
+      "audiCnt": "11989",
+      "audiInten": "11989",
+      "audiChange": "100.0",
+      "audiAcc": "11989",
+      "scrnCnt": "38",
+      "showCnt": "58",
+      "poster_url": "",
+      "synopsis": "\"다시 출근합니다.\" 창업 3년 만에 100억대 매출을 달성하며 브랜드 ‘WOO22’(우투투)를 패션 업계의 다크호스로 성장시킨 젊은 CEO ‘선우’(한소희). 성공을 향해 쉼 없이 달...",
+      "naver_rating": "",
+      "directors": [
+        "김도영"
+      ],
+      "actors": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "132",
+      "movieNmEn": "The Intern"
+    }
+  ]
 }
