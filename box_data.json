@@ -1,7 +1,834 @@
 {
-  "updated": "2026-09-21T23:00:58",
-  "daily_date": "20260920",
+  "updated": "2026-09-22T23:01:01",
+  "daily_date": "20260921",
   "weekly_date": "20260920",
-  "daily": [],
-  "weekly": []
+  "daily": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20256308",
+      "movieNm": "인턴",
+      "openDt": "2026-09-16",
+      "salesAmt": "318867810",
+      "salesShare": "23.5",
+      "salesInten": "-667573020",
+      "salesChange": "-67.7",
+      "salesAcc": "4299156150",
+      "audiCnt": "33849",
+      "audiInten": "-64991",
+      "audiChange": "-65.8",
+      "audiAcc": "437744",
+      "scrnCnt": "1265",
+      "showCnt": "4198",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260916_162%2F1789524626778p9KKC_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "김도영"
+      ],
+      "actors": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "132",
+      "movieNmEn": "The Intern"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250654",
+      "movieNm": "오디세이",
+      "openDt": "2026-08-05",
+      "salesAmt": "429476310",
+      "salesShare": "31.6",
+      "salesInten": "-707609250",
+      "salesChange": "-62.2",
+      "salesAcc": "126570086400",
+      "audiCnt": "32938",
+      "audiInten": "-59833",
+      "audiChange": "-64.5",
+      "audiAcc": "11250537",
+      "scrnCnt": "1063",
+      "showCnt": "2686",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "actors": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "172",
+      "movieNmEn": "The Odyssey"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265146",
+      "movieNm": "옵세션",
+      "openDt": "2026-09-02",
+      "salesAmt": "207222160",
+      "salesShare": "15.2",
+      "salesInten": "-281924040",
+      "salesChange": "-57.6",
+      "salesAcc": "7742595580",
+      "audiCnt": "19568",
+      "audiInten": "-25365",
+      "audiChange": "-56.5",
+      "audiAcc": "721277",
+      "scrnCnt": "645",
+      "showCnt": "1702",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_196%2F1786497126921CQVW2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "커리 바커"
+      ],
+      "actors": [
+        "마이클 존스턴",
+        "인디 네버레티",
+        "쿠퍼 톰린슨",
+        "메간 롤리스"
+      ],
+      "genres": [
+        "공포(호러)"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "108",
+      "movieNmEn": "Obsession"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20263870",
+      "movieNm": "레지던트 이블: 0번째 밤",
+      "openDt": "2026-09-17",
+      "salesAmt": "113639000",
+      "salesShare": "8.4",
+      "salesInten": "-168887220",
+      "salesChange": "-59.8",
+      "salesAcc": "1197661230",
+      "audiCnt": "11035",
+      "audiInten": "-15207",
+      "audiChange": "-57.9",
+      "audiAcc": "114689",
+      "scrnCnt": "591",
+      "showCnt": "1103",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260908_234%2F178885159130621sSE_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "잭 크레거"
+      ],
+      "actors": [
+        "오스틴 에이브람스"
+      ],
+      "genres": [
+        "공포(호러)",
+        "액션",
+        "SF"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "93",
+      "movieNmEn": "Resident Evil"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "41",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20255033",
+      "movieNm": "암살자(들)",
+      "openDt": "2026-09-23",
+      "salesAmt": "38898000",
+      "salesShare": "2.9",
+      "salesInten": "37557000",
+      "salesChange": "2800.7",
+      "salesAcc": "225339000",
+      "audiCnt": "4274",
+      "audiInten": "4125",
+      "audiChange": "2768.5",
+      "audiAcc": "23879",
+      "scrnCnt": "19",
+      "showCnt": "19",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "허진호"
+      ],
+      "actors": [
+        "유해진",
+        "박해일",
+        "이민호"
+      ],
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "130",
+      "movieNmEn": "The Assassin(s)"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262770",
+      "movieNm": "스파이더맨: 브랜드 뉴 데이",
+      "openDt": "2026-07-29",
+      "salesAmt": "30764220",
+      "salesShare": "2.3",
+      "salesInten": "-79487340",
+      "salesChange": "-72.1",
+      "salesAcc": "93024991870",
+      "audiCnt": "3615",
+      "audiInten": "-9076",
+      "audiChange": "-71.5",
+      "audiAcc": "8994211",
+      "scrnCnt": "449",
+      "showCnt": "673",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260716_51%2F1784184393949xOJUJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "데스틴 다니엘 크리튼"
+      ],
+      "actors": [
+        "톰 홀랜드",
+        "젠데이아 콜먼",
+        "세이디 싱크",
+        "제이콥 배덜런",
+        "존 번탈"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "144",
+      "movieNmEn": "Spider-Man: Brand New Day"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20254904",
+      "movieNm": "가능한 사랑",
+      "openDt": "2026-09-23",
+      "salesAmt": "20106000",
+      "salesShare": "1.5",
+      "salesInten": "20106000",
+      "salesChange": "100",
+      "salesAcc": "23841000",
+      "audiCnt": "2234",
+      "audiInten": "2234",
+      "audiChange": "100",
+      "audiAcc": "2649",
+      "scrnCnt": "10",
+      "showCnt": "11",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "이창동"
+      ],
+      "actors": [
+        "전도연",
+        "설경구",
+        "조인성",
+        "조여정",
+        "조유리"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "164",
+      "movieNmEn": "Possible Love"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20070216",
+      "movieNm": "시간을 달리는 소녀",
+      "openDt": "2007-06-14",
+      "salesAmt": "17644900",
+      "salesShare": "1.3",
+      "salesInten": "-30886400",
+      "salesChange": "-63.6",
+      "salesAcc": "1037287800",
+      "audiCnt": "1640",
+      "audiInten": "-2853",
+      "audiChange": "-63.5",
+      "audiAcc": "134296",
+      "scrnCnt": "139",
+      "showCnt": "191",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_144%2F1786495109269pIwxo_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "호소다 마모루"
+      ],
+      "actors": [
+        "이시다 타쿠야",
+        "나카 리이사"
+      ],
+      "genres": [
+        "애니메이션",
+        "판타지",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "98",
+      "movieNmEn": "The Girl Who Leapt Through Time"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265423",
+      "movieNm": "더 드라마",
+      "openDt": "2026-09-09",
+      "salesAmt": "14425650",
+      "salesShare": "1.1",
+      "salesInten": "-21793010",
+      "salesChange": "-60.2",
+      "salesAcc": "821541050",
+      "audiCnt": "1433",
+      "audiInten": "-1748",
+      "audiChange": "-55",
+      "audiAcc": "81527",
+      "scrnCnt": "196",
+      "showCnt": "227",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260914_99%2F1789362422149QXmA4_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "크리스토퍼 보글리"
+      ],
+      "actors": [
+        "젠데이아 콜먼",
+        "로버트 패틴슨"
+      ],
+      "genres": [
+        "드라마",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "106",
+      "movieNmEn": "The Drama"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20241110",
+      "movieNm": "아이유 콘서트 : 더 위닝",
+      "openDt": "2025-01-24",
+      "salesAmt": "20057000",
+      "salesShare": "1.5",
+      "salesInten": "-25786000",
+      "salesChange": "-56.2",
+      "salesAcc": "2272018500",
+      "audiCnt": "959",
+      "audiInten": "-1420",
+      "audiChange": "-59.7",
+      "audiAcc": "86404",
+      "scrnCnt": "38",
+      "showCnt": "38",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "오윤동",
+        "이예지"
+      ],
+      "actors": [
+        "이지은"
+      ],
+      "genres": [
+        "공연"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "123",
+      "movieNmEn": "IU CONCERT : THE WINNING"
+    }
+  ],
+  "weekly": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250654",
+      "movieNm": "오디세이",
+      "openDt": "2026-08-05",
+      "salesAmt": "5475518260",
+      "salesShare": "32.8",
+      "salesInten": "-3461029580",
+      "salesChange": "-38.7",
+      "salesAcc": "126140610090",
+      "audiCnt": "434919",
+      "audiInten": "-319825",
+      "audiChange": "-42.4",
+      "audiAcc": "11217599",
+      "scrnCnt": "1406",
+      "showCnt": "22993",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "actors": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "172",
+      "movieNmEn": "The Odyssey"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "12",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20256308",
+      "movieNm": "인턴",
+      "openDt": "2026-09-16",
+      "salesAmt": "3746782070",
+      "salesShare": "22.5",
+      "salesInten": "3635738800",
+      "salesChange": "3274.2",
+      "salesAcc": "3980288340",
+      "audiCnt": "382516",
+      "audiInten": "373126",
+      "audiChange": "3973.7",
+      "audiAcc": "403895",
+      "scrnCnt": "1473",
+      "showCnt": "24825",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260916_162%2F1789524626778p9KKC_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "김도영"
+      ],
+      "actors": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "132",
+      "movieNmEn": "The Intern"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265146",
+      "movieNm": "옵세션",
+      "openDt": "2026-09-02",
+      "salesAmt": "2445454980",
+      "salesShare": "14.7",
+      "salesInten": "-638726510",
+      "salesChange": "-20.7",
+      "salesAcc": "7535373420",
+      "audiCnt": "226901",
+      "audiInten": "-62809",
+      "audiChange": "-21.7",
+      "audiAcc": "701709",
+      "scrnCnt": "762",
+      "showCnt": "13117",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_196%2F1786497126921CQVW2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "커리 바커"
+      ],
+      "actors": [
+        "마이클 존스턴",
+        "인디 네버레티",
+        "쿠퍼 톰린슨",
+        "메간 롤리스"
+      ],
+      "genres": [
+        "공포(호러)"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "108",
+      "movieNmEn": "Obsession"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20263870",
+      "movieNm": "레지던트 이블: 0번째 밤",
+      "openDt": "2026-09-17",
+      "salesAmt": "1084022230",
+      "salesShare": "6.5",
+      "salesInten": "1084022230",
+      "salesChange": "100.0",
+      "salesAcc": "1084022230",
+      "audiCnt": "103654",
+      "audiInten": "103654",
+      "audiChange": "100.0",
+      "audiAcc": "103654",
+      "scrnCnt": "679",
+      "showCnt": "4617",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260908_234%2F178885159130621sSE_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "잭 크레거"
+      ],
+      "actors": [
+        "오스틴 에이브람스"
+      ],
+      "genres": [
+        "공포(호러)",
+        "액션",
+        "SF"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "93",
+      "movieNmEn": "Resident Evil"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20262770",
+      "movieNm": "스파이더맨: 브랜드 뉴 데이",
+      "openDt": "2026-07-29",
+      "salesAmt": "519022410",
+      "salesShare": "3.1",
+      "salesInten": "-677350990",
+      "salesChange": "-56.6",
+      "salesAcc": "92994227650",
+      "audiCnt": "60189",
+      "audiInten": "-78204",
+      "audiChange": "-56.5",
+      "audiAcc": "8990596",
+      "scrnCnt": "604",
+      "showCnt": "6184",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260716_51%2F1784184393949xOJUJ_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "데스틴 다니엘 크리튼"
+      ],
+      "actors": [
+        "톰 홀랜드",
+        "젠데이아 콜먼",
+        "세이디 싱크",
+        "제이콥 배덜런",
+        "존 번탈"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "판타지"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "144",
+      "movieNmEn": "Spider-Man: Brand New Day"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265423",
+      "movieNm": "더 드라마",
+      "openDt": "2026-09-09",
+      "salesAmt": "262588040",
+      "salesShare": "1.6",
+      "salesInten": "-221157120",
+      "salesChange": "-45.7",
+      "salesAcc": "807115400",
+      "audiCnt": "26465",
+      "audiInten": "-22378",
+      "audiChange": "-45.8",
+      "audiAcc": "80094",
+      "scrnCnt": "528",
+      "showCnt": "3270",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260914_99%2F1789362422149QXmA4_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "크리스토퍼 보글리"
+      ],
+      "actors": [
+        "젠데이아 콜먼",
+        "로버트 패틴슨"
+      ],
+      "genres": [
+        "드라마",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "106",
+      "movieNmEn": "The Drama"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20261807",
+      "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+      "openDt": "2026-09-30",
+      "salesAmt": "280707060",
+      "salesShare": "1.7",
+      "salesInten": "280707060",
+      "salesChange": "100.0",
+      "salesAcc": "280707060",
+      "audiCnt": "21203",
+      "audiInten": "21203",
+      "audiChange": "100.0",
+      "audiAcc": "21203",
+      "scrnCnt": "78",
+      "showCnt": "166",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "오이카와 케이"
+      ],
+      "actors": [
+        "아오키 하루카",
+        "타나카 마코토",
+        "오자와 아리",
+        "이주은",
+        "손정민"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "98",
+      "movieNmEn": "Chiikawa the Movie: The Secret of the Mermaid Island"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20070216",
+      "movieNm": "시간을 달리는 소녀",
+      "openDt": "2007-06-14",
+      "salesAmt": "231226150",
+      "salesShare": "1.4",
+      "salesInten": "231226150",
+      "salesChange": "100.0",
+      "salesAcc": "1019642900",
+      "audiCnt": "20991",
+      "audiInten": "20991",
+      "audiChange": "100.0",
+      "audiAcc": "132656",
+      "scrnCnt": "155",
+      "showCnt": "1029",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_144%2F1786495109269pIwxo_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "호소다 마모루"
+      ],
+      "actors": [
+        "이시다 타쿠야",
+        "나카 리이사"
+      ],
+      "genres": [
+        "애니메이션",
+        "판타지",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "98",
+      "movieNmEn": "The Girl Who Leapt Through Time"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "50",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20255033",
+      "movieNm": "암살자(들)",
+      "openDt": "2026-09-23",
+      "salesAmt": "177981000",
+      "salesShare": "1.1",
+      "salesInten": "170971000",
+      "salesChange": "2439.0",
+      "salesAcc": "186441000",
+      "audiCnt": "18948",
+      "audiInten": "18436",
+      "audiChange": "3600.8",
+      "audiAcc": "19605",
+      "scrnCnt": "75",
+      "showCnt": "106",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "허진호"
+      ],
+      "actors": [
+        "유해진",
+        "박해일",
+        "이민호"
+      ],
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "130",
+      "movieNmEn": "The Assassin(s)"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20265587",
+      "movieNm": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
+      "openDt": "2026-09-16",
+      "salesAmt": "191170440",
+      "salesShare": "1.1",
+      "salesInten": "191170440",
+      "salesChange": "100.0",
+      "salesAcc": "191170440",
+      "audiCnt": "17764",
+      "audiInten": "17764",
+      "audiChange": "100.0",
+      "audiAcc": "17764",
+      "scrnCnt": "205",
+      "showCnt": "1332",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260811_146%2F1786415716983585tC_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "호소다 마모루"
+      ],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "61",
+      "movieNmEn": "Digimon Adventure & Digimon Adventure Our War Game!"
+    }
+  ]
 }
