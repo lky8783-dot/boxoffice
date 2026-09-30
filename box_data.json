@@ -1,434 +1,8 @@
 {
-  "updated": "2026-09-29T23:00:59",
-  "daily_date": "20260928",
+  "updated": "2026-09-30T23:00:57",
+  "daily_date": "20260929",
   "weekly_date": "20260927",
-  "daily": [
-    {
-      "rnum": "1",
-      "rank": "1",
-      "rankInten": "1",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20256161",
-      "movieNm": "타짜: 벨제붑의 노래",
-      "openDt": "2026-09-23",
-      "salesAmt": "669834950",
-      "salesShare": "28.8",
-      "salesInten": "-1061159860",
-      "salesChange": "-61.3",
-      "salesAcc": "9167808560",
-      "audiCnt": "68913",
-      "audiInten": "-100979",
-      "audiChange": "-59.4",
-      "audiAcc": "901924",
-      "scrnCnt": "943",
-      "showCnt": "3110",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260923_172%2F1790140368820rlLy0_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "최국희"
-      ],
-      "actors": [
-        "변요한",
-        "노재원",
-        "미요시 아야카",
-        "김민호",
-        "임세미"
-      ],
-      "genres": [
-        "범죄",
-        "드라마"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "청소년관람불가",
-      "runtime": "129",
-      "movieNmEn": "TAZZA: The Song of Beelzebub"
-    },
-    {
-      "rnum": "2",
-      "rank": "2",
-      "rankInten": "-1",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20255033",
-      "movieNm": "암살자(들)",
-      "openDt": "2026-09-23",
-      "salesAmt": "622767370",
-      "salesShare": "26.8",
-      "salesInten": "-1935769830",
-      "salesChange": "-75.7",
-      "salesAcc": "16156389490",
-      "audiCnt": "67406",
-      "audiInten": "-193133",
-      "audiChange": "-74.1",
-      "audiAcc": "1633608",
-      "scrnCnt": "1302",
-      "showCnt": "4783",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260923_284%2F1790149353648wHSQs_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "허진호"
-      ],
-      "actors": [
-        "유해진",
-        "박해일",
-        "이민호",
-        "배준호",
-        "소타 신고"
-      ],
-      "genres": [
-        "범죄",
-        "드라마"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "12세이상관람가",
-      "runtime": "130",
-      "movieNmEn": "The Assassin(s)"
-    },
-    {
-      "rnum": "3",
-      "rank": "3",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20250654",
-      "movieNm": "오디세이",
-      "openDt": "2026-08-05",
-      "salesAmt": "412062730",
-      "salesShare": "17.7",
-      "salesInten": "-733618490",
-      "salesChange": "-64",
-      "salesAcc": "133729153620",
-      "audiCnt": "31355",
-      "audiInten": "-60108",
-      "audiChange": "-65.7",
-      "audiAcc": "11814648",
-      "scrnCnt": "640",
-      "showCnt": "1273",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "크리스토퍼 놀란"
-      ],
-      "actors": [
-        "맷 데이먼",
-        "톰 홀랜드",
-        "앤 해서웨이",
-        "로버트 패틴슨",
-        "젠데이아 콜먼"
-      ],
-      "genres": [
-        "액션",
-        "드라마",
-        "어드벤처"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "15세이상관람가",
-      "runtime": "172",
-      "movieNmEn": "The Odyssey"
-    },
-    {
-      "rnum": "4",
-      "rank": "4",
-      "rankInten": "1",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20254904",
-      "movieNm": "가능한 사랑",
-      "openDt": "2026-09-23",
-      "salesAmt": "145720470",
-      "salesShare": "6.3",
-      "salesInten": "-112697180",
-      "salesChange": "-43.6",
-      "salesAcc": "1377648120",
-      "audiCnt": "14418",
-      "audiInten": "-9846",
-      "audiChange": "-40.6",
-      "audiAcc": "130353",
-      "scrnCnt": "172",
-      "showCnt": "368",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260914_179%2F17893772569871RnXO_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "이창동"
-      ],
-      "actors": [
-        "전도연",
-        "설경구",
-        "조인성",
-        "조여정",
-        "조유리"
-      ],
-      "genres": [
-        "드라마"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "청소년관람불가",
-      "runtime": "164",
-      "movieNmEn": "Possible Love"
-    },
-    {
-      "rnum": "5",
-      "rank": "5",
-      "rankInten": "-1",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20256308",
-      "movieNm": "인턴",
-      "openDt": "2026-09-16",
-      "salesAmt": "117564310",
-      "salesShare": "5.1",
-      "salesInten": "-387153080",
-      "salesChange": "-76.7",
-      "salesAcc": "7582384310",
-      "audiCnt": "12537",
-      "audiInten": "-37256",
-      "audiChange": "-74.8",
-      "audiAcc": "768591",
-      "scrnCnt": "598",
-      "showCnt": "1382",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260916_162%2F1789524626778p9KKC_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "김도영"
-      ],
-      "actors": [
-        "최민식",
-        "한소희",
-        "김준한",
-        "류혜영",
-        "김금순"
-      ],
-      "genres": [
-        "드라마"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "12세이상관람가",
-      "runtime": "132",
-      "movieNmEn": "The Intern"
-    },
-    {
-      "rnum": "6",
-      "rank": "6",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20265146",
-      "movieNm": "옵세션",
-      "openDt": "2026-09-02",
-      "salesAmt": "107432150",
-      "salesShare": "4.6",
-      "salesInten": "-124016550",
-      "salesChange": "-53.6",
-      "salesAcc": "9248720380",
-      "audiCnt": "10030",
-      "audiInten": "-10779",
-      "audiChange": "-51.8",
-      "audiAcc": "859183",
-      "scrnCnt": "416",
-      "showCnt": "657",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_196%2F1786497126921CQVW2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "커리 바커"
-      ],
-      "actors": [
-        "마이클 존스턴",
-        "인디 네버레티",
-        "쿠퍼 톰린슨",
-        "메간 롤리스"
-      ],
-      "genres": [
-        "공포(호러)"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "청소년관람불가",
-      "runtime": "108",
-      "movieNmEn": "Obsession"
-    },
-    {
-      "rnum": "7",
-      "rank": "7",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20266766",
-      "movieNm": "어벤져스: 엔드게임 앙코르",
-      "openDt": "2026-09-23",
-      "salesAmt": "73455460",
-      "salesShare": "3.2",
-      "salesInten": "-164216800",
-      "salesChange": "-69.1",
-      "salesAcc": "1376895230",
-      "audiCnt": "6256",
-      "audiInten": "-13801",
-      "audiChange": "-68.8",
-      "audiAcc": "114206",
-      "scrnCnt": "163",
-      "showCnt": "345",
-      "poster_url": "",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "안소니 루소",
-        "조 루소"
-      ],
-      "actors": [
-        "로버트 다우니 주니어",
-        "크리스 에반스",
-        "스칼렛 요한슨",
-        "마크 러팔로",
-        "크리스 헴스워스"
-      ],
-      "genres": [
-        "액션",
-        "SF"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "12세이상관람가",
-      "runtime": "183",
-      "movieNmEn": "Avengers: Endgame Encore"
-    },
-    {
-      "rnum": "8",
-      "rank": "8",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20263870",
-      "movieNm": "레지던트 이블: 0번째 밤",
-      "openDt": "2026-09-17",
-      "salesAmt": "48608500",
-      "salesShare": "2.1",
-      "salesInten": "-52969400",
-      "salesChange": "-52.1",
-      "salesAcc": "2031914880",
-      "audiCnt": "4634",
-      "audiInten": "-4573",
-      "audiChange": "-49.7",
-      "audiAcc": "191584",
-      "scrnCnt": "368",
-      "showCnt": "480",
-      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260908_234%2F178885159130621sSE_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "잭 크레거"
-      ],
-      "actors": [
-        "오스틴 에이브람스"
-      ],
-      "genres": [
-        "공포(호러)",
-        "액션",
-        "SF"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "청소년관람불가",
-      "runtime": "93",
-      "movieNmEn": "Resident Evil"
-    },
-    {
-      "rnum": "9",
-      "rank": "9",
-      "rankInten": "0",
-      "rankOldAndNew": "OLD",
-      "movieCd": "20262770",
-      "movieNm": "스파이더맨: 브랜드 뉴 데이",
-      "openDt": "2026-07-29",
-      "salesAmt": "19402680",
-      "salesShare": "0.8",
-      "salesInten": "-37885020",
-      "salesChange": "-66.1",
-      "salesAcc": "93406702940",
-      "audiCnt": "2075",
-      "audiInten": "-3961",
-      "audiChange": "-65.6",
-      "audiAcc": "9034501",
-      "scrnCnt": "158",
-      "showCnt": "177",
-      "poster_url": "",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "데스틴 다니엘 크리튼"
-      ],
-      "actors": [
-        "톰 홀랜드",
-        "젠데이아 콜먼",
-        "세이디 싱크",
-        "제이콥 배덜런",
-        "존 번탈"
-      ],
-      "genres": [
-        "액션",
-        "어드벤처",
-        "판타지"
-      ],
-      "nations": [
-        "미국"
-      ],
-      "rating": "12세이상관람가",
-      "runtime": "144",
-      "movieNmEn": "Spider-Man: Brand New Day"
-    },
-    {
-      "rnum": "10",
-      "rank": "10",
-      "rankInten": "0",
-      "rankOldAndNew": "NEW",
-      "movieCd": "20224573",
-      "movieNm": "부활남: 더 레드",
-      "openDt": "2026-09-30",
-      "salesAmt": "17192000",
-      "salesShare": "0.7",
-      "salesInten": "17192000",
-      "salesChange": "100",
-      "salesAcc": "81059000",
-      "audiCnt": "1896",
-      "audiInten": "1896",
-      "audiChange": "100",
-      "audiAcc": "8395",
-      "scrnCnt": "9",
-      "showCnt": "9",
-      "poster_url": "",
-      "synopsis": "",
-      "naver_rating": "",
-      "directors": [
-        "백"
-      ],
-      "actors": [
-        "구교환",
-        "신승호",
-        "강기영",
-        "김시아",
-        "김성령"
-      ],
-      "genres": [
-        "액션"
-      ],
-      "nations": [
-        "한국"
-      ],
-      "rating": "15세이상관람가",
-      "runtime": "101",
-      "movieNmEn": "REAWAKENED MAN"
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "rnum": "1",
@@ -438,15 +12,15 @@
       "movieCd": "20255033",
       "movieNm": "암살자(들)",
       "openDt": "2026-09-23",
-      "salesAmt": "15347181120",
+      "salesAmt": "15347071120",
       "salesShare": "37.2",
-      "salesInten": "15169200120",
+      "salesInten": "15169090120",
       "salesChange": "8522.9",
-      "salesAcc": "15533622120",
-      "audiCnt": "1546597",
-      "audiInten": "1527649",
+      "salesAcc": "15533512120",
+      "audiCnt": "1546589",
+      "audiInten": "1527641",
       "audiChange": "8062.3",
-      "audiAcc": "1566202",
+      "audiAcc": "1566194",
       "scrnCnt": "1532",
       "showCnt": "30226",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260923_284%2F1790149353648wHSQs_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -481,17 +55,17 @@
       "movieCd": "20256161",
       "movieNm": "타짜: 벨제붑의 노래",
       "openDt": "2026-09-23",
-      "salesAmt": "8294520400",
+      "salesAmt": "8294455400",
       "salesShare": "20.1",
-      "salesInten": "8137641950",
+      "salesInten": "8137576950",
       "salesChange": "5187.2",
-      "salesAcc": "8497973610",
-      "audiCnt": "813828",
-      "audiInten": "798756",
+      "salesAcc": "8497908610",
+      "audiCnt": "813822",
+      "audiInten": "798750",
       "audiChange": "5299.6",
-      "audiAcc": "833011",
-      "scrnCnt": "1073",
-      "showCnt": "18014",
+      "audiAcc": "833005",
+      "scrnCnt": "1071",
+      "showCnt": "18011",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260923_172%2F1790140368820rlLy0_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
       "synopsis": "",
       "naver_rating": "",
@@ -526,13 +100,13 @@
       "openDt": "2026-08-05",
       "salesAmt": "7176480800",
       "salesShare": "17.4",
-      "salesInten": "1700962540",
+      "salesInten": "1700992540",
       "salesChange": "31.1",
-      "salesAcc": "133317090890",
+      "salesAcc": "133316891890",
       "audiCnt": "565694",
-      "audiInten": "130775",
+      "audiInten": "130777",
       "audiChange": "30.1",
-      "audiAcc": "11783293",
+      "audiAcc": "11783275",
       "scrnCnt": "1080",
       "showCnt": "12737",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -568,15 +142,15 @@
       "movieCd": "20256308",
       "movieNm": "인턴",
       "openDt": "2026-09-16",
-      "salesAmt": "3484584660",
+      "salesAmt": "3484563660",
       "salesShare": "8.5",
-      "salesInten": "-262144410",
+      "salesInten": "-262165410",
       "salesChange": "-7.0",
-      "salesAcc": "7464820000",
-      "audiCnt": "352163",
-      "audiInten": "-30349",
+      "salesAcc": "7464799000",
+      "audiCnt": "352161",
+      "audiInten": "-30351",
       "audiChange": "-7.9",
-      "audiAcc": "756054",
+      "audiAcc": "756052",
       "scrnCnt": "1280",
       "showCnt": "16792",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260916_162%2F1789524626778p9KKC_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -610,15 +184,15 @@
       "movieCd": "20265146",
       "movieNm": "옵세션",
       "openDt": "2026-09-02",
-      "salesAmt": "1605934810",
+      "salesAmt": "1605909810",
       "salesShare": "3.9",
-      "salesInten": "-839500170",
+      "salesInten": "-839525170",
       "salesChange": "-34.3",
-      "salesAcc": "9141288230",
-      "audiCnt": "147446",
-      "audiInten": "-79453",
+      "salesAcc": "9141263230",
+      "audiCnt": "147444",
+      "audiInten": "-79455",
       "audiChange": "-35.0",
-      "audiAcc": "849153",
+      "audiAcc": "849151",
       "scrnCnt": "647",
       "showCnt": "6839",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_196%2F1786497126921CQVW2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -781,11 +355,11 @@
       "salesShare": "1.0",
       "salesInten": "-125930800",
       "salesChange": "-24.3",
-      "salesAcc": "93387300260",
+      "salesAcc": "93387245260",
       "audiCnt": "41832",
       "audiInten": "-18357",
       "audiChange": "-30.5",
-      "audiAcc": "9032426",
+      "audiAcc": "9032420",
       "scrnCnt": "464",
       "showCnt": "2319",
       "poster_url": "",
