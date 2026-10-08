@@ -1,8 +1,428 @@
 {
-  "updated": "2026-10-07T23:01:00",
-  "daily_date": "20261006",
+  "updated": "2026-10-08T23:00:50",
+  "daily_date": "20261007",
   "weekly_date": "20261004",
-  "daily": [],
+  "daily": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20255033",
+      "movieNm": "암살자(들)",
+      "openDt": "2026-09-23",
+      "salesAmt": "503025540",
+      "salesShare": "27.2",
+      "salesInten": "-2492600",
+      "salesChange": "-0.5",
+      "salesAcc": "24697142560",
+      "audiCnt": "53891",
+      "audiInten": "-276",
+      "audiChange": "-0.5",
+      "audiAcc": "2520863",
+      "scrnCnt": "1093",
+      "showCnt": "3144",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260923_284%2F1790149353648wHSQs_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "허진호"
+      ],
+      "actors": [
+        "유해진",
+        "박해일",
+        "이민호",
+        "배준호",
+        "소타 신고"
+      ],
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "130",
+      "movieNmEn": "The Assassin(s)"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20261807",
+      "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+      "openDt": "2026-09-30",
+      "salesAmt": "498199170",
+      "salesShare": "26.9",
+      "salesInten": "157871850",
+      "salesChange": "46.4",
+      "salesAcc": "8573717640",
+      "audiCnt": "49227",
+      "audiInten": "16138",
+      "audiChange": "48.8",
+      "audiAcc": "818348",
+      "scrnCnt": "841",
+      "showCnt": "2831",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260930_220%2F1790759565719kuNpx_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "오이카와 케이"
+      ],
+      "actors": [
+        "아오키 하루카",
+        "타나카 마코토",
+        "오자와 아리",
+        "이주은",
+        "손정민"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "98",
+      "movieNmEn": "Chiikawa the Movie: The Secret of the Mermaid Island"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20256161",
+      "movieNm": "타짜: 벨제붑의 노래",
+      "openDt": "2026-09-23",
+      "salesAmt": "280937180",
+      "salesShare": "15.2",
+      "salesInten": "-9326120",
+      "salesChange": "-3.2",
+      "salesAcc": "15365695880",
+      "audiCnt": "28857",
+      "audiInten": "-712",
+      "audiChange": "-2.4",
+      "audiAcc": "1520782",
+      "scrnCnt": "928",
+      "showCnt": "2582",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261006_172%2F1791278250807gfKu8_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "최국희"
+      ],
+      "actors": [
+        "변요한",
+        "노재원",
+        "미요시 아야카",
+        "김민호",
+        "임세미"
+      ],
+      "genres": [
+        "범죄",
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "129",
+      "movieNmEn": "TAZZA: The Song of Beelzebub"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20250654",
+      "movieNm": "오디세이",
+      "openDt": "2026-08-05",
+      "salesAmt": "158436870",
+      "salesShare": "8.6",
+      "salesInten": "-14362440",
+      "salesChange": "-8.3",
+      "salesAcc": "137171214290",
+      "audiCnt": "11192",
+      "audiInten": "-978",
+      "audiChange": "-8",
+      "audiAcc": "12068517",
+      "scrnCnt": "502",
+      "showCnt": "854",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260710_243%2F1783670981741HgbjS_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "크리스토퍼 놀란"
+      ],
+      "actors": [
+        "맷 데이먼",
+        "톰 홀랜드",
+        "앤 해서웨이",
+        "로버트 패틴슨",
+        "젠데이아 콜먼"
+      ],
+      "genres": [
+        "액션",
+        "드라마",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "172",
+      "movieNmEn": "The Odyssey"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20266610",
+      "movieNm": "입에 대한 앙케트",
+      "openDt": "2026-10-07",
+      "salesAmt": "78659850",
+      "salesShare": "4.3",
+      "salesInten": "78659850",
+      "salesChange": "100",
+      "salesAcc": "78659850",
+      "audiCnt": "8416",
+      "audiInten": "8416",
+      "audiChange": "100",
+      "audiAcc": "8416",
+      "scrnCnt": "536",
+      "showCnt": "1245",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261002_190%2F1790904342282c2wrN_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "시미즈 다카시"
+      ],
+      "actors": [
+        "츠나 케이토",
+        "요시카와 아이미"
+      ],
+      "genres": [
+        "공포(호러)"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "88",
+      "movieNmEn": "The Mouths"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20224573",
+      "movieNm": "부활남: 더 레드",
+      "openDt": "2026-09-30",
+      "salesAmt": "81068400",
+      "salesShare": "4.4",
+      "salesInten": "-15466140",
+      "salesChange": "-16",
+      "salesAcc": "2437786940",
+      "audiCnt": "8145",
+      "audiInten": "-1651",
+      "audiChange": "-16.9",
+      "audiAcc": "243829",
+      "scrnCnt": "636",
+      "showCnt": "1289",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260930_286%2F1790748816012GiHMc_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "백"
+      ],
+      "actors": [
+        "구교환",
+        "신승호",
+        "강기영",
+        "김시아",
+        "김성령"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "101",
+      "movieNmEn": "REAWAKENED MAN"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20256308",
+      "movieNm": "인턴",
+      "openDt": "2026-09-16",
+      "salesAmt": "43412100",
+      "salesShare": "2.3",
+      "salesInten": "2357350",
+      "salesChange": "5.7",
+      "salesAcc": "8407275140",
+      "audiCnt": "4843",
+      "audiInten": "125",
+      "audiChange": "2.6",
+      "audiAcc": "853944",
+      "scrnCnt": "302",
+      "showCnt": "384",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260916_162%2F1789524626778p9KKC_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "김도영"
+      ],
+      "actors": [
+        "최민식",
+        "한소희",
+        "김준한",
+        "류혜영",
+        "김금순"
+      ],
+      "genres": [
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "132",
+      "movieNmEn": "The Intern"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264775",
+      "movieNm": "디거",
+      "openDt": "2026-10-03",
+      "salesAmt": "41428790",
+      "salesShare": "2.2",
+      "salesInten": "-10001700",
+      "salesChange": "-19.4",
+      "salesAcc": "534650320",
+      "audiCnt": "4169",
+      "audiInten": "-982",
+      "audiChange": "-19.1",
+      "audiAcc": "49719",
+      "scrnCnt": "395",
+      "showCnt": "522",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261006_175%2F1791274228848hgRWC_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "알레한드로 곤잘레스 이냐리투"
+      ],
+      "actors": [
+        "톰 크루즈",
+        "산드라 휠러",
+        "존 굿맨",
+        "제시 플레먼스"
+      ],
+      "genres": [
+        "코미디",
+        "드라마"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "128",
+      "movieNmEn": "Digger"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "38",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265486",
+      "movieNm": "퓨리어스",
+      "openDt": "2026-10-07",
+      "salesAmt": "27056400",
+      "salesShare": "1.5",
+      "salesInten": "26518400",
+      "salesChange": "4929.1",
+      "salesAcc": "34768400",
+      "audiCnt": "3282",
+      "audiInten": "3241",
+      "audiChange": "7904.9",
+      "audiAcc": "3941",
+      "scrnCnt": "177",
+      "showCnt": "242",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "타니가키 켄지"
+      ],
+      "actors": [
+        "사묘",
+        "조 타슬림",
+        "야얀 루히안"
+      ],
+      "genres": [
+        "액션",
+        "범죄"
+      ],
+      "nations": [
+        "홍콩"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "113",
+      "movieNmEn": "The Furious"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20265146",
+      "movieNm": "옵세션",
+      "openDt": "2026-09-02",
+      "salesAmt": "29558050",
+      "salesShare": "1.6",
+      "salesInten": "-19196700",
+      "salesChange": "-39.4",
+      "salesAcc": "10072923230",
+      "audiCnt": "2695",
+      "audiInten": "-1776",
+      "audiChange": "-39.7",
+      "audiAcc": "934139",
+      "scrnCnt": "169",
+      "showCnt": "209",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260812_196%2F1786497126921CQVW2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "커리 바커"
+      ],
+      "actors": [
+        "마이클 존스턴",
+        "인디 네버레티",
+        "쿠퍼 톰린슨",
+        "메간 롤리스"
+      ],
+      "genres": [
+        "공포(호러)"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "청소년관람불가",
+      "runtime": "108",
+      "movieNmEn": "Obsession"
+    }
+  ],
   "weekly": [
     {
       "rnum": "1",
@@ -12,15 +432,15 @@
       "movieCd": "20255033",
       "movieNm": "암살자(들)",
       "openDt": "2026-09-23",
-      "salesAmt": "6391155820",
+      "salesAmt": "6391141820",
       "salesShare": "23.5",
-      "salesInten": "-8955807400",
+      "salesInten": "-8955821400",
       "salesChange": "-58.4",
-      "salesAcc": "21924560040",
-      "audiCnt": "667770",
-      "audiInten": "-878809",
+      "salesAcc": "21924546040",
+      "audiCnt": "667768",
+      "audiInten": "-878811",
       "audiChange": "-56.8",
-      "audiAcc": "2233954",
+      "audiAcc": "2233952",
       "scrnCnt": "1314",
       "showCnt": "25868",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260923_284%2F1790149353648wHSQs_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -55,15 +475,15 @@
       "movieCd": "20261807",
       "movieNm": "극장판 치이카와: 인어 섬의 비밀",
       "openDt": "2026-09-30",
-      "salesAmt": "5978575500",
+      "salesAmt": "5978515500",
       "salesShare": "22.0",
-      "salesInten": "5854082600",
+      "salesInten": "5854022600",
       "salesChange": "4702.3",
-      "salesAcc": "6383775460",
-      "audiCnt": "574031",
-      "audiInten": "564509",
-      "audiChange": "5928.5",
-      "audiAcc": "604756",
+      "salesAcc": "6383715460",
+      "audiCnt": "574027",
+      "audiInten": "564505",
+      "audiChange": "5928.4",
+      "audiAcc": "604752",
       "scrnCnt": "1078",
       "showCnt": "17808",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260930_220%2F1790759565719kuNpx_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
@@ -184,15 +604,15 @@
       "movieCd": "20224573",
       "movieNm": "부활남: 더 레드",
       "openDt": "2026-09-30",
-      "salesAmt": "1818847370",
+      "salesAmt": "1818836370",
       "salesShare": "6.7",
-      "salesInten": "1818847370",
+      "salesInten": "1818836370",
       "salesChange": "100.0",
-      "salesAcc": "1882714370",
-      "audiCnt": "183300",
-      "audiInten": "183300",
+      "salesAcc": "1882703370",
+      "audiCnt": "183299",
+      "audiInten": "183299",
       "audiChange": "100.0",
-      "audiAcc": "189799",
+      "audiAcc": "189798",
       "scrnCnt": "870",
       "showCnt": "12439",
       "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260930_286%2F1790748816012GiHMc_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
