@@ -1,7 +1,840 @@
 {
-  "updated": "2026-11-21T23:00:56",
-  "daily_date": "20261120",
-  "weekly_date": "20261115",
-  "daily": [],
-  "weekly": []
+  "updated": "2026-11-22T23:01:04",
+  "daily_date": "20261121",
+  "weekly_date": "20261122",
+  "daily": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20247221",
+      "movieNm": "폭설",
+      "openDt": "2026-11-18",
+      "salesAmt": "1332699380",
+      "salesShare": "39.8",
+      "salesInten": "642223800",
+      "salesChange": "93",
+      "salesAcc": "3096438670",
+      "audiCnt": "130770",
+      "audiInten": "62137",
+      "audiChange": "90.5",
+      "audiAcc": "311709",
+      "scrnCnt": "1238",
+      "showCnt": "4774",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261118_119%2F1794979332628OGobd_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "박선우",
+        "홍의정"
+      ],
+      "actors": [
+        "김윤석",
+        "구교환",
+        "박수영",
+        "노윤서",
+        "이혜진"
+      ],
+      "genres": [
+        "미스터리",
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "88",
+      "movieNmEn": "White Blast"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20261807",
+      "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+      "openDt": "2026-09-30",
+      "salesAmt": "433779630",
+      "salesShare": "13.0",
+      "salesInten": "322824870",
+      "salesChange": "291",
+      "salesAcc": "31108496180",
+      "audiCnt": "43003",
+      "audiInten": "32486",
+      "audiChange": "308.9",
+      "audiAcc": "3031613",
+      "scrnCnt": "746",
+      "showCnt": "2061",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260930_220%2F1790759565719kuNpx_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "오이카와 케이"
+      ],
+      "actors": [
+        "아오키 하루카",
+        "타나카 마코토",
+        "오자와 아리",
+        "이주은",
+        "손정민"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "98",
+      "movieNmEn": "Chiikawa the Movie: The Secret of the Mermaid Island"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20267121",
+      "movieNm": "헝거게임 50번째 추첨의 날",
+      "openDt": "2026-11-18",
+      "salesAmt": "261938140",
+      "salesShare": "7.8",
+      "salesInten": "107343640",
+      "salesChange": "69.4",
+      "salesAcc": "740039010",
+      "audiCnt": "24732",
+      "audiInten": "9981",
+      "audiChange": "67.7",
+      "audiAcc": "72101",
+      "scrnCnt": "819",
+      "showCnt": "1845",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261016_240%2F1792127973544tGUf6_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "프란시스 로렌스"
+      ],
+      "actors": [
+        "조셉 자다",
+        "맥케나 그레이스",
+        "엘 패닝",
+        "랄프 파인즈",
+        "제시 플레먼스"
+      ],
+      "genres": [
+        "액션",
+        "스릴러",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "158",
+      "movieNmEn": "The Hunger Games: Sunrise on the Reaping"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264957",
+      "movieNm": "폴2: 데드포인트",
+      "openDt": "2026-11-11",
+      "salesAmt": "227021750",
+      "salesShare": "6.8",
+      "salesInten": "103304800",
+      "salesChange": "83.5",
+      "salesAcc": "2209106880",
+      "audiCnt": "22382",
+      "audiInten": "9907",
+      "audiChange": "79.4",
+      "audiAcc": "222383",
+      "scrnCnt": "744",
+      "showCnt": "1735",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261102_156%2F1793611254581KGg17_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "마이클 스피어리그",
+        "피터 스피어이그"
+      ],
+      "actors": [
+        "버지니아 가드너",
+        "그레이스 캐롤라인 커리",
+        "해리엇 슬레이터",
+        "아르세마 토마스",
+        "톰 브리트니"
+      ],
+      "genres": [
+        "스릴러",
+        "액션"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "98",
+      "movieNmEn": "Fall 2: Deadpoint"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20268264",
+      "movieNm": "임영웅ㅣ아임 히어로 더 스타디움 2",
+      "openDt": "2026-11-18",
+      "salesAmt": "394579000",
+      "salesShare": "11.8",
+      "salesInten": "185624000",
+      "salesChange": "88.8",
+      "salesAcc": "1421194000",
+      "audiCnt": "13525",
+      "audiInten": "5910",
+      "audiChange": "77.6",
+      "audiAcc": "51466",
+      "scrnCnt": "154",
+      "showCnt": "497",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "송두선",
+        "오윤동"
+      ],
+      "actors": [
+        "임영웅"
+      ],
+      "genres": [
+        "공연"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "144",
+      "movieNmEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20167904",
+      "movieNm": "라라랜드",
+      "openDt": "2016-12-07",
+      "salesAmt": "96948710",
+      "salesShare": "2.9",
+      "salesInten": "36164010",
+      "salesChange": "59.5",
+      "salesAcc": "32488343798",
+      "audiCnt": "8646",
+      "audiInten": "3208",
+      "audiChange": "59",
+      "audiAcc": "3896210",
+      "scrnCnt": "411",
+      "showCnt": "563",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261020_91%2F1792460397013BbaN3_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "데이미언 셔젤"
+      ],
+      "actors": [
+        "엠마 스톤",
+        "라이언 고슬링",
+        "핀 위트록",
+        "J.K. 시몬스",
+        "로즈마리 드윗"
+      ],
+      "genres": [
+        "드라마",
+        "뮤지컬",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "127",
+      "movieNmEn": "LA LA LAND"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "30",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20267846",
+      "movieNm": "극장판 마카앤로니: 기억탐험 대소동!",
+      "openDt": "2026-11-14",
+      "salesAmt": "65427800",
+      "salesShare": "2.0",
+      "salesInten": "63375100",
+      "salesChange": "3087.4",
+      "salesAcc": "313537300",
+      "audiCnt": "6786",
+      "audiInten": "6568",
+      "audiChange": "3012.8",
+      "audiAcc": "33798",
+      "scrnCnt": "199",
+      "showCnt": "369",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "우경민"
+      ],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "71",
+      "movieNmEn": "Maca and Roni The Movie: The Great Memory Exploration Adventure!"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20267697",
+      "movieNm": "명탐정 코난: 30호 살인 사건",
+      "openDt": "2026-11-05",
+      "salesAmt": "60368700",
+      "salesShare": "1.8",
+      "salesInten": "28658800",
+      "salesChange": "90.4",
+      "salesAcc": "1962060850",
+      "audiCnt": "5946",
+      "audiInten": "2819",
+      "audiChange": "90.2",
+      "audiAcc": "194392",
+      "scrnCnt": "208",
+      "showCnt": "318",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "카마나카 노부하루"
+      ],
+      "actors": [
+        "타카야마 미나미",
+        "야마구치 캇페이"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "미스터리"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "93",
+      "movieNmEn": "Detective Conan: The Counterfeit Case of Ultra 30"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "-3",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259894",
+      "movieNm": "최종면접",
+      "openDt": "2026-11-04",
+      "salesAmt": "58216750",
+      "salesShare": "1.7",
+      "salesInten": "6712300",
+      "salesChange": "13",
+      "salesAcc": "3187647570",
+      "audiCnt": "5863",
+      "audiInten": "47",
+      "audiChange": "0.8",
+      "audiAcc": "318755",
+      "scrnCnt": "508",
+      "showCnt": "831",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261104_237%2F1793779350600AsdpX_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "김정훈"
+      ],
+      "actors": [
+        "조이현",
+        "김재원",
+        "신승호",
+        "강유석",
+        "곽동연"
+      ],
+      "genres": [
+        "미스터리"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "107",
+      "movieNmEn": "Final Interview"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20267412",
+      "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+      "openDt": "2026-11-04",
+      "salesAmt": "48057150",
+      "salesShare": "1.4",
+      "salesInten": "27870850",
+      "salesChange": "138.1",
+      "salesAcc": "913639850",
+      "audiCnt": "4219",
+      "audiInten": "2485",
+      "audiChange": "143.3",
+      "audiAcc": "80595",
+      "scrnCnt": "125",
+      "showCnt": "214",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "신보 아키유키"
+      ],
+      "actors": [
+        "유키 아오이",
+        "사이토 치와"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "119",
+      "movieNmEn": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-"
+    }
+  ],
+  "weekly": [
+    {
+      "rnum": "1",
+      "rank": "1",
+      "rankInten": "27",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20247221",
+      "movieNm": "폭설",
+      "openDt": "2026-11-18",
+      "salesAmt": "4191100180",
+      "salesShare": "33.0",
+      "salesInten": "4156243180",
+      "salesChange": "11923.7",
+      "salesAcc": "4225957180",
+      "audiCnt": "419357",
+      "audiInten": "415516",
+      "audiChange": "10817.9",
+      "audiAcc": "423198",
+      "scrnCnt": "1244",
+      "showCnt": "21223",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261118_119%2F1794979332628OGobd_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "박선우",
+        "홍의정"
+      ],
+      "actors": [
+        "김윤석",
+        "구교환",
+        "박수영",
+        "노윤서",
+        "이혜진"
+      ],
+      "genres": [
+        "미스터리",
+        "드라마"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "88",
+      "movieNmEn": "White Blast"
+    },
+    {
+      "rnum": "2",
+      "rank": "2",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20261807",
+      "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+      "openDt": "2026-09-30",
+      "salesAmt": "1205612510",
+      "salesShare": "9.5",
+      "salesInten": "-393621460",
+      "salesChange": "-24.6",
+      "salesAcc": "31483861070",
+      "audiCnt": "120333",
+      "audiInten": "-39920",
+      "audiChange": "-24.9",
+      "audiAcc": "3069421",
+      "scrnCnt": "746",
+      "showCnt": "10646",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20260930_220%2F1790759565719kuNpx_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "오이카와 케이"
+      ],
+      "actors": [
+        "아오키 하루카",
+        "타나카 마코토",
+        "오자와 아리",
+        "이주은",
+        "손정민"
+      ],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "전체관람가",
+      "runtime": "98",
+      "movieNmEn": "Chiikawa the Movie: The Secret of the Mermaid Island"
+    },
+    {
+      "rnum": "3",
+      "rank": "3",
+      "rankInten": "-1",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264957",
+      "movieNm": "폴2: 데드포인트",
+      "openDt": "2026-11-11",
+      "salesAmt": "993683870",
+      "salesShare": "7.8",
+      "salesInten": "-386337540",
+      "salesChange": "-28.0",
+      "salesAcc": "2394691980",
+      "audiCnt": "100798",
+      "audiInten": "-37306",
+      "audiChange": "-27.0",
+      "audiAcc": "240826",
+      "scrnCnt": "744",
+      "showCnt": "10986",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261102_156%2F1793611254581KGg17_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "마이클 스피어리그",
+        "피터 스피어이그"
+      ],
+      "actors": [
+        "버지니아 가드너",
+        "그레이스 캐롤라인 커리",
+        "해리엇 슬레이터",
+        "아르세마 토마스",
+        "톰 브리트니"
+      ],
+      "genres": [
+        "스릴러",
+        "액션"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "98",
+      "movieNmEn": "Fall 2: Deadpoint"
+    },
+    {
+      "rnum": "4",
+      "rank": "4",
+      "rankInten": "43",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20267121",
+      "movieNm": "헝거게임 50번째 추첨의 날",
+      "openDt": "2026-11-18",
+      "salesAmt": "929042840",
+      "salesShare": "7.3",
+      "salesInten": "914047090",
+      "salesChange": "6095.4",
+      "salesAcc": "947316590",
+      "audiCnt": "90115",
+      "audiInten": "88895",
+      "audiChange": "7286.5",
+      "audiAcc": "91633",
+      "scrnCnt": "832",
+      "showCnt": "8845",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261016_240%2F1792127973544tGUf6_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "프란시스 로렌스"
+      ],
+      "actors": [
+        "조셉 자다",
+        "맥케나 그레이스",
+        "엘 패닝",
+        "랄프 파인즈",
+        "제시 플레먼스"
+      ],
+      "genres": [
+        "액션",
+        "스릴러",
+        "어드벤처"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "158",
+      "movieNmEn": "The Hunger Games: Sunrise on the Reaping"
+    },
+    {
+      "rnum": "5",
+      "rank": "5",
+      "rankInten": "0",
+      "rankOldAndNew": "NEW",
+      "movieCd": "20268264",
+      "movieNm": "임영웅ㅣ아임 히어로 더 스타디움 2",
+      "openDt": "2026-11-18",
+      "salesAmt": "1712619000",
+      "salesShare": "13.5",
+      "salesInten": "1712619000",
+      "salesChange": "100.0",
+      "salesAcc": "1712619000",
+      "audiCnt": "61861",
+      "audiInten": "61861",
+      "audiChange": "100.0",
+      "audiAcc": "61861",
+      "scrnCnt": "160",
+      "showCnt": "2499",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "송두선",
+        "오윤동"
+      ],
+      "actors": [
+        "임영웅"
+      ],
+      "genres": [
+        "공연"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "144",
+      "movieNmEn": "LIM YOUNG WOONGㅣIM HERO THE STADIUM 2"
+    },
+    {
+      "rnum": "6",
+      "rank": "6",
+      "rankInten": "0",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20167904",
+      "movieNm": "라라랜드",
+      "openDt": "2016-12-07",
+      "salesAmt": "462386860",
+      "salesShare": "3.6",
+      "salesInten": "-153079090",
+      "salesChange": "-24.9",
+      "salesAcc": "32572070788",
+      "audiCnt": "42507",
+      "audiInten": "-16364",
+      "audiChange": "-27.8",
+      "audiAcc": "3903544",
+      "scrnCnt": "524",
+      "showCnt": "4501",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261020_91%2F1792460397013BbaN3_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "데이미언 셔젤"
+      ],
+      "actors": [
+        "엠마 스톤",
+        "라이언 고슬링",
+        "핀 위트록",
+        "J.K. 시몬스",
+        "로즈마리 드윗"
+      ],
+      "genres": [
+        "드라마",
+        "뮤지컬",
+        "멜로/로맨스"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "127",
+      "movieNmEn": "LA LA LAND"
+    },
+    {
+      "rnum": "7",
+      "rank": "7",
+      "rankInten": "-4",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20259894",
+      "movieNm": "최종면접",
+      "openDt": "2026-11-04",
+      "salesAmt": "400419630",
+      "salesShare": "3.2",
+      "salesInten": "-773229050",
+      "salesChange": "-65.9",
+      "salesAcc": "3255856220",
+      "audiCnt": "41983",
+      "audiInten": "-74512",
+      "audiChange": "-64.0",
+      "audiAcc": "325273",
+      "scrnCnt": "605",
+      "showCnt": "6485",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261104_237%2F1793779350600AsdpX_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "김정훈"
+      ],
+      "actors": [
+        "조이현",
+        "김재원",
+        "신승호",
+        "강유석",
+        "곽동연"
+      ],
+      "genres": [
+        "미스터리"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "15세이상관람가",
+      "runtime": "107",
+      "movieNmEn": "Final Interview"
+    },
+    {
+      "rnum": "8",
+      "rank": "8",
+      "rankInten": "-3",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20267697",
+      "movieNm": "명탐정 코난: 30호 살인 사건",
+      "openDt": "2026-11-05",
+      "salesAmt": "262694000",
+      "salesShare": "2.1",
+      "salesInten": "-393057450",
+      "salesChange": "-59.9",
+      "salesAcc": "2013146750",
+      "audiCnt": "26105",
+      "audiInten": "-39086",
+      "audiChange": "-60.0",
+      "audiAcc": "199460",
+      "scrnCnt": "248",
+      "showCnt": "2806",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "카마나카 노부하루"
+      ],
+      "actors": [
+        "타카야마 미나미",
+        "야마구치 캇페이"
+      ],
+      "genres": [
+        "애니메이션",
+        "액션",
+        "미스터리"
+      ],
+      "nations": [
+        "일본"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "93",
+      "movieNmEn": "Detective Conan: The Counterfeit Case of Ultra 30"
+    },
+    {
+      "rnum": "9",
+      "rank": "9",
+      "rankInten": "-5",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20264498",
+      "movieNm": "하트 오브 비스트",
+      "openDt": "2026-10-28",
+      "salesAmt": "202575080",
+      "salesShare": "1.6",
+      "salesInten": "-512709140",
+      "salesChange": "-71.7",
+      "salesAcc": "4636469230",
+      "audiCnt": "20995",
+      "audiInten": "-51789",
+      "audiChange": "-71.2",
+      "audiAcc": "473530",
+      "scrnCnt": "552",
+      "showCnt": "3909",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=304x456&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20261028_22%2F1793169988524vG2es_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "데이비드 에이어"
+      ],
+      "actors": [
+        "브래드 피트",
+        "J.K. 시몬스"
+      ],
+      "genres": [
+        "드라마",
+        "액션"
+      ],
+      "nations": [
+        "미국"
+      ],
+      "rating": "12세이상관람가",
+      "runtime": "101",
+      "movieNmEn": "Heart of the Beast"
+    },
+    {
+      "rnum": "10",
+      "rank": "10",
+      "rankInten": "-2",
+      "rankOldAndNew": "OLD",
+      "movieCd": "20267846",
+      "movieNm": "극장판 마카앤로니: 기억탐험 대소동!",
+      "openDt": "2026-11-14",
+      "salesAmt": "148600500",
+      "salesShare": "1.2",
+      "salesInten": "-84417200",
+      "salesChange": "-36.2",
+      "salesAcc": "383250200",
+      "audiCnt": "15620",
+      "audiInten": "-9657",
+      "audiChange": "-38.2",
+      "audiAcc": "41101",
+      "scrnCnt": "199",
+      "showCnt": "1052",
+      "poster_url": "",
+      "synopsis": "",
+      "naver_rating": "",
+      "directors": [
+        "우경민"
+      ],
+      "actors": [],
+      "genres": [
+        "애니메이션"
+      ],
+      "nations": [
+        "한국"
+      ],
+      "rating": "전체관람가",
+      "runtime": "71",
+      "movieNmEn": "Maca and Roni The Movie: The Great Memory Exploration Adventure!"
+    }
+  ]
 }
